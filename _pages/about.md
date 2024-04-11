@@ -17,16 +17,20 @@ My research interests include：
 - multisensor fusion
 - autonomous robot navigation.
 
+---
 # 📖 Educations
+---
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 🔥News
+---
+# 🔥 News
 ---
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.09*: &nbsp;Admission to CASIA for a Ph.D. program without examination.
 
+---
 # 📝 Publications 
 ---
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='../images/500x300.png' alt="sym" width="50%"></div></div>
@@ -62,7 +66,8 @@ My research interests include：
   </tr>
 </tbody></table>
 
-# 🎖 Honors and Awards
+---
+# 🏆 Honors and Awards
 ---
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
