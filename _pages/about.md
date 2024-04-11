@@ -27,9 +27,9 @@ My research interests include：
 ---
 # 🔥 News
 ---
-- *2024.03.21*：&nbsp;🎉🎉 Publish a paper in TSMC!😊😊
-- *2023.11.25*：&nbsp;🎉🎉 A paper accepted by TIV!😊😊
-- *2023.10.06*：&nbsp;🎉🎉 A paper accepted by TII!😊😊
+- *2024.03.21*: &nbsp;🎉🎉 Publish a paper in TSMC!😊😊
+- *2023.11.25*: &nbsp;🎉🎉 A paper accepted by TIV!😊😊
+- *2023.10.06*: &nbsp;🎉🎉 A paper accepted by TII!😊😊
 - *2023.03.27*: &nbsp;🎉🎉 Publish a paper in TIM!😊😊
 - *2023.03.09*: &nbsp;🎉🎉 Successfully selected for the PHD experimental class of CASIA!😊😊
 - *2021.07.29*: &nbsp;🎉🎉 Participation in the China Control Conference in Shanghai,China!😊😊
@@ -77,7 +77,7 @@ My research interests include：
 ---
 # 🏆 Honors and Awards
 ---
-- *2023*:&nbsp; 📜Successfully selected for the PHD experimental class of CASIA (**Only 8 PHDs are selected each year.**)
+- *2023*:&nbsp; 📜Successfully selected for the PHD experimental class of CASIA (**only 8 PHDs are selected each year.**)
 - *2022*:&nbsp; 🥇China ICV Algorithms Challenge(**1st place, 4w RMB**)
 - *2022*:&nbsp; 📜Three Good Students Award of UCAS (**top 10%**)
 - *2021*:&nbsp; 🏆Shandong Province 2nd Data Application Innovation and Entrepreneurship Competition (**excellence award, 9/453, 2.5k RMB**)
