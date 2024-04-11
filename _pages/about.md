@@ -16,12 +16,13 @@ My research interests include：
 - multi-sensor fusion SLAM
 - autonomous robot navigation
 
-
 ---
 # 📖 Educations
 ---
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2026.06*,&nbsp; Institute of Automation, Chinese Academy of Sciences
+- *2021.09 - 2022.06*,&nbsp; School of Artificial Intelligence, University of Chinese Academy of Sciences
+- *2018.06 - 2021.06*,&nbsp; Department of Robotics Engineering, School of Automation, Southeast University
+- *2017.09 - 2018.06*,&nbsp; School of Materials Science and Engineering, Southeast University
 
 ---
 # 🔥 News
@@ -72,5 +73,15 @@ My research interests include：
 ---
 # 🏆 Honors and Awards
 ---
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023*:&nbsp; Successfully selected for the PHD experimental class of CASIA (**8/256**)
+- *2022*:&nbsp; China ICV Algorithms Challenge(**1st place, 4w RMB**)
+- *2022*:&nbsp; Three Good Students Award of University of Chinese Academy of Sciences
+- *2021*:&nbsp; Shandong Province 2nd Data Application Innovation and Entrepreneurship Competition (**9/453, 2.5k RMB**)
+- *2021*:&nbsp; Outstanding Graduate Student Award of Southeast University (**Top 3%**)
+- *2020*:&nbsp; National College Students Intelligent Vehicle Competition (**national 2nd prize**)
+- *2019*:&nbsp; RoboCup Robotics World Cup (China Region) (**national 1st prize**)
+- *2019*:&nbsp; National College Students Electronic Design Competition (**national 2nd prize**)
+- *2019*:&nbsp; The 10th Robot Competition Jiangsu Province (**provincial 1st prize**)
+- *2019*:&nbsp; Three Good Students Award of Southeast University
+- *2018*:&nbsp; The 9th Robot Competition Jiangsu Province (**provincial 1st prize**)
+- *2016*:&nbsp; High School Mathematics Olympiad, Anhui Province (**provincial 2nd prize**)
