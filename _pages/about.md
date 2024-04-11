@@ -27,9 +27,11 @@ My research interests include：
 ---
 # 🔥 News
 ---
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2023.03*: &nbsp;🎉🎉 Successfully selected for the PHD experimental class of CASIA (**8/256**)
-- *2021.09*: &nbsp;Admission to CASIA for a Ph.D. program without examination.
+- *2024。03.21*：&nbsp;🎉🎉 Publish a paper in TSMC😊😊
+- *2023.12.03*：&nbsp;🎉🎉 A paper accepted by TII!😊😊
+- *2023.03.27*: &nbsp;🎉🎉 Publish a paper in TIM!😊😊
+- *2023.03.09*: &nbsp;🎉🎉 Successfully selected for the PHD experimental class of CASIA.😊😊
+- *2021.07.29*: &nbsp;🎉🎉 Participation in the China Control Conference in Shanghai,China😊😊
 
 ---
 # 📝 Publications 
