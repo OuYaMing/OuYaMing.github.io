@@ -28,7 +28,7 @@ My research interests include：
 # 🔥 News
 ---
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2023.03*: &nbsp;🎉🎉 Successfully selected for the PHD experimental class of CASIA (**8/256**)
 - *2021.09*: &nbsp;Admission to CASIA for a Ph.D. program without examination.
 
 ---
@@ -75,13 +75,13 @@ My research interests include：
 ---
 - *2023*:&nbsp; Successfully selected for the PHD experimental class of CASIA (**8/256**)
 - *2022*:&nbsp; China ICV Algorithms Challenge(**1st place, 4w RMB**)
-- *2022*:&nbsp; Three Good Students Award of University of Chinese Academy of Sciences
+- *2022*:&nbsp; Three Good Students Award of University of Chinese Academy of Sciences (**top 10%**)
 - *2021*:&nbsp; Shandong Province 2nd Data Application Innovation and Entrepreneurship Competition (**9/453, 2.5k RMB**)
-- *2021*:&nbsp; Outstanding Graduate Student Award of Southeast University (**Top 3%**)
+- *2021*:&nbsp; Outstanding Graduate Student Award of Southeast University (**top 3%**)
 - *2020*:&nbsp; National College Students Intelligent Vehicle Competition (**national 2nd prize**)
 - *2019*:&nbsp; RoboCup Robotics World Cup (China Region) (**national 1st prize**)
 - *2019*:&nbsp; National College Students Electronic Design Competition (**national 2nd prize**)
 - *2019*:&nbsp; The 10th Robot Competition Jiangsu Province (**provincial 1st prize**)
-- *2019*:&nbsp; Three Good Students Award of Southeast University
+- *2019*:&nbsp; Three Good Students Award of Southeast University (**top 10%**)
 - *2018*:&nbsp; The 9th Robot Competition Jiangsu Province (**provincial 1st prize**)
 - *2016*:&nbsp; High School Mathematics Olympiad, Anhui Province (**provincial 2nd prize**)
