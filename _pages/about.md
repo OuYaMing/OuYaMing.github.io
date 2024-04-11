@@ -11,16 +11,23 @@ I am **Yaming Ou** (**欧亚明**), a **3<sup>rd</sup>-year Ph.D.** student with
 
 I graduated from the School of Automation at Southeast University (**[SEU, 985](https://www.seu.edu.cn/)**) with a Bachelor's degree in Robotics Engineering (**GPA rank: 2/34**).
 
-My research interests include underwater 3D vision, SLAM, multisensor fusion, and autonomous robot navigation.
+My research interests include：
+- underwater 3D vision,
+- SLAM
+- multisensor fusion
+- autonomous robot navigation.
 
 # 🔥News
-======
-1. 2021.9 Admission to CASIA for a Ph.D. program without examination.
+---
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2021.09*: &nbsp;Admission to CASIA for a Ph.D. program without examination.
 
 # 📝 Publications 
+---
+
 
 # 🎖 Honors and Awards
+---
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
