@@ -42,29 +42,31 @@ My research interests include：
 </div>
 </div>
 -->
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody></tbody>
-  <tr>
-    <td style="padding:20px;width:30%;vertical-align:middle">
-      <img src="../images/500x300.png" alt="clean-usnob" width="500" height="300">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
-      <a href="https://arxiv.org/abs/2303.11846" target="_blank">
-        <papertitle>Dynamic models for Planar Peristaltic Locomotion of a Metameric Earthworm-like Robot</papertitle>
-      </a>
-      <br>
-      Qinyan Zhou,
-      Hongbin Fang,
-      <strong>Zhihai Bi</strong>,
-      Jian Xu
-      <br>
-      <em> 	arXiv:2303.11846 </em>, 2023
-      <br>
-      <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10011960/" target="_blank">paper</a> -->
-      <p>The proposed model represents a significant advancement in the field of metameric robotics and has the potential to enhance the performance 
-         of earthworm-like robots in a variety of challenging environments.</p>
-    </td>
-  </tr>
-</tbody></table>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:30%;vertical-align:middle;">
+        <img src="../images/500x300.png" alt="clean-usnob" width="500" height="300">
+      </td>
+      <td style="padding:20px;width:70%;vertical-align:middle;">
+        <a href="https://arxiv.org/abs/2303.11846" target="_blank">
+          <papertitle>Dynamic models for Planar Peristaltic Locomotion of a Metameric Earthworm-like Robot</papertitle>
+        </a>
+        <br>
+        Qinyan Zhou,
+        Hongbin Fang,
+        <strong>Zhihai Bi</strong>,
+        Jian Xu
+        <br>
+        <em>arXiv:2303.11846</em>, 2023
+        <br>
+        <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10011960/" target="_blank">paper</a> -->
+        <p>The proposed model represents a significant advancement in the field of metameric robotics and has the potential to enhance the performance of earthworm-like robots in a variety of challenging environments.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 # 🏆 Honors and Awards
