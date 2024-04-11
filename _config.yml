@@ -21,7 +21,7 @@ repository               : "OuYaMing/ouyaming.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/zhengjianzhao.png"
+  avatar           : "zhengjianzhao.png"
   name             : "YamingOu"
   pronouns         : # example: "she/her"  
   bio              : "good good study, day day up."
