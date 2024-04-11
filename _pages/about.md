@@ -42,13 +42,13 @@ My research interests include：
 </div>
 </div>
 -->
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
     <tr>
-      <td style="padding:20px;width:30%;vertical-align:middle;">
+      <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
         <img src="../images/500x300.png" alt="clean-usnob" width="500" height="300">
       </td>
-      <td style="padding:20px;width:70%;vertical-align:middle;">
+      <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
         <a href="https://arxiv.org/abs/2303.11846" target="_blank">
           <papertitle>Dynamic models for Planar Peristaltic Locomotion of a Metameric Earthworm-like Robot</papertitle>
         </a>
@@ -66,6 +66,7 @@ My research interests include：
     </tr>
   </tbody>
 </table>
+
 
 
 ---
