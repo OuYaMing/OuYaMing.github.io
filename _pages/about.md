@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+---
+# 👤 About me
+---
 I am **Yaming Ou** (**欧亚明**), a **3rd-year Ph.D.** student with the Laboratory of Cognition and Decision Intelligence for Complex Systems, Institute of Automation, Chinese Academy of Sciences (**[CASIA](http://www.ia.cas.cn/)**), Beijing 100190, China, and also with the School of Artificial Intelligence, University of Chinese Academy of Sciences (**[UCAS](https://www.ucas.edu.cn/)**), Beijing 100049, China. 
 
 I graduated from the School of Automation at Southeast University (**[SEU, 985](https://www.seu.edu.cn/)**) with a Bachelor's degree in Robotics Engineering (**GPA Rank: 2/34**).
@@ -17,67 +20,40 @@ My research interests include：
 - autonomous robot navigation
 
 ---
-# 📖 Educations
----
-- *2022.09 - 2026.06*,&nbsp; Institute of Automation, Chinese Academy of Sciences
-- *2021.09 - 2022.06*,&nbsp; School of Artificial Intelligence, University of Chinese Academy of Sciences
-- *2018.06 - 2021.06*,&nbsp; Department of Robotics Engineering, School of Automation, Southeast University
-- *2017.09 - 2018.06*,&nbsp; School of Materials Science and Engineering, Southeast University
-
----
 # 🔥 News
 ---
-- *2024.03.21*: &nbsp;🎉🎉 Publish a paper in TSMC!😊😊
-- *2023.11.25*: &nbsp;🎉🎉 A paper accepted by TIV!😊😊
-- *2023.10.06*: &nbsp;🎉🎉 A paper accepted by TII!😊😊
-- *2023.03.27*: &nbsp;🎉🎉 Publish a paper in TIM!😊😊
-- *2023.03.09*: &nbsp;🎉🎉 Successfully selected for the PHD experimental class of CASIA!😊😊
-- *2021.07.29*: &nbsp;🎉🎉 Participation in the China Control Conference in Shanghai,China!😊😊
-- *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊😊
+- *2024.03.21*: &nbsp; Publish a paper in TSMC!😊😊
+- *2023.11.25*: &nbsp;🎉A paper accepted by TIV!😊
+- *2023.10.06*: &nbsp; A paper accepted by TII!🎉
+- *2023.03.27*: &nbsp;😊 Publish a paper in TIM!😊
+- *2023.03.09*: &nbsp;🎉 Successfully selected for the PHD experimental class of CASIA!🎉
+- *2021.07.29*: &nbsp;😊 Participation in the China Control Conference in Shanghai,China!🎉🎉
+- *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊
+
+---
+# 📖 Educations
+---
+- *2022.09 - 2026.06*,&nbsp; Institute of Automation, Chinese Academy of Sciences (**Ph.D.**)
+- *2021.09 - 2022.06*,&nbsp; School of Artificial Intelligence, University of Chinese Academy of Sciences (**Ph.D.**)
+- *2018.06 - 2021.06*,&nbsp; Department of Robotics Engineering, School of Automation, Southeast University (**B.E.**)
+- *2017.09 - 2018.06*,&nbsp; School of Materials Science and Engineering, Southeast University (**B.E.**)
 
 ---
 # 📝 Publications 
 ---
-<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='../images/500x300.png' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
+For a more detailed presentation, see [publications](https://ouyaming.github.io/publications/) and project.
 
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-
-</div>
-</div>
--->
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-  <tbody>
-    <tr>
-      <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
-        <img src="../images/500x300.png" alt="clean-usnob" width="500" height="300">
-      </td>
-      <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
-        <a href="https://arxiv.org/abs/2303.11846" target="_blank">
-          <papertitle>Dynamic models for Planar Peristaltic Locomotion of a Metameric Earthworm-like Robot</papertitle>
-        </a>
-        <br>
-        Qinyan Zhou,
-        Hongbin Fang,
-        <strong>Zhihai Bi</strong>,
-        Jian Xu
-        <br>
-        <em>arXiv:2303.11846</em>, 2023
-        <br>
-        <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10011960/" target="_blank">paper</a> -->
-        <p>The proposed model represents a significant advancement in the field of metameric robotics and has the potential to enhance the performance of earthworm-like robots in a variety of challenging environments.</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
+(**<sup>*</sup>** indicates corresponding author)
+1. **Y. Ou** et al., "Structured Light-Based Underwater Collision-Free Navigation and Dense Mapping System for Refined Exploration in Unknown Dark Environments," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2024.3370917. (**SCI, JCR Q1, 中科院一区Top, IF=8.7**)
+2. **Y. Ou**, J. Fan, C. Zhou, L. Cheng and M. Tan, "Water-MBSL: Underwater Movable Binocular Structured Light-Based High-Precision Dense Reconstruction Framework," in IEEE Transactions on Industrial Informatics, vol. 20, no. 4, pp. 6142-6154, April 2024, doi: 10.1109/TII.2023.3342899. (**SCI, JCR Q1, 中科院一区Top, IF=12.3**)
+3. **Y. Ou**, J. Fan, C. Zhou, S. Tian, L. Cheng and M. Tan, "Binocular Structured Light 3-D Reconstruction System for Low-Light Underwater Environments: Design, Modeling, and Laser-Based Calibration," in IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-14, 2023, Art no. 5010314, doi: 10.1109/TIM.2023.3261941. (**SCI, JCR Q1, 中科院二区Top, IF=5.6**)
+4. J. Fan, **Y. Ou<sup>*</sup>**, X. Li, C. Zhou and Z. Hou, "Structured light vision based pipeline tracking and 3D reconstruction method for underwater vehicle," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3340737. (**corresponding author, SCI, JCR Q1, 中科院一区，IF=8.2**)
+5. **Y. Ou**, Z. Zhang, C. Zhou and B. Zhou, "Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM," 2021 40th Chinese Control Conference (CCC), Shanghai, China, 2021, pp. 4308-4314, doi: 10.23919/CCC52363.2021.9549820. (**EI**)
 
 ---
 # 🏆 Honors and Awards
 ---
-- *2023*:&nbsp; 📜Successfully selected for the PHD experimental class of CASIA (**only 8 PHDs are selected each year.**)
+- *2023*:&nbsp; 📜Successfully selected for the PHD experimental class of CASIA (**only 8 PHDs are selected each year**)
 - *2022*:&nbsp; 🥇China ICV Algorithms Challenge(**1st place, 4w RMB**)
 - *2022*:&nbsp; 📜Three Good Students Award of UCAS (**top 10%**)
 - *2021*:&nbsp; 🏆Shandong Province 2nd Data Application Innovation and Entrepreneurship Competition (**excellence award, 9/453, 2.5k RMB**)
