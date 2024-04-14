@@ -38,7 +38,7 @@ My research interests include：underwater 3D vision, multi-sensor fusion SLAM, 
 ---
 # 📝 Publications 
 ---
-For a more detailed presentation, see [Publications](https://ouyaming.github.io/publications/) and Projects.
+For a more detailed presentation, see [Publications](https://ouyaming.github.io/publications/) and [Projects](https://ouyaming.github.io/projects/).
 
 (**<sup>*</sup>** indicates corresponding author)
 1. **Y. Ou** et al., "Structured Light-Based Underwater Collision-Free Navigation and Dense Mapping System for Refined Exploration in Unknown Dark Environments," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2024.3370917. (**SCI, JCR Q1, 中科院一区Top, IF=8.7**)
