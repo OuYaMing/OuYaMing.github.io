@@ -15,7 +15,7 @@ I am **Yaming Ou** (**欧亚明**), a **3rd-year Ph.D.** student with the Labora
 I graduated from the School of Automation at Southeast University (**[SEU, 985](https://www.seu.edu.cn/)**) with a Bachelor's degree in Robotics Engineering (**GPA Rank: 2/34**).
 
 My research interests include：underwater 3D vision, multi-sensor fusion SLAM, autonomous robot navigation.
-
+<!--
 ---
 # 🔥 News
 ---
@@ -26,7 +26,7 @@ My research interests include：underwater 3D vision, multi-sensor fusion SLAM, 
 - *2023.03.09*: &nbsp;🎉 Successfully selected for the PHD experimental class of CASIA!🎉
 - *2021.07.29*: &nbsp;😊 Participation in the China Control Conference in Shanghai,China!🎉🎉
 - *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊
-
+ -->
 ---
 # 📖 Educations
 ---
