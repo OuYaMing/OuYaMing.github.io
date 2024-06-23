@@ -20,7 +20,8 @@ My research interests include：underwater 3D vision, multi-sensor fusion SLAM, 
 ---
 # 🔥 News
 ---
-- *2024.04.21*: &nbsp; Recognized as an Outstanding Student Leader of UCAS
+- *2024.06.14*: &nbsp; Invited by TIV to review a paper related to autonomous driving🎉🎉
+- *2024.05.30*: &nbsp; 🎉😊Recognized as an outstanding student leader of UCAS
 - *2024.03.21*: &nbsp; Publish a paper in TSMC!😊😊
 - *2023.11.25*: &nbsp;🎉A paper accepted by TIV!😊
 - *2023.10.06*: &nbsp; A paper accepted by TII!🎉
