@@ -31,7 +31,7 @@ My research interests include：underwater 3D vision, multi-sensor fusion SLAM, 
 ---
 # 📖 Educations
 ---
-- *2022.09 - 2026.06*:&nbsp; Institute of Automation, Chinese Academy of Sciences (**Ph.D.**)
+- *2022.09 - 2026.06(expected)*:&nbsp; Institute of Automation, Chinese Academy of Sciences (**Ph.D.**)
 - *2021.09 - 2022.06*:&nbsp; School of Artificial Intelligence, University of Chinese Academy of Sciences (**Ph.D.**)
 - *2018.06 - 2021.06*:&nbsp; Department of Robotics Engineering, School of Automation, Southeast University (**B.E.**)
 - *2017.09 - 2018.06*:&nbsp; School of Materials Science and Engineering, Southeast University (**B.E.**)
@@ -52,10 +52,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 # 🏆 Honors and Awards
 ---
 - *2024*:&nbsp; 📜Outstanding Student Leader Award of UCAS (**top 2%**)
-- *2023*:&nbsp; 📜Successfully selected for the PHD experimental class of CASIA (**only 8 PHDs are selected each year**)
-- *2022*:&nbsp; 🥇China ICV Algorithms Challenge(**1st place, 4w RMB**)
+- *2023*:&nbsp; 📜Selected for the PHD experimental class of CASIA (**8/276, 5W RMB scholarships each year**)
+- *2022*:&nbsp; 🥇China ICV Algorithms Challenge(**1st place, 4W RMB award**)
 - *2022*:&nbsp; 📜Three Good Students Award of UCAS (**top 10%**)
-- *2021*:&nbsp; 🏆Shandong Province 2nd Data Application Innovation and Entrepreneurship Competition (**excellence award, 9/453, 2.5k RMB**)
+- *2021*:&nbsp; 🏆Data Application Innovation and Entrepreneurship Competition (**merit award, 9/453, 2.5K RMB prize**)
 - *2021*:&nbsp; 📜Outstanding Graduate Student Award of Southeast University (**top 3%**)
 - *2020*:&nbsp; 🥈National College Students Intelligent Vehicle Competition (**national 2nd prize**)
 - *2020*:&nbsp; 📜China National Inspiration Scholarship (**3.22%**)
