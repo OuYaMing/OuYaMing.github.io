@@ -51,6 +51,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 ---
 # 🏆 Honors and Awards
 ---
+- *2024*:&nbsp; 📜Outstanding Student Leader Award of UCAS (**top 2%**)
 - *2023*:&nbsp; 📜Successfully selected for the PHD experimental class of CASIA (**only 8 PHDs are selected each year**)
 - *2022*:&nbsp; 🥇China ICV Algorithms Challenge(**1st place, 4w RMB**)
 - *2022*:&nbsp; 📜Three Good Students Award of UCAS (**top 10%**)
