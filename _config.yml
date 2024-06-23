@@ -214,7 +214,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  Chinese:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -258,6 +260,15 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _Chinese
+  - scope:
+      path: ""
+      type: Chinese
     values:
       layout: single
       author_profile: true
