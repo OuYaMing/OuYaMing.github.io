@@ -25,6 +25,7 @@ My research interests include：underwater 3D vision, multi-sensor fusion SLAM, 
 - *2024.03.21*: &nbsp; Publish a paper in TSMC!😊😊
 - *2023.11.25*: &nbsp;🎉A paper accepted by TIV!😊
 - *2023.10.06*: &nbsp; A paper accepted by TII!🎉
+- *2021.06.15*: &nbsp;🎉🎉Invited by IEEE Sensor to review a paper related to camera-imu calibration😊
 - *2023.03.27*: &nbsp;😊 Publish a paper in TIM!😊
 - *2023.03.09*: &nbsp;🎉 Successfully selected for the PHD experimental class of CASIA!🎉
 - *2021.07.29*: &nbsp;😊 Participation in the China Control Conference in Shanghai,China!🎉🎉
