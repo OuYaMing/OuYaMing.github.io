@@ -20,6 +20,7 @@ My research interests include：underwater 3D vision, multi-sensor fusion SLAM, 
 ---
 # 🔥 News
 ---
+- *2024.04.21*: &nbsp; Recognized as an Outstanding Student Leader of UCAS
 - *2024.03.21*: &nbsp; Publish a paper in TSMC!😊😊
 - *2023.11.25*: &nbsp;🎉A paper accepted by TIV!😊
 - *2023.10.06*: &nbsp; A paper accepted by TII!🎉
@@ -61,7 +62,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 - *2020*:&nbsp; 📜China National Inspiration Scholarship (**3.22%**)
 - *2019*:&nbsp; 🥇RoboCup Robotics World Cup (China Region) (**national 1st prize**)
 - *2019*:&nbsp; 🥈National College Students Electronic Design Competition (**national 2nd prize**)
-- *2019*:&nbsp; 🥇The 10th Robot Competition Jiangsu Province (**provincial 1st prize**)
+- *2019*:&nbsp; 🥇The 10th Robot Competition of Jiangsu Province (**provincial 1st prize**)
 - *2019*:&nbsp; 📜Three Good Students Award of Southeast University (**top 10%**)
-- *2018*:&nbsp; 🥇The 9th Robot Competition Jiangsu Province (**provincial 1st prize**)
-- *2016*:&nbsp; 🥈High School Mathematics Olympiad, Anhui Province (**provincial 2nd prize**)
+- *2018*:&nbsp; 🥇The 9th Robot Competition of Jiangsu Province (**provincial 1st prize**)
+- *2016*:&nbsp; 🥈High School Mathematics Olympiad Competition, Anhui Province (**provincial 2nd prize**)
