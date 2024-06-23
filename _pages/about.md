@@ -49,6 +49,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 3. **Y. Ou**, J. Fan, C. Zhou, S. Tian, L. Cheng and M. Tan, "Binocular Structured Light 3-D Reconstruction System for Low-Light Underwater Environments: Design, Modeling, and Laser-Based Calibration," in IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-14, 2023, Art no. 5010314, doi: 10.1109/TIM.2023.3261941. (**SCI, JCR Q1, 中科院二区Top, IF=5.6**)
 4. J. Fan, **Y. Ou<sup>*</sup>**, X. Li, C. Zhou and Z. Hou, "Structured light vision based pipeline tracking and 3D reconstruction method for underwater vehicle," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3340737. (**corresponding author, SCI, JCR Q1, 中科院一区，IF=8.2**)
 5. **Y. Ou**, Z. Zhang, C. Zhou and B. Zhou, "Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM," 2021 40th Chinese Control Conference (CCC), Shanghai, China, 2021, pp. 4308-4314, doi: 10.23919/CCC52363.2021.9549820. (**EI**)
+6. **Y. Ou**, J. Fan, et al. "Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV," in IEEE Transactions on Industrial Electronics, 2024. (**Major Revision**)
 
 ---
 # 🏆 Honors and Awards
