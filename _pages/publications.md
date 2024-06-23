@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- 下面代码遍历_publications文件夹下的论文列表 -->
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
