@@ -27,3 +27,26 @@ author_profile: true
     <p>  <a  href="https://github.com/Zhihaibi/Lateral_control" target="_blank">Code</a></p>
   </td>
 </tr>
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+  <tr>
+  <td style="padding:10px;width:50%;vertical-align:middle;line-height:20px">
+    <p style="text-align:center">
+      <video width="480" height="300" controls="controls">
+        <source src="/projects/Crazyfile/Crazyfile小型无人机.mp4" type="video/mp4" />
+      </video>
+    </p>
+  </td>
+  <td style="padding:20px;width:50%;vertical-align:middle;line-height:30px">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10011960/" target="_blank">
+      <papertitle>Crazyfile Indoor UAV</papertitle>
+    </a>
+    <p> <strong>Introduction:</strong>UAV matlab simulation and flight test.</p>
+    <strong>Related skills: </strong> <br> 
+    Vicon/Optitrack, <br>
+    Matlab, <br>
+    ROS
+    <br>
+  </td>
+</tr>
+</tbody></table>
