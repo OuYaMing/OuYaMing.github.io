@@ -31,7 +31,7 @@ My research interests include：underwater 3D vision, multi-sensor fusion SLAM, 
 - *2023.03.09*: &nbsp;🎉 Successfully selected for the PHD experimental class of CASIA!🎉
 - *2021.07.29*: &nbsp;😊 Participation in the China Control Conference in Shanghai,China!🎉🎉
 - *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊-->
-<div style="max-height: 200px; overflow-y: auto; font-family: 'Times New Roman', Times, serif; font-size: 12pt;">
+<div style="max-height: 150px; overflow-y: auto; font-family: 'Times New Roman', Times, serif; font-size: 11.5pt;">
 
 2024.06.14: &nbsp; Invited by TIV to review a paper related to autonomous driving🎉🎉  
 <br>
