@@ -31,27 +31,27 @@ My research interests include：underwater 3D vision, multi-sensor fusion SLAM, 
 - *2023.03.09*: &nbsp;🎉 Successfully selected for the PHD experimental class of CASIA!🎉
 - *2021.07.29*: &nbsp;😊 Participation in the China Control Conference in Shanghai,China!🎉🎉
 - *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊-->
-<div style="max-height: 200px; overflow-y: auto; font-family: 'Times New Roman', Times, serif; font-size: 13pt;">
+<div style="max-height: 200px; overflow-y: auto; font-family: 'Times New Roman', Times, serif; font-size: 12pt;">
 
-- *2024.06.14*: &nbsp; Invited by TIV to review a paper related to autonomous driving🎉🎉  
+2024.06.14: &nbsp; Invited by TIV to review a paper related to autonomous driving🎉🎉  
 <br>
-- *2024.05.30*: &nbsp; 🎉😊Recognized as an outstanding student leader of UCAS  
+2024.05.30: &nbsp; 🎉😊Recognized as an outstanding student leader of UCAS  
 <br>
-- *2024.03.21*: &nbsp; Publish a paper in TSMC!😊😊  
+2024.03.21: &nbsp; Publish a paper in TSMC!😊😊  
 <br>
-- *2023.11.25*: &nbsp;🎉A paper accepted by TIV!😊  
+2023.11.25: &nbsp;🎉A paper accepted by TIV!😊  
 <br>
-- *2023.10.06*: &nbsp; A paper accepted by TII!🎉  
+2023.10.06: &nbsp; A paper accepted by TII!🎉  
 <br>
-- *2021.06.15*: &nbsp;🎉🎉Invited by IEEE Sensor to review a paper related to camera-imu calibration😊  
+2021.06.15: &nbsp;🎉🎉Invited by IEEE Sensor to review a paper related to camera-imu calibration😊  
 <br>
-- *2023.03.27*: &nbsp;😊 Publish a paper in TIM!😊  
+2023.03.27: &nbsp;😊 Publish a paper in TIM!😊  
 <br>
-- *2023.03.09*: &nbsp;🎉 Successfully selected for the PHD experimental class of CASIA!🎉  
+2023.03.09: &nbsp;🎉 Successfully selected for the PHD experimental class of CASIA!🎉  
 <br>
-- *2021.07.29*: &nbsp;😊 Participation in the China Control Conference in Shanghai,China!🎉🎉  
+2021.07.29: &nbsp;😊 Participation in the China Control Conference in Shanghai,China!🎉🎉  
 <br>
-- *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊  
+2021.06.31: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊  
 
 </div>
 
