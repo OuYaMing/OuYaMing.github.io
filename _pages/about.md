@@ -78,7 +78,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 6. **Y. Ou**, J. Fan, et al. "Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV," in IEEE Transactions on Industrial Electronics, 2024. (**Major Revision, SCI, JCR Q1, 中科院一区，IF=7.6**)
 
 ---
-# 🔏 🛡️Patents 
+# 🛡️ Patents 
 ---
 1. Zhou C, **Ou Y**, Fan J, et al, Underwater Mobile Dense Mapping Platform and Mapping Method Based on Binocular Structured Light. Chinese Patent, CN117893675A.
 2. Zhou C, **Ou Y**, Fan J, et al, A Simultaneous Localization System and Method for Underwater Robots. Chinese Patent, KHP2411116437.0.
