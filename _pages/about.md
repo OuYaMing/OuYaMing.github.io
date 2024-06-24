@@ -20,6 +20,7 @@ My research interests include：underwater 3D vision, multi-sensor fusion SLAM, 
 ---
 # 🔥 News
 ---
+<!-- 
 - *2024.06.14*: &nbsp; Invited by TIV to review a paper related to autonomous driving🎉🎉
 - *2024.05.30*: &nbsp; 🎉😊Recognized as an outstanding student leader of UCAS
 - *2024.03.21*: &nbsp; Publish a paper in TSMC!😊😊
@@ -29,12 +30,8 @@ My research interests include：underwater 3D vision, multi-sensor fusion SLAM, 
 - *2023.03.27*: &nbsp;😊 Publish a paper in TIM!😊
 - *2023.03.09*: &nbsp;🎉 Successfully selected for the PHD experimental class of CASIA!🎉
 - *2021.07.29*: &nbsp;😊 Participation in the China Control Conference in Shanghai,China!🎉🎉
-- *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊
-
-
-## Latest Achievements
-
-<div style="max-height: 200px; overflow-y: auto;">
+- *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊-->
+<div style="max-height: 200px; overflow-y: auto; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">
 
 - *2024.06.14*: &nbsp; Invited by TIV to review a paper related to autonomous driving🎉🎉  
 <br>
