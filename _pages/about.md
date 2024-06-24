@@ -78,7 +78,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 6. **Y. Ou**, J. Fan, et al. "Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV," in IEEE Transactions on Industrial Electronics, 2024. (**Major Revision, SCI, JCR Q1, 中科院一区，IF=7.6**)
 
 ---
-# 🏆 Honors and Awards
+# 🏆 Honors & Awards
 ---
 - *2024*:&nbsp; 📜Outstanding Student Leader Award of UCAS (**top 2%**)
 - *2023*:&nbsp; 📜Selected for the PHD experimental class of CASIA (**8/276, 5W RMB scholarships each year**)
@@ -94,3 +94,8 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 - *2019*:&nbsp; 📜Three Good Students Award of Southeast University (**top 10%**)
 - *2018*:&nbsp; 🥇The 9th Robot Competition of Jiangsu Province (**provincial 1st prize**)
 - *2016*:&nbsp; 🥈High School Mathematics Olympiad Competition, Anhui Province (**provincial 2nd prize**)
+
+---
+# 🛠️ Projects & Competitions
+---
+
