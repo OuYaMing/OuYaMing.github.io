@@ -105,36 +105,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 
 ---
 # 🛠️ Projects & Competitions
----
-<img align="left" width="200" style="margin-right: 10px" src="https://ouyaming.github.io/images/500x300.png" alt="...">
-**Title**: Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV <br />
-**Finisher**: **Y. Ou**, J. Fan, C. Zhou, P. Zhang, Z. Hou. <br />
-**Submitted**: *IEEE Transactions on Industrial Electronics, 2024* <br />
-**Topic**: SLAM, Vision-IMU Fusion
-[[vedio]](https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4)<br />
----
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;">
-  <tbody>
-    <tr>
-      <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
-        <img src="https://ouyaming.github.io/images/500x300.png" alt="clean-usnob" width="500" height="300">
-      </td>
-      <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2024-03-18-TSMC" target="_blank">
-          <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
-        </a >
-        <br>
-        <strong>Y. Ou</strong>,
-        J. Fan
-        <br>
-        Submitted in <span style="white-space: nowrap; font-size: 1em;"><em>IEEE Transactions on Industrial Electronics</em>, 2024</span>
-        <br>
-        <!--  -->
-        <p>The proposed model represents a significant advancement in the field of metameric robotics and has the potential to enhance the performance of earthworm-like robots in a variety of challenging environments.</p >
-      </td>
-</tr>
-
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;">
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TIE -->
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
@@ -145,13 +116,13 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         </p>
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2024-03-18-TSMC" target="_blank">
+        <a href="" target="_blank">
           <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
         </a >
         <br>
         <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
         <br>
-        <em>IEEE Transactions on Industrial Electronics</em>, 2024
+        Submitted in <span style="white-space: nowrap; font-size: 1em;"><em>IEEE Transactions on Industrial Electronics</em>, 2024</span>
         <br>
         <!--  -->
         <p>An underwater tightly-coupled hybrid visual inertial dense SLAM framework, named Hybrid-VINS, is proposed, which is the first underwater SLAM system to utilize active vision information to assist passive vision.</p >
@@ -163,6 +134,66 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4" target="_blank">[Video]</a>
         </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TSMC -->
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+        <p style="text-align:center">
+          <video style="width:100%;height:auto;" controls="controls">
+            <source src="https://ouyaming.github.io/vedio/2024-03-18-TSMC_vedio.mp4" type="video/mp4" />
+          </video>
+        </p>
+      </td>
+      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+        <a href="https://ouyaming.github.io/publication/2024-03-18-TSMC" target="_blank">
+          <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
+        </a >
+        <br>
+        <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
+        <br>
+        Submitted in <span style="white-space: nowrap; font-size: 1em;"><em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, 2024</span>
+        <br>
+        <!--  -->
+        <p>An underwater tightly-coupled hybrid visual inertial dense SLAM framework, named Hybrid-VINS, is proposed, which is the first underwater SLAM system to utilize active vision information to assist passive vision.</p >
+        <p>
+          <strong>Tags</strong>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">SLAM</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Camera-IMU Fusion</span>
+          &nbsp;&nbsp;
+          <strong>Source</strong>
+          <a href="https://ouyaming.github.io/files/2024-03-18-TSMC.pdf" target="_blank">[Paper]</a>
+          <a href="https://ouyaming.github.io/vedio/2024-03-18-TSMC_vedio.mp4" target="_blank">[Video]</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;">
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+        <img src="https://ouyaming.github.io/images/500x300.png" alt="clean-usnob" width="500" height="300">
+      </td>
+      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+        <a href="https://ouyaming.github.io/publication/2024-03-18-TSMC" target="_blank">
+          <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
+        </a >
+        <br>
+        <strong>Y. Ou</strong>,
+        J. Fan
+        <br>
+        Submitted in <span style="white-space: nowrap; font-size: 1em;"><em>IEEE Transactions on Industrial Electronics</em>, 2024</span>
+        <br>
+        <!--  -->
+        <p>The proposed model represents a significant advancement in the field of metameric robotics and has the potential to enhance the performance of earthworm-like robots in a variety of challenging environments.</p >
       </td>
     </tr>
   </tbody>
