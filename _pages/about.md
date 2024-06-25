@@ -113,15 +113,17 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 **Topic**: SLAM, Vision-IMU Fusion
 [[vedio]](https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4)<br />
 ---
-<video align="left" width="200" style="margin-right: 10px" controls>
-  <source src="https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="clear: both;">
+  <video style="float: left; margin-right: 10px;" width="200" controls>
+    <source src="https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 
-**Title**: Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV <br />
-**Finisher**: **Y. Ou**, J. Fan, C. Zhou, P. Zhang, Z. Hou. <br />
-**Submitted**: *IEEE Transactions on Industrial Electronics, 2024* <br />
-**Topic**: SLAM, Vision-IMU Fusion
+  **Title**: Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV <br />
+  **Finisher**: **Y. Ou**, J. Fan, C. Zhou, P. Zhang, Z. Hou. <br />
+  **Submitted**: *IEEE Transactions on Industrial Electronics, 2024* <br />
+  **Topic**: SLAM, Vision-IMU Fusion
+</div>
 ---
 
 
