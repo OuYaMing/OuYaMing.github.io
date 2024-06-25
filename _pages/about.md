@@ -477,7 +477,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <p> Lateral lane keeping and speed keeping in different scenarios.</p >
         <p>
           <strong>Tags</strong>
-          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Autonomous Operation</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">PathPlanning</span>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Webots Simulation</span>
           &nbsp;&nbsp;
           <strong>Source</strong>
@@ -515,30 +515,35 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   </tbody>
 </table>
 
-
-
-
-
-
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;">
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 餐盘分割 -->
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
         <img src="https://ouyaming.github.io/images/500x300.png" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2024-03-18-TSMC" target="_blank">
-          <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
+        <a href="https://ouyaming.github.io/publication/2023-03-27-TIM" target="_blank">
+          <papertitle>Structured Light Vision-Based Pipeline Tracking and 3D Reconstruction Method for Underwater Vehicle</papertitle>
         </a >
         <br>
-        <strong>Y. Ou</strong>,
-        J. Fan
+        Junfeng Fan, <strong>Yaming Ou</strong>,  Xuan Li, etc.
         <br>
-        Submitted in <span style="white-space: nowrap; font-size: 1em;"><em>IEEE Transactions on Industrial Electronics</em>, 2024</span>
+        <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Intelligent Vehicles</em>, 2023</span>
         <br>
         <!--  -->
-        <p>The proposed model represents a significant advancement in the field of metameric robotics and has the potential to enhance the performance of earthworm-like robots in a variety of challenging environments.</p >
+        <p>A novel underwater pipeline positioning method based on dual-line laser SLV is proposed, which can simultaneously obtain the lateral deviation, height deviation and heading deviation of underwater vehicle and underwater pipeline under weak light water environment, providing the basis for underwater pipeline tracking.</p >
+        <p>
+          <strong>Tags</strong>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">3D Reconstruction</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Pipeline Tracking</span>
+          &nbsp;&nbsp;
+          <strong>Source</strong>
+          <a href="https://ouyaming.github.io/files/2023-12-08-TIV.pdf" target="_blank">[Paper]</a>
+        </p>
       </td>
     </tr>
   </tbody>
 </table>
+
+
+
