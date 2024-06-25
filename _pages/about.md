@@ -59,7 +59,7 @@ My research interests include：underwater 3D vision, multi-sensor fusion SLAM, 
 ---
 # 📖 Educations
 ---
-- *2022.09 - 2026.06(expected)*:&nbsp; Institute of Automation, Chinese Academy of Sciences (**Ph.D.**)
+- *2021.09 - 2026.06(expected)*:&nbsp; Institute of Automation, Chinese Academy of Sciences (**Ph.D.**)
 - *2021.09 - 2022.06*:&nbsp; School of Artificial Intelligence, University of Chinese Academy of Sciences (**Ph.D.**)
 - *2018.06 - 2021.06*:&nbsp; Department of Robotics Engineering, School of Automation, Southeast University (**B.E.**)
 - *2017.09 - 2018.06*:&nbsp; School of Materials Science and Engineering, Southeast University (**B.E.**)
@@ -106,16 +106,12 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 ---
 # 🛠️ Projects & Competitions
 ---
----
-
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/500x300.png" alt="...">
-FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-guided Robot Manipulation Skills <br />
-**Y. Zhao**, K. Qian, B. Duan, S. Luo. <br />
-Robotics and Automation Letters, 2024 <br />
-[[paper]](https://arxiv.org/abs/2404.19217) [[code]](https://github.com/Rancho-zhao/FOTS) [[video]](https://youtu.be/QUHolBrg4LI)
-
+**Title**: Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV <br />
+**Finisher**: **Y. Ou**, J. Fan, C. Zhou, P. Zhang, Z. Hou. <br />
+**Submitted**: *IEEE Transactions on Industrial Electronics, 2024* <br />
+[[vedio]]({{ site.url }}/vedio/2024-TIE-vedio.mp4)
 <br />
-
 ---
 
 
