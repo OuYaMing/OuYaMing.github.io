@@ -277,15 +277,15 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
-          <papertitle>National Intelligent Vehicle Competition for University Students</papertitle>
+          <papertitle>Self-Driving Vehicle</papertitle>
         </a >
         <br>
-        <strong>Competition</strong> National Intelligent Vehicle Competition for University Students
+        <strong>Competition</strong> <em>National College Students Intelligent Vehicle Competition</em>
         <br>
-        <strong>Award</strong> National Second Prize
+        <strong>Award</strong> <em>National Second Prize</em>
         &nbsp;&nbsp;
         <strong>Sponsor</strong>
-        <a href="https://www.baidu.com/" target="_blank">Baidu</a>
+        <em><a href="https://www.baidu.com/" target="_blank">Baidu</a></em>
         <br>
         <!--  -->
         <p>Vehicle Autonomous Driving according to different traffic signs.</p >
