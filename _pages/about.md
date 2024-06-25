@@ -459,6 +459,33 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 五子棋 -->
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+        <p style="text-align:center">
+          <video style="width:100%;height:auto;" controls="controls">
+            <source src="https://ouyaming.github.io/vedio/project_robotarm_vedio.mp4" type="video/mp4" />
+          </video>
+        </p>
+      </td>
+      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+        <a href=" " target="_blank">
+          <papertitle>Human-machine Game of Gomoku with ABB 6-Axis Robotic Arm</papertitle>
+        </a >
+        <p>This is one of the training programs for electronic design competitions. </p >
+        <p>
+          <strong>Tags</strong>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Human-machine Game</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Hand-eye Calibration</span>
+          &nbsp;&nbsp;
+          <strong>Source</strong>
+          <a href="https://ouyaming.github.io/vedio/project_robotarm_vedio.mp4" target="_blank">[Video]</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 行李搬运机器人 -->
   <tbody>
     <tr>
