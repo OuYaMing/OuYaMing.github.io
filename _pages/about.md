@@ -113,39 +113,25 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 **Topic**: SLAM, Vision-IMU Fusion
 [[vedio]](https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4)<br />
 ---
-<div style="clear: both;">
-  <video style="float: left; margin-right: 10px;" width="200" controls>
-    <source src="https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
-  **Title**: Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV <br />
-  **Finisher**: **Y. Ou**, J. Fan, C. Zhou, P. Zhang, Z. Hou. <br />
-  **Submitted**: *IEEE Transactions on Industrial Electronics, 2024* <br />
-  **Topic**: SLAM, Vision-IMU Fusion
-</div>
----
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;">
   <tbody>
     <tr>
       <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
-        < img src="../images/500x300.png" alt="clean-usnob" width="500" height="300">
+        < img src="https://ouyaming.github.io/images/500x300.png" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
         <a href=" " target="_blank">
-          <papertitle>Dynamic models for Planar Peristaltic Locomotion of a Metameric Earthworm-like Robot</papertitle>
+          <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
         </a >
         <br>
-        Qinyan Zhou,
-        Hongbin Fang,
-        <strong>Zhihai Bi</strong>,
-        Jian Xu
+        <strong>Y. Ou</strong>,
+        J. Fan
         <br>
-        <em>arXiv:2303.11846</em>, 2023
+        <em>IEEE Transactions on Industrial Electronics</em>, 2024
         <br>
         <!--  -->
         <p>The proposed model represents a significant advancement in the field of metameric robotics and has the potential to enhance the performance of earthworm-like robots in a variety of challenging environments.</p >
       </td>
     </tr>
-
+---
 
