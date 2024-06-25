@@ -450,11 +450,12 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <p> Lateral lane keeping and speed keeping in different scenarios.</p >
         <p>
           <strong>Tags</strong>
-          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Autonomous Driving</span>
-          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">LQR Control</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Human-robot Interaction</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Point Cloud Segmentation</span>
           &nbsp;&nbsp;
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/vedio/project_baggage_handling robot_vedio.mp4" target="_blank">[Video]</a>
+          <a href="https://github.com/OuYaMing/Curriculum-Baggage-Handling-Robot" target="_blank">[Code]</a>
         </p>
       </td>
     </tr>
@@ -474,7 +475,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <a href="" target="_blank">
           <papertitle>Supermarket Automatic Sorting Robot</papertitle>
         </a >
-        <p> Lateral lane keeping and speed keeping in different scenarios.</p >
+        <p> Identify and place specific items in the corresponding shelves.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">PathPlanning</span>
@@ -501,7 +502,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <a href="" target="_blank">
           <papertitle>Clothes Automatic Sorting System</papertitle>
         </a >
-        <p> Lateral lane keeping and speed keeping in different scenarios.</p >
+        <p>Sorting clothes into different containers according to the color using robot arms.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Target Detection</span>
@@ -519,7 +520,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
         <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
+          <video style="width:100%;height:300px;" controls="controls">
             <source src="https://ouyaming.github.io/vedio/project_raspberry_pi_smart _car_vedio.mp4" type="video/mp4" />
           </video>
         </p>
@@ -553,20 +554,11 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <a href="https://ouyaming.github.io/publication/2023-03-27-TIM" target="_blank">
           <papertitle>Structured Light Vision-Based Pipeline Tracking and 3D Reconstruction Method for Underwater Vehicle</papertitle>
         </a >
-        <br>
-        Junfeng Fan, <strong>Yaming Ou</strong>,  Xuan Li, etc.
-        <br>
-        <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Intelligent Vehicles</em>, 2023</span>
-        <br>
-        <!--  -->
-        <p>A novel underwater pipeline positioning method based on dual-line laser SLV is proposed, which can simultaneously obtain the lateral deviation, height deviation and heading deviation of underwater vehicle and underwater pipeline under weak light water environment, providing the basis for underwater pipeline tracking.</p >
+        <p>Identify the luggage bag and its owner, take the luggage and follow the owner.</p >
         <p>
           <strong>Tags</strong>
-          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">3D Reconstruction</span>
-          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Pipeline Tracking</span>
-          &nbsp;&nbsp;
-          <strong>Source</strong>
-          <a href="https://ouyaming.github.io/files/2023-12-08-TIV.pdf" target="_blank">[Paper]</a>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Image Processing</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Target Segmentation</span>
         </p>
       </td>
     </tr>
