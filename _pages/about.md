@@ -336,6 +336,39 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 无线动态充电循迹小车 -->
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+        <p style="text-align:center">
+          <video style="width:100%;height:auto;" controls="controls">
+            <source src="https://ouyaming.github.io/vedio/project_wireless_dynamic_charging_tracking_smart_car_vedio.mp4" type="video/mp4" />
+          </video>
+        </p>
+      </td>
+      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+        <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
+          <papertitle>Wireless Dynamic Charging Tracking Smart Car</papertitle>
+        </a >
+        <br>
+        <strong>Competition</strong> <em>National College Students Electronic Design Competition</em>
+        <br>
+        <strong>Award</strong> <em>Second Prize</em>
+        <br>
+        <p> Wireless Dynamic Charging Tracking Smart Car.</p >
+        <p>
+          <strong>Tags</strong>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Autonomous Driving</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Dynamic Charging</span>
+          &nbsp;&nbsp;
+          <strong>Source</strong>
+          <a href="https://ouyaming.github.io/vedio/project_wireless_dynamic_charging_tracking_smart_car_vedio.mp4" target="_blank">[Video]</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 行李搬运机器人 -->
   <tbody>
     <tr>
@@ -347,7 +380,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         </p>
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
+        <a href="" target="_blank">
           <papertitle>Luggage Recognition Interactive Robot</papertitle>
         </a >
         <p> Lateral lane keeping and speed keeping in different scenarios.</p >
