@@ -127,7 +127,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <strong>Y. Ou</strong>,
         J. Fan
         <br>
-        <em>IEEE Transactions on Industrial Electronics</em>, 2024
+        Submitted in <span style="white-space: nowrap; font-size: 1em;"><em>IEEE Transactions on Industrial Electronics</em>, 2024</span>
         <br>
         <!--  -->
         <p>The proposed model represents a significant advancement in the field of metameric robotics and has the potential to enhance the performance of earthworm-like robots in a variety of challenging environments.</p >
@@ -159,8 +159,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">sensor fusion</span>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">SLAM</span>
-        </p>
-        <p>
+          &nbsp;&nbsp;
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4" target="_blank">[Video]</a>
         </p>
