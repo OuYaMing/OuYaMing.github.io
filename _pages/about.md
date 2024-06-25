@@ -106,4 +106,19 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 ---
 # 🛠️ Projects & Competitions
 ---
+---
+
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/500x300.png" alt="...">
+FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-guided Robot Manipulation Skills <br />
+**Y. Zhao**, K. Qian, B. Duan, S. Luo. <br />
+Robotics and Automation Letters, 2024 <br />
+[[paper]](https://arxiv.org/abs/2404.19217) [[code]](https://github.com/Rancho-zhao/FOTS) [[video]](https://youtu.be/QUHolBrg4LI)
+
+<br />
+
+---
+
+
+
+
 
