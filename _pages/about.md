@@ -193,7 +193,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Industrial Informatics</em>, 2023</span>
         <br>
         <!--  -->
-        <p>An SSLSLS-based underwater movable high-precision dense reconstruction framework, named Water-movable binocular structured light (MBSL), is proposed, which takes into account both motion distortion and point cloud registration..</p >
+        <p>An SSLSLS-based underwater movable high-precision dense reconstruction framework, named Water-movable binocular structured light (MBSL), is proposed, which takes into account both motion distortion and point cloud registration.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Dense Mapping</span>
@@ -207,7 +207,35 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TIM -->
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+        <img src="https://ouyaming.github.io/images/500x300.png" alt="clean-usnob" width="500" height="300">
+      </td>
+      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+        <a href="https://ouyaming.github.io/publication/2023-03-27-TIM" target="_blank">
+          <papertitle>Binocular Structured Light 3-D Reconstruction System for Low-light Underwater Environments: Design, Modeling, and Laser-based Calibration</papertitle>
+        </a >
+        <br>
+        <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
+        <br>
+        <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Instrumentation and Measurement</em>, 2023</span>
+        <br>
+        <!--  -->
+        <p>An underwater binocular structured light 3-D reconstruction system with the scanning laser is designed to realize the static high-precision scanning reconstruction of the low-light scene, which is suitable for underwater robot application.</p >
+        <p>
+          <strong>Tags</strong>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Dense Mapping</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Motion Reconstruction</span>
+          &nbsp;&nbsp;
+          <strong>Source</strong>
+          <a href="https://ouyaming.github.io/files/2023-03-27-TIM.pdf" target="_blank">[Paper]</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;">
