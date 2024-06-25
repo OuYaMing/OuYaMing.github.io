@@ -149,17 +149,21 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
         </a >
         <br>
-        <strong>Y. Ou</strong>,
-        J. Fan
+        <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
         <br>
         <em>IEEE Transactions on Industrial Electronics</em>, 2024
         <br>
         <!--  -->
         <p>The proposed model represents a significant advancement in the field of metameric robotics and has the potential to enhance the performance of earthworm-like robots in a variety of challenging environments.</p >
         <p>
-          <strong>Tags:</strong>
+          <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">sensor fusion</span>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">SLAM</span>
+        </p>
+        <br>
+        <p>
+          <strong>Source</strong>
+          <a href="https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4" target="_blank">[Video]</a>
         </p>
       </td>
     </tr>
