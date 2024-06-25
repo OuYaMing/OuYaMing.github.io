@@ -432,7 +432,33 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- Turtlebot SLAM -->
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+        <p style="text-align:center">
+          <video style="width:100%;height:250px;" controls="controls">
+            <source src="https://ouyaming.github.io/vedio/project_turtlebot_slam_vedio.mp4" type="video/mp4" />
+          </video>
+        </p>
+      </td>
+      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+        <a href="" target="_blank">
+          <papertitle>Multi-point Cruise Turtlebot Robot</papertitle>
+        </a >
+        <p> Lateral lane keeping and speed keeping in different scenarios.</p >
+        <p>
+          <strong>Tags</strong>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">SLAM</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Navigation</span>
+          &nbsp;&nbsp;
+          <strong>Source</strong>
+          <a href="https://ouyaming.github.io/vedio/project_turtlebot_slam_vedio.mp4" target="_blank">[Video]</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 行李搬运机器人 -->
   <tbody>
     <tr>
@@ -451,7 +477,6 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Human-robot Interaction</span>
-          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Point Cloud Segmentation</span>
           &nbsp;&nbsp;
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/vedio/project_baggage_handling robot_vedio.mp4" target="_blank">[Video]</a>
@@ -473,9 +498,9 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="" target="_blank">
-          <papertitle>Supermarket Automatic Sorting Robot</papertitle>
+          <papertitle>Webots Simulation: Supermarket Automatic Sorting Robot</papertitle>
         </a >
-        <p> Identify and place specific items in the corresponding shelves.</p >
+        <p> Identify and place specific items in the corresponding supermarket shelves.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">PathPlanning</span>
@@ -483,6 +508,33 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           &nbsp;&nbsp;
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/vedio/project_supermarket_automatic_sorting_robot_vedio.mp4" target="_blank">[Video]</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- Webots无人驾驶 -->
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+        <p style="text-align:center">
+          <video style="width:100%;height:auto;" controls="controls">
+            <source src="https://ouyaming.github.io/vedio/project_driverless_simulation_vedio.mp4" type="video/mp4" />
+          </video>
+        </p>
+      </td>
+      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+        <a href="" target="_blank">
+          <papertitle>Webots Simulation: Autonomous Driving</papertitle>
+        </a >
+        <p> Webots Simulation: Autonomous Driving.</p >
+        <p>
+          <strong>Tags</strong>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Obstacle Avoidance</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Webots Simulation</span>
+          &nbsp;&nbsp;
+          <strong>Source</strong>
+          <a href="https://ouyaming.github.io/vedio/project_driverless_simulation_vedio.mp4" target="_blank">[Video]</a>
         </p>
       </td>
     </tr>
@@ -520,7 +572,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
         <p style="text-align:center">
-          <video style="width:100%;height:300px;" controls="controls">
+          <video style="width:100%;height:250px;" controls="controls">
             <source src="https://ouyaming.github.io/vedio/project_raspberry_pi_smart _car_vedio.mp4" type="video/mp4" />
           </video>
         </p>
@@ -542,8 +594,6 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-
-
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 餐盘分割 -->
   <tbody>
     <tr>
