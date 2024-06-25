@@ -123,7 +123,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
         <br>
-        Submitted in <span style="white-space: nowrap; font-size: 1em;"><em>IEEE Transactions on Industrial Electronics</em>, 2024</span>
+        <span style="font-size: 10pt;">Submitted in <em>IEEE Transactions on Industrial Electronics</em>, 2024</span>
         <br>
         <!--  -->
         <p>An underwater tightly-coupled hybrid visual inertial dense SLAM framework, named Hybrid-VINS, is proposed, which is the first underwater SLAM system to utilize active vision information to assist passive vision.</p >
@@ -151,12 +151,12 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2024-03-18-TSMC" target="_blank">
-          <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
+          <papertitle>Structured Light-Based Underwater Collision-Free Navigation and Dense Mapping System for Refined Exploration in Unknown Dark Environments</papertitle>
         </a >
         <br>
         <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
         <br>
-        <span style="white-space: nowrap; font-size: 1em;">Published in <em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, 2024</span>
+        <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, 2024</span>
         <br>
         <!--  -->
         <p>A more adaptable 3D dense mapping robotic system based on self-designed scanning BSL, named ROVScanner, is developed for refined exploration, where the on-board design allows for autonomous mobility and operational capabilities.</p >
@@ -185,12 +185,12 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
-          <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
+          <papertitle>Water-MBSL: Underwater Movable Binocular Structured Light-Based High-Precision Dense Reconstruction Framework</papertitle>
         </a >
         <br>
         <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
         <br>
-        <span style="white-space: nowrap; font-size: 1em;">Published in <em>IEEE Transactions on Industrial Informatics</em>, 2023</span>
+        <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Industrial Informatics</em>, 2023</span>
         <br>
         <!--  -->
         <p>An SSLSLS-based underwater movable high-precision dense reconstruction framework, named Water-movable binocular structured light (MBSL), is proposed, which takes into account both motion distortion and point cloud registration..</p >
