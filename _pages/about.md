@@ -154,7 +154,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <em>IEEE Transactions on Industrial Electronics</em>, 2024
         <br>
         <!--  -->
-        <p>The proposed model represents a significant advancement in the field of metameric robotics and has the potential to enhance the performance of earthworm-like robots in a variety of challenging environments.</p >
+        <p>An underwater tightly-coupled hybrid visual inertial dense SLAM framework, named Hybrid-VINS, is proposed, which is the first underwater SLAM system to utilize active vision information to assist passive vision.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">sensor fusion</span>
