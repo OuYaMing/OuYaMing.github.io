@@ -110,8 +110,14 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 **Title**: Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV <br />
 **Finisher**: **Y. Ou**, J. Fan, C. Zhou, P. Zhang, Z. Hou. <br />
 **Submitted**: *IEEE Transactions on Industrial Electronics, 2024* <br />
-[[vedio]]({{ site.url }}/vedio/2024-TIE-vedio.mp4)
-<br />
+**Topic**: SLAM, Vision-IMU Fusion
+<div style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 5px; text-align: center; margin-right: 10px;">
+  <strong>SLAM</strong>
+</div>
+<div style="display: inline-block; padding: 10px 20px; background-color: #2196F3; color: white; border-radius: 5px; text-align: center;">
+  <strong>Vision-IMU Fusion</strong>
+</div>
+[[vedio]](https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4)<br />
 ---
 
 
