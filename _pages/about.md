@@ -120,7 +120,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         < img src="https://ouyaming.github.io/images/500x300.png" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
-        <a href=" " target="_blank">
+        <a href="https://ouyaming.github.io/publication/2024-03-18-TSMC" target="_blank">
           <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
         </a >
         <br>
@@ -133,5 +133,24 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <p>The proposed model represents a significant advancement in the field of metameric robotics and has the potential to enhance the performance of earthworm-like robots in a variety of challenging environments.</p >
       </td>
     </tr>
----
 
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;">
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
+        < img src="https://ouyaming.github.io/images/500x300.png" alt="clean-usnob" width="500" height="300">
+      </td>
+      <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
+        <a href="https://ouyaming.github.io/publication/2024-03-18-TSMC" target="_blank">
+          <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
+        </a >
+        <br>
+        <strong>Y. Ou</strong>,
+        J. Fan
+        <br>
+        <em>IEEE Transactions on Industrial Electronics</em>, 2024
+        <br>
+        <!--  -->
+        <p>The proposed model represents a significant advancement in the field of metameric robotics and has the potential to enhance the performance of earthworm-like robots in a variety of challenging environments.</p >
+      </td>
+    </tr>
