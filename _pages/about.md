@@ -105,6 +105,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 
 ---
 # 🛠️ Projects & Competitions
+---
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TIE -->
   <tbody>
     <tr>
@@ -155,14 +156,14 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
         <br>
-        Submitted in <span style="white-space: nowrap; font-size: 1em;"><em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, 2024</span>
+        <span style="white-space: nowrap; font-size: 1em;">Published in <em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, 2024</span>
         <br>
         <!--  -->
-        <p>An underwater tightly-coupled hybrid visual inertial dense SLAM framework, named Hybrid-VINS, is proposed, which is the first underwater SLAM system to utilize active vision information to assist passive vision.</p >
+        <p>A more adaptable 3D dense mapping robotic system based on self-designed scanning BSL, named ROVScanner, is developed for refined exploration, where the on-board design allows for autonomous mobility and operational capabilities.</p >
         <p>
           <strong>Tags</strong>
-          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">SLAM</span>
-          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Camera-IMU Fusion</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Navigation</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Obstacle Avoidance</span>
           &nbsp;&nbsp;
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/files/2024-03-18-TSMC.pdf" target="_blank">[Paper]</a>
