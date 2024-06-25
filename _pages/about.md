@@ -301,6 +301,48 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- LKA -->
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+        <p style="text-align:center">
+          <video style="width:100%;height:auto;" controls="controls">
+            <source src="https://ouyaming.github.io/vedio/project_LKA_vedio.mp4" type="video/mp4" />
+          </video>
+        </p>
+      </td>
+      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+        <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
+          <papertitle>Lane Keeping Assist (LKA) Control Based on the LQR Controller</papertitle>
+        </a >
+        <br>
+        <strong>Competition</strong> <em>China ICV Algorithms Challenge</em>
+        <br>
+        <strong>Award</strong> <em>First Prize</em>
+        &nbsp;&nbsp;
+        <strong>Sponsor</strong>
+        <em><a href="https://www.china-icv.cn/" target="_blank">China-ICV</a></em>
+        <br>
+        <p> Lateral lane keeping and speed keeping in different scenarios.</p >
+        <p>
+          <strong>Tags</strong>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Autonomous Driving</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">LQR Control</span>
+          &nbsp;&nbsp;
+          <strong>Source</strong>
+          <a href="https://ouyaming.github.io/vedio/project_LKA_vedio.mp4" target="_blank">[Video]</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
 
 
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;">
