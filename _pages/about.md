@@ -106,7 +106,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 ---
 # 🛠️ Projects & Competitions
 ---
-<img align="left" width="200" style="margin-right: 10px" src="https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4" alt="...">
+<img align="left" width="200" style="margin-right: 10px" src="https://ouyaming.github.io/images/500x300.png" alt="...">
 **Title**: Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV <br />
 **Finisher**: **Y. Ou**, J. Fan, C. Zhou, P. Zhang, Z. Hou. <br />
 **Submitted**: *IEEE Transactions on Industrial Electronics, 2024* <br />
