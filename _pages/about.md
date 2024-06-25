@@ -173,7 +173,40 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TII -->
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+        <p style="text-align:center">
+          <video style="width:100%;height:auto;" controls="controls">
+            <source src="https://ouyaming.github.io/vedio/2023-12-29-TII_vedio.mp4" type="video/mp4" />
+          </video>
+        </p>
+      </td>
+      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+        <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
+          <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
+        </a >
+        <br>
+        <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
+        <br>
+        <span style="white-space: nowrap; font-size: 1em;">Published in <em>IEEE Transactions on Industrial Informatics</em>, 2023</span>
+        <br>
+        <!--  -->
+        <p>An SSLSLS-based underwater movable high-precision dense reconstruction framework, named Water-movable binocular structured light (MBSL), is proposed, which takes into account both motion distortion and point cloud registration..</p >
+        <p>
+          <strong>Tags</strong>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Dense Mapping</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Motion Reconstruction</span>
+          &nbsp;&nbsp;
+          <strong>Source</strong>
+          <a href="https://ouyaming.github.io/files/2023-12-29-TII.pdf" target="_blank">[Paper]</a>
+          <a href="https://ouyaming.github.io/vedio/2023-12-29-TII_vedio.mp4" target="_blank">[Video]</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
