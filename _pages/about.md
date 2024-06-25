@@ -137,14 +137,14 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;">
   <tbody>
     <tr>
-      <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
         <p style="text-align:center">
           <video style="width:100%;height:auto;" controls="controls">
             <source src="https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4" type="video/mp4" />
           </video>
         </p>
       </td>
-      <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2024-03-18-TSMC" target="_blank">
           <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
         </a >
@@ -156,6 +156,11 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         <!--  -->
         <p>The proposed model represents a significant advancement in the field of metameric robotics and has the potential to enhance the performance of earthworm-like robots in a variety of challenging environments.</p >
+        <p>
+          <strong>Tags:</strong>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">sensor fusion</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">SLAM</span>
+        </p>
       </td>
     </tr>
   </tbody>
