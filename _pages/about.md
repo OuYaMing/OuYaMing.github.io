@@ -157,8 +157,8 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <p>An underwater tightly-coupled hybrid visual inertial dense SLAM framework, named Hybrid-VINS, is proposed, which is the first underwater SLAM system to utilize active vision information to assist passive vision.</p >
         <p>
           <strong>Tags</strong>
-          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">sensor fusion</span>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">SLAM</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Camera-IMU Fusion</span>
           &nbsp;&nbsp;
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4" target="_blank">[Video]</a>
