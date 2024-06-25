@@ -437,7 +437,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
         <p style="text-align:center">
-          <video style="width:100%;height:250px;" controls="controls">
+          <video style="width:100%;height:auto;transform: rotate(90deg);" controls="controls">
             <source src="https://ouyaming.github.io/vedio/project_turtlebot_slam_vedio.mp4" type="video/mp4" />
           </video>
         </p>
@@ -599,7 +599,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
         <p style="text-align:center">
-          <video style="width:100%;height:250px;" controls="controls">
+          <video style="width:100%;height:auto;transform: rotate(90deg);" controls="controls">
             <source src="https://ouyaming.github.io/vedio/project_raspberry_pi_smart _car_vedio.mp4" type="video/mp4" />
           </video>
         </p>
