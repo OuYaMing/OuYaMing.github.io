@@ -117,7 +117,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
-        < img src="https://ouyaming.github.io/images/500x300.png" alt="clean-usnob" width="500" height="300">
+        <img src="https://ouyaming.github.io/images/500x300.png" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2024-03-18-TSMC" target="_blank">
@@ -137,7 +137,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;">
   <tbody>
     <tr>
-      <td style="padding:10px;width:50%;vertical-align:middle;line-height:20px">
+      <td style="padding:10px;width:30%;vertical-align:middle;border:none;">
         <p style="text-align:center">
           <video width="480" height="300" controls="controls">
             <source src="https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4" type="video/mp4" />
