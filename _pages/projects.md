@@ -62,6 +62,7 @@ author_profile: true
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/vedio/project_LKA_vedio.mp4" target="_blank">[Video]</a>
           <a href="https://ouyaming.github.io/files/project_LKA_pdf.pdf" target="_blank">[Report]</a>
+          <a href="https://github.com/Zhihaibi/Lateral_control" target="_blank">[Code]</a>   
         </p>
       </td>
     </tr>
