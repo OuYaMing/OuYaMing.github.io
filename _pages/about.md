@@ -284,7 +284,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           <papertitle>Structured Light Vision-Based Pipeline Tracking and 3D Reconstruction Method for Underwater Vehicle</papertitle>
         </a >
         <br>
-        Junfeng Fan, <strong>Yaming Ou</strong>,  Xuan Li, etc.
+        Junfeng Fan, <strong>Yaming Ou</strong>,  Xuan Li, etc. (corresponding author)
         <br>
         <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Intelligent Vehicles</em>, 2023</span>
         <br>
@@ -391,6 +391,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           &nbsp;&nbsp;
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/vedio/project_AI_smart_car_vedio.mp4" target="_blank">[Video]</a>
+          <a href="https://ouyaming.github.io/files/project_AI_smart_car_pdf.pdf" target="_blank">[Report]</a>
         </p>
       </td>
     </tr>
@@ -422,6 +423,46 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           &nbsp;&nbsp;
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/vedio/project_LKA_vedio.mp4" target="_blank">[Video]</a>
+          <a href="https://ouyaming.github.io/files/project_LKA_pdf.pdf" target="_blank">[Report]</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 电赛：动态无线节能充电小车 -->
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000"><!-- 2s -->
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="https://ouyaming.github.io/images/electronic_design/1.png" class="d-block w-100" alt="Image 1" style="width:600px; height:200px;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://ouyaming.github.io/images/electronic_design/2.png" class="d-block w-100" alt="Image 2" style="width:500px; height:200px;">
+            </div>
+          </div>
+      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+        <a href=" " target="_blank">
+          <papertitle>Dynamic Wireless Energy-saving Charging Vehicle</papertitle>
+        </a >
+        <br>
+        <strong>Competition</strong> <em>National College Students Electronic Design Competition</em>
+        <br>
+        <strong>Award</strong> <em>National Second Prize</em>
+        <br>
+        <p>This is one of the training programs for electronic design competitions. </p >
+        <p>
+          <strong>Tags</strong>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Dynamic Charging</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">PID Controller</span>
+          &nbsp;&nbsp;
+          <strong>Source</strong>
+          <a href="https://ouyaming.github.io/files/project_electronic_design_pdf.pdf" target="_blank">[Report]</a>
         </p>
       </td>
     </tr>
