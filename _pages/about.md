@@ -451,7 +451,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
               <img src="https://ouyaming.github.io/images/electronic_design/1.png" class="d-block w-100" alt="Image 1" style="width:600px; height:200px;">
             </div>
             <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/electronic_design/2.png" class="d-block w-100" alt="Image 2" style="width:500px; height:200px;">
+              <img src="https://ouyaming.github.io/images/electronic_design/2.jpg" class="d-block w-100" alt="Image 2" style="width:500px; height:200px;">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
