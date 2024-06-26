@@ -219,7 +219,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000"><!-- 1s -->
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000"><!-- 2s -->
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -297,6 +297,68 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           &nbsp;&nbsp;
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/files/2023-12-08-TIV.pdf" target="_blank">[Paper]</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- CCC -->
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000"><!-- 2s -->
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="https://ouyaming.github.io/images/2021-07-26-CCC/1.png" class="d-block w-100" alt="Image 1" style="width:600px; height:200px;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://ouyaming.github.io/images/2021-07-26-CCC/2.png" class="d-block w-100" alt="Image 2" style="width:500px; height:200px;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://ouyaming.github.io/images/2021-07-26-CCC/3.png" class="d-block w-100" alt="Image 3" style="width:500px; height:200px;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://ouyaming.github.io/images/2021-07-26-CCC/4.png" class="d-block w-100" alt="Image 4" style="width:500px; height:200px;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://ouyaming.github.io/images/2021-07-26-CCC/5.png" class="d-block w-100" alt="Image 4" style="width:500px; height:200px;">
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </td>
+      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+        <a href="https://ouyaming.github.io/publication/2021-07-26-CCC" target="_blank">
+          <papertitle>Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM</papertitle>
+        </a >
+        <br>
+        <strong>Yaming Ou</strong>, Zhuoliang Zhang, Chao Zhou, etc.
+        <br>
+        <span style="font-size: 10pt;">Published in <em>2021 40th Chinese Control Conference (CCC)</em>, 2023</span>
+        <br>
+        <!--  -->
+        <p>A cantilever artificial lateral line (ALL) sensor based on piezoresistive effect was developed by imitating the "SNs" cell structure of real fish to realize underwater speed measurement.</p >
+        <p>
+          <strong>Tags</strong>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Speed Measurement</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Biomimetic Sensor</span>
+          &nbsp;&nbsp;
+          <strong>Source</strong>
+          <a href="https://ouyaming.github.io/files/2021-07-26-CCC.pdf" target="_blank">[Paper]</a>
         </p>
       </td>
     </tr>
@@ -684,7 +746,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
               <img src="https://ouyaming.github.io/images/Plate_detection/2.png" class="d-block w-100" alt="Image 2" style="width:500px; height:200px;">
             </div>
             <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/Plate_detection/3.png" class="d-block w-100" alt="Image 3" style="width:500px; height:200px;">
+              <img src="https://ouyaming.github.io/images/Plate_detection/3.jpg" class="d-block w-100" alt="Image 3" style="width:500px; height:200px;">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
