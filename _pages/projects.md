@@ -103,9 +103,7 @@ author_profile: true
         </div>
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2021-07-26-CCC" target="_blank">
-          <papertitle>Dynamic Wireless Energy-saving Charging Vehicle</papertitle>
-        </a >
+        <span style="font-size: 16pt; font-weight: bold; color: blue;">Project: Dynamic Wireless Energy-saving Charging Vehicle</span>
         <br>
         <strong>Competition</strong> <em>National College Students Electronic Design Competition</em>
         <br>
@@ -131,9 +129,7 @@ author_profile: true
         <img src="https://ouyaming.github.io/vedio/project_secondary_rotary_inverted_pendulum_system_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href=" " target="_blank">
-          <papertitle>Rotary Inverted Pendulum System</papertitle>
-        </a >
+        <span style="font-size: 16pt; font-weight: bold; color: blue;">Project: Rotary Inverted Pendulum System</span>
         <br>
         <strong>Competition</strong> <em>National College Students Electronic Design Competition</em>
         <br>
@@ -159,9 +155,7 @@ author_profile: true
         <img src="https://ouyaming.github.io/vedio/project_wireless_dynamic_charging_tracking_smart_car_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
-          <papertitle>Wireless Dynamic Charging Tracking Smart Car</papertitle>
-        </a >
+        <span style="font-size: 16pt; font-weight: bold; color: blue;">Project: Wireless Dynamic Charging Tracking Smart Car</span>
         <br>
         <strong>Competition</strong> <em>National College Students Electronic Design Competition</em>
         <br>
@@ -187,9 +181,7 @@ author_profile: true
         <img src="https://ouyaming.github.io/vedio/project_dual_wire_suspension_control_system_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
-          <papertitle>Dual Wire Drive Control System</papertitle>
-        </a >
+        <span style="font-size: 16pt; font-weight: bold; color: blue;">Project: Dual Wire Drive Control System</span>
         <br>
         <strong>Competition</strong> <em>National College Students Electronic Design Competition</em>
         <br>
@@ -215,9 +207,7 @@ author_profile: true
          <img src="https://ouyaming.github.io/vedio/project_turtlebot_slam_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="" target="_blank">
-          <papertitle>Multi-point Cruise Turtlebot Robot</papertitle>
-        </a >
+        <span style="font-size: 16pt; font-weight: bold; color: blue;">Project: Multi-point Cruise Turtlebot Robot</span>
         <p>By deploying the cartographer 2D laser SLAM algorithm on the turtlebot robot, combined with an A* navigation algorithm and a PID motion control algorithm. The robot can realize multi-point cruise operations.</p >
         <p>
           <strong>Tags</strong>
@@ -238,9 +228,7 @@ author_profile: true
          <img src="https://ouyaming.github.io/vedio/project_robotarm_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href=" " target="_blank">
-          <papertitle>Human-machine Game of Gomoku with ABB 6-Axis Robotic Arm</papertitle>
-        </a >
+        <span style="font-size: 16pt; font-weight: bold; color: blue;">Project: Human-machine Game of Gomoku with ABB 6-Axis Robotic Arm</span>
         <p>Using the RGBD camera (on the hand) to identify gomoku, planning with the robot arm to complete the human-computer game.</p >
         <p>
           <strong>Tags</strong>
@@ -261,9 +249,7 @@ author_profile: true
         <img src="https://ouyaming.github.io/vedio/project_baggage_handling robot_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="" target="_blank">
-          <papertitle>Luggage Recognition Interactive Robot</papertitle>
-        </a >
+        <span style="font-size: 16pt; font-weight: bold; color: blue;">Project: Luggage Recognition Interactive Robot</span>
         <p> Identify the luggage bag and its owner, take the luggage and follow the owner.</p >
         <p>
           <strong>Tags</strong>
@@ -284,9 +270,7 @@ author_profile: true
         <img src="https://ouyaming.github.io/vedio/project_supermarket_automatic_sorting_robot_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="" target="_blank">
-          <papertitle>Webots Simulation: Supermarket Automatic Sorting Robot</papertitle>
-        </a >
+        <span style="font-size: 16pt; font-weight: bold; color: blue;">Project: Webots Simulation: Supermarket Automatic Sorting Robot</span>
         <p> This is the working scenario of a supermarket sorting mobile robot built in the Webots simulation environment. The robot can identify specific items and place them on the corresponding supermarket shelves.</p >
         <p>
           <strong>Tags</strong>
@@ -307,9 +291,7 @@ author_profile: true
          <img src="https://ouyaming.github.io/vedio/project_driverless_simulation_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="" target="_blank">
-          <papertitle>Webots Simulation: Autonomous Driving</papertitle>
-        </a >
+        <span style="font-size: 16pt; font-weight: bold; color: blue;">Project: Webots Simulation: Autonomous Driving</span>
         <p> This is a self-driving highway simulation system built in the Webots simulation environment. With the obstacle detection algorithm, obstacle avoidance strategy and road tracking control algorithm, the car can safely avoid other obstacles and move forward at a high speed.</p >
         <p>
           <strong>Tags</strong>
@@ -330,9 +312,7 @@ author_profile: true
           <img src="https://ouyaming.github.io/vedio/project_automatic_clothes_sorting_system_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="" target="_blank">
-          <papertitle>Clothes Automatic Sorting System</papertitle>
-        </a >
+        <span style="font-size: 16pt; font-weight: bold; color: blue;">Project: Clothes Automatic Sorting System</span>
         <p>Sorting clothes into different containers according to the color using robot arms.</p >
         <p>
           <strong>Tags</strong>
@@ -353,9 +333,7 @@ author_profile: true
          <img src="https://ouyaming.github.io/vedio/project_raspberry_pi_smart _car_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="" target="_blank">
-          <papertitle>Raspberry Pi Smart Car</papertitle>
-        </a >
+        <span style="font-size: 16pt; font-weight: bold; color: blue;">Project: Raspberry Pi Smart Car</span>
         <p> The main control board of the smart car is a Raspberry Pi 2B+, which uses a camera to identify the red lane lines and track them, and identifies crosswalks to slow down and simulate daily traffic road scenes.</p >
         <p>
           <strong>Tags</strong>
@@ -409,9 +387,7 @@ author_profile: true
         </div>
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2023-03-27-TIM" target="_blank">
-          <papertitle>Plate detection through image processing</papertitle>
-        </a >
+        <span style="font-size: 16pt; font-weight: bold; color: blue;">Project: Plate detection through image processing</span>
         <p>Image processing techniques were used to extract the location of the dinner plate in the picture, thus assisting the robot to complete the automatic meal-punching operation.</p >
         <p>
           <strong>Tags</strong>
