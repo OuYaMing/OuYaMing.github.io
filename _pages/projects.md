@@ -109,7 +109,7 @@ author_profile: true
         <br>
         <strong>Award</strong> <em>National Second Prize</em>
         <br>
-        <p>This work is based on TI Msp430F5529 to form a dynamic wireless energy-saving charging cart system. </p >
+        <p>This work is based on TI Msp430F5529 to form a dynamic wireless energy-saving charging cart system. The system is divided into two parts: the car body and the track (including the onboard circuit). The car uses a 7F supercapacitor for power supply. The MSP430F5529 collects the infrared sensor AD values and calculates the required PWM differential value using a PID algorithm, which is then output to the four motors to achieve turning. The track has four charging modules. Initially, the charging module at point A is activated. The car and the track communicate via Bluetooth. Each time the car reaches the next module, the MSP430 on the track switches to that charging module to charge the car, thereby conserving power.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Dynamic Charging</span>
