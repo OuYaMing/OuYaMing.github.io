@@ -422,6 +422,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Autonomous Driving</span>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">LQR Control</span>
           &nbsp;&nbsp;
+          <br>
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/vedio/project_LKA_vedio.mp4" target="_blank">[Video]</a>
           <a href="https://ouyaming.github.io/files/project_LKA_pdf.pdf" target="_blank">[Report]</a>
