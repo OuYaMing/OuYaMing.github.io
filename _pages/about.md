@@ -92,7 +92,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 - *2023*:&nbsp; 📜Selected for the PHD experimental class of CASIA (**8/276, 5W RMB scholarships each year**)
 - *2022*:&nbsp; 🥇China ICV Algorithms Challenge Competition(**1st place, 2W RMB award**)
 - *2022*:&nbsp; 📜Three Good Students Award of UCAS (**top 10%**)
-- *2021*:&nbsp; 🏆Data Application Innovation and Entrepreneurship Competition (**merit award, 9/453, 2.5K RMB prize**)
+- *2021*:&nbsp; 🏆Data Application Innovation and Entrepreneurship Competition (**merit award, 9/453**)
 - *2021*:&nbsp; 📜Outstanding Graduate Student Award of Southeast University (**top 3%**)
 - *2020*:&nbsp; 🥈National College Students Intelligent Vehicle Competition (**national 2nd prize**)
 - *2020*:&nbsp; 📜China National Inspiration Scholarship (**3.22%**)
@@ -219,7 +219,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="1000"><!-- 1s -->
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000"><!-- 1s -->
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -228,16 +228,16 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="https://ouyaming.github.io/images/500x300.png" class="d-block w-100" alt="Image 1">
+              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/1.png" class="d-block w-100" alt="Image 1" style="width:500px; height:400px;">
             </div>
             <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/zhengjianzhao.png" class="d-block w-100" alt="Image 2">
+              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/2.png" class="d-block w-100" alt="Image 2" style="width:500px; height:400px;">
             </div>
             <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/bio-photo.png" class="d-block w-100" alt="Image 3">
+              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/3.png" class="d-block w-100" alt="Image 3" style="width:500px; height:400px;">
             </div>
             <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/profile.png" class="d-block w-100" alt="Image 4">
+              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/8.png" class="d-block w-100" alt="Image 4" style="width:500px; height:400px;">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
