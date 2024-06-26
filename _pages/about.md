@@ -454,8 +454,18 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
               <img src="https://ouyaming.github.io/images/electronic_design/2.png" class="d-block w-100" alt="Image 2" style="width:500px; height:200px;">
             </div>
           </div>
+          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href=" " target="_blank">
+        <a href="https://ouyaming.github.io/publication/2021-07-26-CCC" target="_blank">
           <papertitle>Dynamic Wireless Energy-saving Charging Vehicle</papertitle>
         </a >
         <br>
@@ -463,7 +473,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         <strong>Award</strong> <em>National Second Prize</em>
         <br>
-        <p>This is one of the training programs for electronic design competitions. </p >
+        <p>This work is based on TI Msp430F5529 to form a dynamic wireless energy-saving charging cart system. </p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Dynamic Charging</span>
