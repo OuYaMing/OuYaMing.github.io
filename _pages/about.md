@@ -788,7 +788,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 &nbsp;  
 &nbsp;  
 <table style="width:100%;max-width:601px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-  <script  type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ULF0cC1ddGD1v4Zfi4kou5gp4q-BRsSFb7HQZfa-ov0&cl=ffffff&w=a"></script>
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=FrEzGBBnkb2X2rV9OFHx8YYKNq1Th4qkAMalbwI5cTg"></script>
 </tbody></table>
 
 
