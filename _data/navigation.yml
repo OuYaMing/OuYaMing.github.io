@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "中文"
-    url: /Chinese/
+  # - title: "中文"
+  #   url: /Chinese/
