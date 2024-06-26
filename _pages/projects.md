@@ -13,9 +13,7 @@ author_profile: true
         <img src="https://ouyaming.github.io/vedio/project_AI_smart_car_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
-          <papertitle>Self-Driving Vehicle</papertitle>
-        </a >
+        <span style="font-size: 16pt; font-weight: bold;">AI-aided Self-Driving Vehicle</span>
         <br>
         <strong>Competition</strong> <em>National College Students Intelligent Vehicle Competition</em>
         <br>
