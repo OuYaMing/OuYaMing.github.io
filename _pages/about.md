@@ -580,7 +580,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <a href="" target="_blank">
           <papertitle>Multi-point Cruise Turtlebot Robot</papertitle>
         </a >
-        <p> Lateral lane keeping and speed keeping in different scenarios.</p >
+        <p>By deploying the cartographer 2D laser SLAM algorithm on the turtlebot robot, combined with an A* navigation algorithm and a PID motion control algorithm. The robot can realize multi-point cruise operations.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">SLAM</span>
@@ -603,7 +603,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <a href=" " target="_blank">
           <papertitle>Human-machine Game of Gomoku with ABB 6-Axis Robotic Arm</papertitle>
         </a >
-        <p>This is one of the training programs for electronic design competitions. </p >
+        <p>Using the RGBD camera (on the hand) to identify gomoku, planning with the robot arm to complete the human-computer game.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Human-machine Game</span>
@@ -649,7 +649,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <a href="" target="_blank">
           <papertitle>Webots Simulation: Supermarket Automatic Sorting Robot</papertitle>
         </a >
-        <p> Identify and place specific items in the corresponding supermarket shelves.</p >
+        <p> This is the working scenario of a supermarket sorting mobile robot built in the Webots simulation environment. The robot can identify specific items and place them on the corresponding supermarket shelves.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">PathPlanning</span>
@@ -672,7 +672,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <a href="" target="_blank">
           <papertitle>Webots Simulation: Autonomous Driving</papertitle>
         </a >
-        <p> Webots Simulation: Autonomous Driving.</p >
+        <p> This is a self-driving highway simulation system built in the Webots simulation environment. With the obstacle detection algorithm, obstacle avoidance strategy and road tracking control algorithm, the car can safely avoid other obstacles and move forward at a high speed.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Obstacle Avoidance</span>
@@ -716,9 +716,9 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="" target="_blank">
-          <papertitle>Raspberry Pi Smart Car Vedio</papertitle>
+          <papertitle>Raspberry Pi Smart Car</papertitle>
         </a >
-        <p> Lateral lane keeping and speed keeping in different scenarios.</p >
+        <p> The main control board of the smart car is a Raspberry Pi 2B+, which uses a camera to identify the red lane lines and track them, and identifies crosswalks to slow down and simulate daily traffic road scenes.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Target Detection</span>
@@ -774,7 +774,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <a href="https://ouyaming.github.io/publication/2023-03-27-TIM" target="_blank">
           <papertitle>Plate detection through image processing</papertitle>
         </a >
-        <p>Image processing techniques can be used to extract the location of the dinner plate in the picture, thus assisting the robot to complete the automatic meal-punching operation.</p >
+        <p>Image processing techniques were used to extract the location of the dinner plate in the picture, thus assisting the robot to complete the automatic meal-punching operation.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Image Processing</span>
