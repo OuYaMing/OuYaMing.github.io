@@ -400,11 +400,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/project_LKA_gif.gif" type="video/mp4" />
-          </video>
-        </p>
+         <img src="https://ouyaming.github.io/vedio/project_LKA_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
@@ -435,11 +431,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/project_secondary_rotary_inverted_pendulum_system_gif.gif" type="video/mp4" />
-          </video>
-        </p>
+        <img src="https://ouyaming.github.io/vedio/project_secondary_rotary_inverted_pendulum_system_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href=" " target="_blank">
@@ -467,11 +459,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/project_wireless_dynamic_charging_tracking_smart_car_gif.gif" type="video/mp4" />
-          </video>
-        </p>
+        <img src="https://ouyaming.github.io/vedio/project_wireless_dynamic_charging_tracking_smart_car_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
@@ -499,11 +487,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/project_dual_wire_suspension_control_system_gif.gif" type="video/mp4" />
-          </video>
-        </p>
+        <img src="https://ouyaming.github.io/vedio/project_dual_wire_suspension_control_system_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
@@ -531,11 +515,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/project_turtlebot_slam_gif.gif" type="video/mp4" />
-          </video>
-        </p>
+         <img src="https://ouyaming.github.io/vedio/project_turtlebot_slam_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="" target="_blank">
@@ -558,11 +538,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/project_robotarm_gif.gif" type="video/mp4" />
-          </video>
-        </p>
+         <img src="https://ouyaming.github.io/vedio/project_robotarm_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href=" " target="_blank">
@@ -585,11 +561,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/project_baggage_handling robot_gif.gif" type="video/mp4" />
-          </video>
-        </p>
+        <img src="https://ouyaming.github.io/vedio/project_baggage_handling robot_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="" target="_blank">
@@ -612,11 +584,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/project_supermarket_automatic_sorting_robot_gif.gif" type="video/mp4" />
-          </video>
-        </p>
+        <img src="https://ouyaming.github.io/vedio/project_supermarket_automatic_sorting_robot_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="" target="_blank">
@@ -639,11 +607,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/project_driverless_simulation_gif.gif" type="video/mp4" />
-          </video>
-        </p>
+         <img src="https://ouyaming.github.io/vedio/project_driverless_simulation_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="" target="_blank">
@@ -666,11 +630,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/project_automatic_clothes_sorting_system_gif.gif" type="video/mp4" />
-          </video>
-        </p>
+          <img src="https://ouyaming.github.io/vedio/project_automatic_clothes_sorting_system_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="" target="_blank">
@@ -693,11 +653,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/project_raspberry_pi_smart _car_gif.gif" type="video/mp4" />
-          </video>
-        </p>
+         <img src="https://ouyaming.github.io/vedio/project_raspberry_pi_smart _car_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="" target="_blank">
