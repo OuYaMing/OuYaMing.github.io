@@ -368,11 +368,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/project_AI_smart_car_gif.gif" type="video/mp4" />
-          </video>
-        </p>
+        <img src="https://ouyaming.github.io/vedio/project_AI_smart_car_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
