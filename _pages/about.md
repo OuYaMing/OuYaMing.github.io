@@ -626,7 +626,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <a href="" target="_blank">
           <papertitle>Luggage Recognition Interactive Robot</papertitle>
         </a >
-        <p> Lateral lane keeping and speed keeping in different scenarios.</p >
+        <p> Identify the luggage bag and its owner, take the luggage and follow the owner.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Human-robot Interaction</span>
@@ -772,9 +772,9 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2023-03-27-TIM" target="_blank">
-          <papertitle>Structured Light Vision-Based Pipeline Tracking and 3D Reconstruction Method for Underwater Vehicle</papertitle>
+          <papertitle>Plate detection through image processing</papertitle>
         </a >
-        <p>Identify the luggage bag and its owner, take the luggage and follow the owner.</p >
+        <p>Image processing techniques can be used to extract the location of the dinner plate in the picture, thus assisting the robot to complete the automatic meal-punching operation.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Image Processing</span>
