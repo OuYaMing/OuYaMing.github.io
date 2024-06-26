@@ -44,7 +44,7 @@ author_profile: true
          <img src="https://ouyaming.github.io/vedio/project_LKA_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <span style="font-size: 16pt; font-weight: bold; color: blue;">Project: Lane Keeping Assist (LKA) Control Based on the LQR Controller</span>
+        <span style="font-size: 16pt; font-weight: bold; color: blue;">Project: Lane Keeping Assist (LKA) Control</span>
         <br>
         <strong>Competition</strong> <em>China ICV Algorithms Challenge</em>
         <br>
@@ -53,7 +53,7 @@ author_profile: true
         <strong>Sponsor</strong>
         <em><a href="https://www.china-icv.cn/" target="_blank">China-ICV</a></em>
         <br>
-        <p>This is about lateral control technology in autonomous driving. Our algorithm enables lateral lane keeping and speed keeping for cars in different scenarios.</p >
+        <p>This is about lateral control technology in autonomous driving. By deploying LQR controller, our algorithm enables lateral lane keeping and speed keeping for cars in different scenarios.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Autonomous Driving</span>
