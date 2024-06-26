@@ -284,7 +284,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           <papertitle>Structured Light Vision-Based Pipeline Tracking and 3D Reconstruction Method for Underwater Vehicle</papertitle>
         </a >
         <br>
-        Junfeng Fan, <strong>Yaming Ou</strong>,  Xuan Li, etc. (corresponding author)
+        Junfeng Fan, <strong>Yaming Ou*</strong>,  Xuan Li, etc. (corresponding author)
         <br>
         <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Intelligent Vehicles</em>, 2023</span>
         <br>
