@@ -372,7 +372,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <img src="https://ouyaming.github.io/vedio/project_AI_smart_car_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
+        <a href="https://ouyaming.github.io/projects/" target="_blank">
           <papertitle>Self-Driving Vehicle</papertitle>
         </a >
         <br>
@@ -405,7 +405,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
          <img src="https://ouyaming.github.io/vedio/project_LKA_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
+        <a href="https://ouyaming.github.io/projects/" target="_blank">
           <papertitle>Lane Keeping Assist (LKA) Control Based on the LQR Controller</papertitle>
         </a >
         <br>
@@ -466,7 +466,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         </div>
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2021-07-26-CCC" target="_blank">
+        <a href="https://ouyaming.github.io/projects/" target="_blank">
           <papertitle>Dynamic Wireless Energy-saving Charging Vehicle</papertitle>
         </a >
         <br>
@@ -494,7 +494,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <img src="https://ouyaming.github.io/vedio/project_secondary_rotary_inverted_pendulum_system_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href=" " target="_blank">
+        <a href="https://ouyaming.github.io/projects/" target="_blank">
           <papertitle>Rotary Inverted Pendulum System</papertitle>
         </a >
         <br>
@@ -522,7 +522,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <img src="https://ouyaming.github.io/vedio/project_wireless_dynamic_charging_tracking_smart_car_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
+        <a href="https://ouyaming.github.io/projects/" target="_blank">
           <papertitle>Wireless Dynamic Charging Tracking Smart Car</papertitle>
         </a >
         <br>
@@ -550,7 +550,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <img src="https://ouyaming.github.io/vedio/project_dual_wire_suspension_control_system_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
+        <a href="https://ouyaming.github.io/projects/" target="_blank">
           <papertitle>Dual Wire Drive Control System</papertitle>
         </a >
         <br>
@@ -578,7 +578,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
          <img src="https://ouyaming.github.io/vedio/project_turtlebot_slam_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="" target="_blank">
+        <a href="https://ouyaming.github.io/projects/" target="_blank">
           <papertitle>Multi-point Cruise Turtlebot Robot</papertitle>
         </a >
         <p>By deploying the cartographer 2D laser SLAM algorithm on the turtlebot robot, combined with an A* navigation algorithm and a PID motion control algorithm. The robot can realize multi-point cruise operations.</p >
@@ -601,7 +601,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
          <img src="https://ouyaming.github.io/vedio/project_robotarm_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href=" " target="_blank">
+        <a href="https://ouyaming.github.io/projects/" target="_blank">
           <papertitle>Human-machine Game of Gomoku with ABB 6-Axis Robotic Arm</papertitle>
         </a >
         <p>Using the RGBD camera (on the hand) to identify gomoku, planning with the robot arm to complete the human-computer game.</p >
@@ -624,7 +624,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <img src="https://ouyaming.github.io/vedio/project_baggage_handling robot_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="" target="_blank">
+        <a href="https://ouyaming.github.io/projects/" target="_blank">
           <papertitle>Luggage Recognition Interactive Robot</papertitle>
         </a >
         <p> Identify the luggage bag and its owner, take the luggage and follow the owner.</p >
@@ -647,7 +647,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <img src="https://ouyaming.github.io/vedio/project_supermarket_automatic_sorting_robot_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="" target="_blank">
+        <a href="https://ouyaming.github.io/projects/" target="_blank">
           <papertitle>Webots Simulation: Supermarket Automatic Sorting Robot</papertitle>
         </a >
         <p> This is the working scenario of a supermarket sorting mobile robot built in the Webots simulation environment. The robot can identify specific items and place them on the corresponding supermarket shelves.</p >
@@ -670,7 +670,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
          <img src="https://ouyaming.github.io/vedio/project_driverless_simulation_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="" target="_blank">
+        <a href="https://ouyaming.github.io/projects/" target="_blank">
           <papertitle>Webots Simulation: Autonomous Driving</papertitle>
         </a >
         <p> This is a self-driving highway simulation system built in the Webots simulation environment. With the obstacle detection algorithm, obstacle avoidance strategy and road tracking control algorithm, the car can safely avoid other obstacles and move forward at a high speed.</p >
@@ -693,7 +693,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           <img src="https://ouyaming.github.io/vedio/project_automatic_clothes_sorting_system_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="" target="_blank">
+        <a href="https://ouyaming.github.io/projects/" target="_blank">
           <papertitle>Clothes Automatic Sorting System</papertitle>
         </a >
         <p>Sorting clothes into different containers according to the color using robot arms.</p >
@@ -716,7 +716,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
          <img src="https://ouyaming.github.io/vedio/project_raspberry_pi_smart _car_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="" target="_blank">
+        <a href="https://ouyaming.github.io/projects/" target="_blank">
           <papertitle>Raspberry Pi Smart Car</papertitle>
         </a >
         <p> The main control board of the smart car is a Raspberry Pi 2B+, which uses a camera to identify the red lane lines and track them, and identifies crosswalks to slow down and simulate daily traffic road scenes.</p >
@@ -772,7 +772,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         </div>
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2023-03-27-TIM" target="_blank">
+        <a href="https://ouyaming.github.io/projects/" target="_blank">
           <papertitle>Plate detection through image processing</papertitle>
         </a >
         <p>Image processing techniques were used to extract the location of the dinner plate in the picture, thus assisting the robot to complete the automatic meal-punching operation.</p >
