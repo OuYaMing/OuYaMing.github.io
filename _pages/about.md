@@ -228,16 +228,16 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/1.png" class="d-block w-100" alt="Image 1" style="width:500px; height:400px;">
+              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/1.png" class="d-block w-100" alt="Image 1" style="width:600px; height:200px;">
             </div>
             <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/2.png" class="d-block w-100" alt="Image 2" style="width:500px; height:400px;">
+              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/2.png" class="d-block w-100" alt="Image 2" style="width:500px; height:200px;">
             </div>
             <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/3.png" class="d-block w-100" alt="Image 3" style="width:500px; height:400px;">
+              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/3.png" class="d-block w-100" alt="Image 3" style="width:500px; height:200px;">
             </div>
             <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/8.png" class="d-block w-100" alt="Image 4" style="width:500px; height:400px;">
+              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/8.png" class="d-block w-100" alt="Image 4" style="width:500px; height:200px;">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -658,11 +658,44 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
+<head>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <!-- Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 餐盘分割 -->
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <img src="https://ouyaming.github.io/images/500x300.png" alt="clean-usnob" width="500" height="300">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000"><!-- 1s -->
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="https://ouyaming.github.io/images/Plate_detection/1.gif" class="d-block w-100" alt="Image 1" style="width:600px; height:200px;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://ouyaming.github.io/images/Plate_detection/2.png" class="d-block w-100" alt="Image 2" style="width:500px; height:200px;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://ouyaming.github.io/images/Plate_detection/3.png" class="d-block w-100" alt="Image 3" style="width:500px; height:200px;">
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2023-03-27-TIM" target="_blank">
