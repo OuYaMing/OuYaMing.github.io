@@ -383,7 +383,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <em><a href="https://www.baidu.com/" target="_blank">Baidu</a></em>
         <br>
         <!--  -->
-        <p>Vehicle Autonomous Driving according to different traffic signs.</p >
+        <p>Vehicle autonomous driving according to different traffic signs. In addition, based on the target detection algorithm YoloV4-Tiny, the deployment of deep learning algorithms on an embedded development board is realized and guarantees the safe form of the vehicle in the lane.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Autonomous Driving</span>
@@ -415,7 +415,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <strong>Sponsor</strong>
         <em><a href="https://www.china-icv.cn/" target="_blank">China-ICV</a></em>
         <br>
-        <p> Lateral lane keeping and speed keeping in different scenarios.</p >
+        <p>This is about lateral control technology in autonomous driving. Our algorithm enables lateral lane keeping and speed keeping for cars in different scenarios.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Autonomous Driving</span>
@@ -501,7 +501,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         <strong>Award</strong> <em>National Second Prize</em>
         <br>
-        <p>This is one of the training programs for electronic design competitions. </p >
+        <p>This is one of the training programs for electronic design competitions. Through the coordination of stepper motors and angle sensors, and based on a serial PID control algorithm, the system can initiate and maintain an inverted pendulum state. What an interesting experiment!</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Inverted Pendulum</span>
@@ -529,7 +529,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         <strong>Award</strong> <em>National Second Prize</em>
         <br>
-        <p>This is one of the training programs for electronic design competitions. Wireless Dynamic Charging Tracking Smart Car.</p >
+        <p>This is one of the training programs for electronic design competitions. The smart car realizes dynamic charging during movement through a wireless charging module and has the ability to track the rapid movement of wire lines.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Autonomous Driving</span>
@@ -557,7 +557,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         <strong>Award</strong> <em>National Second Prize</em>
         <br>
-        <p>This is one of the training programs for electronic design competitions. </p >
+        <p>This is one of the training programs for electronic design competitions. The system's driving unit consists of two soft thin strings. The movement in the 2D plane is achieved by controlling the extension and retraction of the two strings independently using stepper motors, allowing the system to draw patterns such as hearts.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Wire Drive</span>
