@@ -43,7 +43,7 @@ My research interests include：underwater 3D vision, multi-sensor fusion SLAM, 
 <br>
 2023.10.06: &nbsp; A paper accepted by TII!🎉  
 <br>
-2021.06.15: &nbsp;🎉🎉Invited by IEEE Sensor to review a paper related to camera-imu calibration😊  
+2023.06.15: &nbsp;🎉🎉Invited by IEEE Sensor to review a paper related to camera-imu calibration😊  
 <br>
 2023.03.27: &nbsp;😊 Publish a paper in TIM!😊  
 <br>
