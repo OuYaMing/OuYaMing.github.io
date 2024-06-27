@@ -278,10 +278,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <img src="https://ouyaming.github.io/images/500x300.png" alt="clean-usnob" width="500" height="300">
+        <img src="https://ouyaming.github.io/vedio/2023-12-08-TIV_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
-        <a href="https://ouyaming.github.io/publication/2023-03-27-TIM" target="_blank">
+        <a href="https://ouyaming.github.io/publication/2023-12-08-TIV" target="_blank">
           <papertitle>Structured Light Vision-Based Pipeline Tracking and 3D Reconstruction Method for Underwater Vehicle</papertitle>
         </a >
         <br>
@@ -298,6 +298,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           &nbsp;&nbsp;
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/files/2023-12-08-TIV.pdf" target="_blank">[Paper]</a>
+          <a href="https://ouyaming.github.io/vedio/2023-12-08-TIV_vedio.mp4" target="_blank">[Vedio]</a>
         </p>
       </td>
     </tr>
