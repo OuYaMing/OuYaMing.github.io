@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+<embed src="https://rancho-zhao.github.io/files/CV_KingO.pdf" type="application/pdf" width="600px" height="500px" />
+
+
+<!--
 {% include base_path %}
 
 Education
@@ -62,3 +66,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
