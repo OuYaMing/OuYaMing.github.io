@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-If you have any interest in my work, please don't hesitate to contact me at <p style="color:blue; font-size:20px;">ouyaming2021@ia.ac.cn</p>.
+If you have any interest in my work, please don't hesitate to contact me at <span style="color:blue; font-size:20px;">ouyaming2021@ia.ac.cn</span>.
 
 <embed src="https://ouyaming.github.io/files/CV_KingO.pdf" type="application/pdf" width="600px" height="800px" />
 
