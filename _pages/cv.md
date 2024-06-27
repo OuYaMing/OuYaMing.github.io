@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://rancho-zhao.github.io/files/CV_KingO.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://ouyaming.github.io/files/CV_KingO.pdf" type="application/pdf" width="600px" height="500px" />
 
 
 <!--
