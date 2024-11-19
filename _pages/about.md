@@ -34,7 +34,7 @@ My research interests include：**SLAM**, **autonomous robot navigation**, **mul
 - *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊-->
 <div style="max-height: 150px; overflow-y: auto; font-family: 'Times New Roman', Times, serif; font-size: 11.5pt;">
 
-2024.11.16: &nbsp; A paper accepted by Bioinspiration & Biomimetics!😊
+2024.11.16: &nbsp; A participating paper accepted by Bioinspiration & Biomimetics!😊
 <br>
 2024.06.14: &nbsp; Invited by TIV to review a paper related to autonomous driving🎉🎉  
 <br>
