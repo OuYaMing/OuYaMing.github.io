@@ -34,11 +34,13 @@ My research interests include：**SLAM**, **autonomous robot navigation**, **mul
 - *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊-->
 <div style="max-height: 150px; overflow-y: auto; font-family: 'Times New Roman', Times, serif; font-size: 11.5pt;">
 
-2024.11.16: &nbsp; A participating paper accepted by Bioinspiration & Biomimetics!😊
+2024.11.20: &nbsp; Awarded China PhD National Scholarship！🎉😊
 <br>
-2024.06.14: &nbsp; Invited by TIV to review a paper related to autonomous driving🎉🎉  
+2024.11.16: &nbsp; A participating paper accepted by Bioinspiration & Biomimetics！😊
 <br>
-2024.05.30: &nbsp; 🎉😊Recognized as an outstanding student leader of UCAS  
+2024.06.14: &nbsp; Invited by TIV to review a paper related to autonomous driving！🎉🎉  
+<br>
+2024.05.30: &nbsp; 🎉😊Recognized as an outstanding student leader of UCAS  ！
 <br>
 2024.03.21: &nbsp; Publish a paper in TSMC!😊😊  
 <br>
@@ -92,6 +94,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 ---
 # 🏆 Honors & Awards
 ---
+- *2024*:&nbsp; 📜China PhD National Scholarship (**3%**)
 - *2024*:&nbsp; 📜Outstanding Student Leader Award of UCAS (**top 2%**)
 - *2023*:&nbsp; 📜Selected for the PHD experimental class of CASIA (**8/276, 5W RMB scholarships each year**)
 - *2022*:&nbsp; 🥇China ICV Algorithms Challenge Competition(**1st place, 2W RMB award**)
