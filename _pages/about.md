@@ -38,6 +38,8 @@ My research interests include：**SLAM**, **autonomous robot navigation**, **mul
 - *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊-->
 <div style="max-height: 150px; overflow-y: auto; font-family: 'Times New Roman', Times, serif; font-size: 11.5pt;">
 
+2024.12.25: &nbsp; Selected for the [UCAS PhD International Cooperation Training Program](https://www.ucas.ac.cn/tz/f1f9453a721644158e3838383784e97a.htm) (one spot per institute)！🎉🎉  
+<br>
 2024.11.20: &nbsp; Invited by TIE to review a paper related to semantic localization！🎉🎉  
 <br>
 2024.11.20: &nbsp; Awarded China PhD National Scholarship！🎉😊
@@ -101,6 +103,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 ---
 # 🏆 Honors & Awards
 ---
+- *2024*:&nbsp; 📜Selected for the PhD International Cooperation Training Program of UCAS (**one spot per institute**)
 - *2024*:&nbsp; 📜China PhD National Scholarship (**3%**)
 - *2024*:&nbsp; 📜Outstanding Student Leader Award of UCAS (**top 2%**)
 - *2023*:&nbsp; 📜Selected for the PHD experimental class of CASIA (**8/276, 5W RMB scholarships each year**)
