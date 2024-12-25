@@ -10,7 +10,11 @@ redirect_from:
 ---
 # 👤 About me
 ---
-I am **Yaming Ou** (**欧亚明**), a **4th-year Ph.D.** student with the Laboratory of Cognition and Decision Intelligence for Complex Systems, Institute of Automation, Chinese Academy of Sciences (**[CASIA](http://www.ia.cas.cn/)**), Beijing 100190, China, and also with the School of Artificial Intelligence, University of Chinese Academy of Sciences (**[UCAS](https://www.ucas.edu.cn/)**), Beijing 100049, China. 
+I'm an avid robotics enthusiast!🤖🤖🤖 Feel free to chat with me.
+
+Recently, I received an invitation for a **joint Ph.D.** program from **Prof. [Howie Choset](https://scholar.google.com/citations?hl=zh-CN&user=4fvo61oAAAAJ)** at Robotics Institute, Carnegie Mellon University (**[RI, CMU](https://www.ri.cmu.edu/)**). If everything goes smoothly, I will be studying at the **[Biorobotics Lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/)** from March 2025 to March 2026.
+
+I am **Yaming Ou** (**欧亚明**), a **4th-year Ph.D.** student (5-year) with the Laboratory of Cognition and Decision Intelligence for Complex Systems, Institute of Automation, Chinese Academy of Sciences (**[CASIA](http://www.ia.cas.cn/)**), Beijing 100190, China, and also with the School of Artificial Intelligence, University of Chinese Academy of Sciences (**[UCAS](https://www.ucas.edu.cn/)**), Beijing 100049, China. 
 
 I graduated from the School of Automation at Southeast University (**[SEU, 985](https://www.seu.edu.cn/)**) with a Bachelor's degree in Robotics Engineering (**Rank: 2/34，Outstanding Graduate Award**).
 
