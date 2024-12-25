@@ -10,7 +10,7 @@ redirect_from:
 ---
 # 👤 About me
 ---
-I'm an avid robotics enthusiast!🤖🤖🤖 Feel free to chat with me.
+I'm an avid robotics enthusiast!🤖🤖🤖 Feel free to chat with me [📧📧📧](ouyaming2021@ia.ac.cn).
 
 Recently, I received an invitation for a **joint Ph.D.** program from **Prof. [Howie Choset](https://scholar.google.com/citations?hl=zh-CN&user=4fvo61oAAAAJ)** at Robotics Institute, Carnegie Mellon University (**[RI, CMU](https://www.ri.cmu.edu/)**). If everything goes smoothly, I will be studying at the **[Biorobotics Lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/)** from March 2025 to March 2026.
 
