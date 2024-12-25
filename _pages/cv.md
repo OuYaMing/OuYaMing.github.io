@@ -8,7 +8,7 @@ redirect_from:
 ---
 If you have any interest in my work, please don't hesitate to contact me at <span style="color:blue; font-size:20px;">ouyaming2021@ia.ac.cn</span>.
 
-<embed src="https://ouyaming.github.io/files/CV_KingO.pdf" type="application/pdf" width="600px" height="800px" />
+<embed src="https://ouyaming.github.io/files/CV_KingO_20241225.pdf" type="application/pdf" width="600px" height="800px" />
 
 
 <!--
