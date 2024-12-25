@@ -16,7 +16,7 @@ Recently, I received an invitation for a **joint Ph.D.** program from **Prof. [H
 
 I am **Yaming Ou** (**欧亚明**), a **4th-year Ph.D.** student (5-year, supervised  by Prof. **[Zhou Chao](http://www.ia.cas.cn/rcdw/yjy/202406/t20240621_7194305.html)** and Assoc. Prof. **[Fan Junfeng](https://people.ucas.edu.cn/~fanjunfeng)**, affiliated with Prof. **[Tan Min](http://www.ia.cas.cn/rcdw/yjy/202404/t20240422_7129785.html)**) with the Laboratory of Cognition and Decision Intelligence for Complex Systems (**[C<sup>2</sup>DL](http://www.ia.cas.cn/jgsz/kyxt/fzxtrz/?LMCL=vN3cUI&LMCL=Y9slHN)**), Institute of Automation, Chinese Academy of Sciences (**[CASIA](http://www.ia.cas.cn/)**), Beijing 100190, China, and also with the School of Artificial Intelligence, University of Chinese Academy of Sciences (**[UCAS](https://www.ucas.edu.cn/)**), Beijing 100049, China. 
 
-I graduated from the School of Automation at Southeast University (**[SEU, 985](https://www.seu.edu.cn/)**) with a Bachelor's degree in Robotics Engineering (**Rank: 2/34，Outstanding Graduate Award**).
+I graduated from the School of Automation at Southeast University (**[SEU, 985](https://www.seu.edu.cn/)**) with a Bachelor's degree in Robotics Engineering, [School of Automation](https://automation.seu.edu.cn/) (**Rank: 2/34，Outstanding Graduate Award**).
 
 My research interests include：**SLAM**, **autonomous robot navigation**, **multi-modal perception**.
 
