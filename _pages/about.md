@@ -104,7 +104,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 # 🏆 Honors & Awards
 ---
 - *2024*:&nbsp; 📜Selected for the PhD International Cooperation Training Program of UCAS (**one spot per institute**)
-- *2024*:&nbsp; 📜China PhD National Scholarship (**3%**)
+- *2024*:&nbsp; 📜China PhD National Scholarship (**3%, 3W RMB award**)
 - *2024*:&nbsp; 📜Outstanding Student Leader Award of UCAS (**top 2%**)
 - *2023*:&nbsp; 📜Selected for the PHD experimental class of CASIA (**8/276, 5W RMB scholarships each year**)
 - *2022*:&nbsp; 🥇China ICV Algorithms Challenge Competition(**1st place, 2W RMB award**)
