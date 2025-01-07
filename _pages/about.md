@@ -39,7 +39,7 @@ My research interests include：**SLAM**, **autonomous robot navigation**, **mul
 <div style="max-height: 150px; overflow-y: auto; font-family: 'Times New Roman', Times, serif; font-size: 11.5pt;">
 
 2024.12.25: &nbsp; My paper surpasses 100 citations in <a href="https://scholar.google.com/citations?user=JD82F9kAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>!😊😊
-
+<br>
 2024.12.25: &nbsp; Selected for the <a href="https://www.ucas.ac.cn/tz/f1f9453a721644158e3838383784e97a.htm" target="_blank">UCAS PhD International Cooperation Training Program</a> (one spot per institute)！🎉🎉
 <br>
 2024.11.20: &nbsp; Invited by TIE to review a paper related to semantic localization！🎉🎉  
