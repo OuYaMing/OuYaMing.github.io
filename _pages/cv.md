@@ -8,6 +8,10 @@ redirect_from:
 ---
 If you have any interest in my work, please don't hesitate to contact me at <span style="color:blue; font-size:20px;">ouyaming2021@ia.ac.cn</span>.
 
+- CV in China (Lastest update: 2025.03.09)
+<embed src="https://ouyaming.github.io/files/CV_20250309_China.pdf" type="application/pdf" width="600px" height="800px" />
+
+- CV in English (Lastest update: 2024.12.25)
 <embed src="https://ouyaming.github.io/files/CV_KingO_20241225.pdf" type="application/pdf" width="600px" height="800px" />
 
 
