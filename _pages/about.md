@@ -14,7 +14,7 @@ I'm an avid robotics enthusiast!🤖🤖🤖 Feel free to chat with me [📧📧
 
 I am **Yaming Ou** (**欧亚明**), a **4th-year Ph.D.** student (5-year, supervised  by Prof. **[Zhou Chao](http://www.ia.cas.cn/rcdw/yjy/202406/t20240621_7194305.html)** and Assoc. Prof. **[Fan Junfeng](https://people.ucas.edu.cn/~fanjunfeng)**, affiliated with Prof. **[Tan Min](http://www.ia.cas.cn/rcdw/yjy/202404/t20240422_7129785.html)**) with the Laboratory of Cognition and Decision Intelligence for Complex Systems (**[C<sup>2</sup>DL](http://www.ia.cas.cn/jgsz/kyxt/fzxtrz/?LMCL=vN3cUI&LMCL=Y9slHN)**), Institute of Automation, Chinese Academy of Sciences (**[CASIA](http://www.ia.cas.cn/)**), Beijing 100190, China, and also with the School of Artificial Intelligence, University of Chinese Academy of Sciences (**[UCAS](https://www.ucas.edu.cn/)**), Beijing 100049, China. 
 
-Now, i am pursuing in **joint Ph.D.** program under the supervision of Prof. **[Howie Choset](https://scholar.google.com/citations?hl=zh-CN&user=4fvo61oAAAAJ)** at Robotics Institute, Carnegie Mellon University (**[CMU RI](https://www.ri.cmu.edu/)**). I will be conducting robot navigation research at the **[Biorobotics Lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/)** from March 2025 to March 2026.
+Now, I am pursuing in **joint Ph.D.** program under the supervision of Prof. **[Howie Choset](https://scholar.google.com/citations?hl=zh-CN&user=4fvo61oAAAAJ)** at Robotics Institute, Carnegie Mellon University (**[CMU RI](https://www.ri.cmu.edu/)**). I will be conducting robot navigation research at the **[Biorobotics Lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/)** from March 2025 to March 2026.
 
 I graduated from the School of Automation at Southeast University (**[SEU, 985](https://www.seu.edu.cn/)**) with a Bachelor's degree in Robotics Engineering, [School of Automation](https://automation.seu.edu.cn/) (**Rank: 2/34，Outstanding Graduate Award**).
 
@@ -24,21 +24,8 @@ My research interests include：**SLAM**, **autonomous robot navigation**, **mul
 ---
 # 🔥 News
 ---
-<!-- 
-- *2025.03.15*: &nbsp; Arrived in Pittsburgh and starting a new chapter at CMU!🎉🎉
-- *2024.07.26*: &nbsp; 😊😊A SLAM-related paper accepted by TIE!
-- *2024.06.14*: &nbsp; Invited by TIV to review a paper related to autonomous driving🎉🎉
-- *2024.05.30*: &nbsp; 🎉😊Recognized as an outstanding student leader of UCAS
-- *2024.03.21*: &nbsp; Publish a paper in TSMC!😊😊
-- *2023.11.25*: &nbsp;🎉A paper accepted by TIV!😊
-- *2023.10.06*: &nbsp; A paper accepted by TII!🎉
-- *2021.06.15*: &nbsp;🎉🎉Invited by IEEE Sensor to review a paper related to camera-imu calibration😊
-- *2023.03.27*: &nbsp;😊 Publish a paper in TIM!😊
-- *2023.03.09*: &nbsp;🎉 Successfully selected for the PHD experimental class of CASIA!🎉
-- *2021.07.29*: &nbsp;😊 Participation in the China Control Conference in Shanghai,China!🎉🎉
-- *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊-->
-<div style="max-height: 150px; overflow-y: auto; font-family: 'Times New Roman', Times, serif; font-size: 11.5pt;">
-
+2025.03.15: &nbsp; Arrived in Pittsburgh and starting a new chapter at CMU!🎉🎉
+<br>
 2024.12.25: &nbsp; My paper surpasses 100 citations in <a href="https://scholar.google.com/citations?user=JD82F9kAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>!😊😊
 <br>
 2024.12.25: &nbsp; Selected for the <a href="https://www.ucas.ac.cn/tz/f1f9453a721644158e3838383784e97a.htm" target="_blank">UCAS PhD International Cooperation Training Program</a> (one spot per institute)！🎉🎉
@@ -48,6 +35,8 @@ My research interests include：**SLAM**, **autonomous robot navigation**, **mul
 2024.11.20: &nbsp; Awarded China PhD National Scholarship！🎉😊
 <br>
 2024.11.16: &nbsp; A participating paper accepted by Bioinspiration & Biomimetics！😊
+<br>
+2024.07.26: &nbsp; 😊😊A SLAM-related paper accepted by TIE!
 <br>
 2024.06.14: &nbsp; Invited by TIV to review a paper related to autonomous driving！🎉🎉  
 <br>
