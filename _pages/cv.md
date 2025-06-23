@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-I am actively looking for <span style="color:red;">job opportunities</span>, including paid postdoctoral, assistant/associate professor, and robotics algorithm researcher positions. If you have any suitable openings, feel free to reach out to me at <span style="color:blue; font-size:20px;">ouyaming2021@ia.ac.cn</span>!
+I am actively <span style="color:red;">looking for job opportunities</span>, including paid postdoctoral, assistant/associate professor, and robotics algorithm researcher positions. If you have any suitable openings, feel free to reach out to me at <span style="color:blue; font-size:20px;">ouyaming2021@ia.ac.cn</span>!
 
 If you have any interest in my work, please don't hesitate to talk with me.
 
