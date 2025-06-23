@@ -11,7 +11,7 @@ I am actively looking for <span style="color:red;">job opportunities</span>, inc
 If you have any interest in my work, please don't hesitate to talk with me.
 
 - CV in China (Lastest update: 2025.03.09)
-<embed src="https://ouyaming.github.io/files/CV_2025623_China.pdf" type="application/pdf" width="600px" height="800px" />
+<embed src="https://ouyaming.github.io/files/CV_20250623_China.pdf" type="application/pdf" width="600px" height="800px" />
 
 - CV in English (Lastest update: 2024.12.25)
 <embed src="https://ouyaming.github.io/files/CV_KingO_20241225.pdf" type="application/pdf" width="600px" height="800px" />
