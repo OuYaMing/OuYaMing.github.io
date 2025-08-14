@@ -42,6 +42,8 @@ My research interests include：**SLAM**, **autonomous robot navigation**, **mul
 
 2025.08.15: &nbsp; Invited by TRO to review a paper related to underwater robot localization！😊😊
 <br>
+2025.04.28: &nbsp; Submitted a paper to TRO!🎉🙏
+<br>
 2025.03.15: &nbsp; Arrived in Pittsburgh and starting a new chapter at CMU!🎉🎉
 <br>
 2024.12.25: &nbsp; My paper surpasses 100 citations in <a href="https://scholar.google.com/citations?user=JD82F9kAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>!😊😊
