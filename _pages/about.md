@@ -10,6 +10,8 @@ redirect_from:
 ---
 # 👤 About me
 ---
+<span style="color:red;">I am actively looking for job opportunities, including paid postdoctoral, assistant/associate professor, and robotics algorithm researcher positions. If you have any suitable openings, feel free to reach out to me at ouyaming2021@ia.ac.cn or yamingo@andrew.cmu.edu!</span>
+
 I'm an avid robotics enthusiast!🤖🤖🤖 Feel free to chat with me [📧📧📧](mailto:ouyaming2021@ia.ac.cn).
 
 I am **Yaming Ou** (**欧亚明**), a **5th-year Ph.D.** student (5-year, supervised  by Prof. **[Zhou Chao](http://www.ia.cas.cn/rcdw/yjy/202406/t20240621_7194305.html)** and Assoc. Prof. **[Fan Junfeng](https://people.ucas.edu.cn/~fanjunfeng)**, affiliated with Prof. **[Tan Min](http://www.ia.cas.cn/rcdw/yjy/202404/t20240422_7129785.html)**) with the Laboratory of Cognition and Decision Intelligence for Complex Systems (**[C<sup>2</sup>DL](http://www.ia.cas.cn/jgsz/kyxt/fzxtrz/?LMCL=vN3cUI&LMCL=Y9slHN)**), Institute of Automation, Chinese Academy of Sciences (**[CASIA](http://www.ia.cas.cn/)**), Beijing 100190, China, and also with the School of Artificial Intelligence, University of Chinese Academy of Sciences (**[UCAS](https://www.ucas.edu.cn/)**), Beijing 100049, China. 
