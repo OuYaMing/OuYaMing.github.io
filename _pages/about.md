@@ -10,7 +10,7 @@ redirect_from:
 ---
 # 👤 About me
 ---
-I am actively <span style="color:red;">looking for job opportunities</span>, including <span style="color:red;">paid postdoctoral, assistant/associate professor, and robotics algorithm researcher positions</span>. If you have any suitable openings, feel free to reach out to me at <span style="color:blue;">ouyaming2021@ia.ac.cn</span> or <span style="color:blue;">yamingo@andrew.cmu.edu</span>!
+<!-- I am actively <span style="color:red;">looking for job opportunities</span>, including <span style="color:red;">paid postdoctoral, assistant/associate professor, and robotics algorithm researcher positions</span>. If you have any suitable openings, feel free to reach out to me at <span style="color:blue;">ouyaming2021@ia.ac.cn</span> or <span style="color:blue;">yamingo@andrew.cmu.edu</span>!-->
 
 I'm an avid robotics enthusiast!🤖🤖🤖 Feel free to chat with me [📧📧📧](mailto:ouyaming2021@ia.ac.cn).
 
