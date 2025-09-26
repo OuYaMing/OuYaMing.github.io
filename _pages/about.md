@@ -136,14 +136,14 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 # 🛠️ Projects & Competitions
 ---
 For a more detailed presentation, see [Publications](https://ouyaming.github.io/publications/) and [Projects](https://ouyaming.github.io/projects/).
-<!--
+
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TMech -->
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
         <p style="text-align:center">
           <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4" type="video/mp4" />
+            <source src="https://ouyaming.github.io/vedio/black_vedio.mp4" type="video/mp4" />
           </video>
         </p>
       </td>
@@ -169,7 +169,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
--->
+
 
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TIE -->
   <tbody>
