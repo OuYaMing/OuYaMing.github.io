@@ -136,6 +136,41 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 # 🛠️ Projects & Competitions
 ---
 For a more detailed presentation, see [Publications](https://ouyaming.github.io/publications/) and [Projects](https://ouyaming.github.io/projects/).
+<!--
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TMech -->
+  <tbody>
+    <tr>
+      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+        <p style="text-align:center">
+          <video style="width:100%;height:auto;" controls="controls">
+            <source src="https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4" type="video/mp4" />
+          </video>
+        </p>
+      </td>
+      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+        <a href="" target="_blank">
+          <papertitle>PL-VAP: A Tightly Coupled Self-Localization Framework for Underwater Robots Using Point-Line Features and Visual-Acoustic-Pressure Sensor Fusion</papertitle>
+        </a >
+        <br>
+        <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
+        <br>
+        <span style="font-size: 10pt;">Submitted in <em> IEEE/ASME Transactions on Mechatronics</em>, 2025</span>
+        <br>
+        <p>Will come later.</p >
+        <p>
+          <strong>Tags</strong>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">SLAM</span>
+          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Multi-sensor Fusion</span>
+          &nbsp;&nbsp;
+          <strong>Source</strong>
+          <a href="https://ouyaming.github.io/" target="_blank">[Video]</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+-->
+
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TIE -->
   <tbody>
     <tr>
@@ -153,7 +188,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
         <br>
-        <span style="font-size: 10pt;">Submitted in <em>IEEE Transactions on Industrial Electronics</em>, 2024</span>
+        <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Industrial Electronics</em>, 2024</span>
         <br>
         <!--  -->
         <p>An underwater tightly-coupled hybrid visual inertial dense SLAM framework, named Hybrid-VINS, is proposed, which is the first underwater SLAM system to utilize active vision information to assist passive vision.</p >
