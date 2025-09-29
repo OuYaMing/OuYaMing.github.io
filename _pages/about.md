@@ -40,7 +40,7 @@ My research interests include：**SLAM**, **autonomous robot navigation**, **mul
 - *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊-->
 <div style="max-height: 150px; overflow-y: auto; font-family: 'Times New Roman', Times, serif; font-size: 11.5pt;">
 
-2025.09.29: &nbsp; Invited by ICRA 2026 to review two papers related to robot navigation and mapping！�
+2025.09.29: &nbsp; Invited by ICRA 2026 to review two papers related to robot navigation and mapping！
 <br>
 2025.08.15: &nbsp; Invited by TRO to review a paper related to underwater robot localization！😊
 <br>
