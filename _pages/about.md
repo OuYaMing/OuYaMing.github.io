@@ -40,6 +40,8 @@ My research interests include：**SLAM**, **autonomous robot navigation**, **mul
 - *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊-->
 <div style="max-height: 150px; overflow-y: auto; font-family: 'Times New Roman', Times, serif; font-size: 11.5pt;">
 
+2025.10.05: &nbsp; 🎉A paper accepted by TMech!😊！
+<br>
 2025.09.29: &nbsp; Invited by ICRA 2026 to review two papers related to robot navigation and mapping！
 <br>
 2025.08.15: &nbsp; Invited by TRO to review a paper related to underwater robot localization！😊
@@ -98,12 +100,20 @@ My research interests include：**SLAM**, **autonomous robot navigation**, **mul
 For a more detailed presentation, see [Publications](https://ouyaming.github.io/publications/).
 
 (**<sup>*</sup>** indicates corresponding author)
-1. **Y. Ou**, J. Fan, et al. "Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV," in IEEE Transactions on Industrial Electronics, 2024. (**SCI, JCR Q1, 中科院一区Top，IF=7.5**)
-2. **Y. Ou** et al., "Structured Light-Based Underwater Collision-Free Navigation and Dense Mapping System for Refined Exploration in Unknown Dark Environments," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2024.3370917. (**SCI, JCR Q1, 中科院一区Top, IF=8.7**)
-3. **Y. Ou**, J. Fan, C. Zhou, L. Cheng and M. Tan, "Water-MBSL: Underwater Movable Binocular Structured Light-Based High-Precision Dense Reconstruction Framework," in IEEE Transactions on Industrial Informatics, vol. 20, no. 4, pp. 6142-6154, April 2024, doi: 10.1109/TII.2023.3342899. (**SCI, JCR Q1, 中科院一区Top, IF=12.3**)
-4. **Y. Ou**, J. Fan, C. Zhou, S. Tian, L. Cheng and M. Tan, "Binocular Structured Light 3-D Reconstruction System for Low-Light Underwater Environments: Design, Modeling, and Laser-Based Calibration," in IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-14, 2023, Art no. 5010314, doi: 10.1109/TIM.2023.3261941. (**SCI, JCR Q1, 中科院二区Top, IF=5.6**)
-5. J. Fan, **Y. Ou<sup>*</sup>**, X. Li, C. Zhou and Z. Hou, "Structured light vision based pipeline tracking and 3D reconstruction method for underwater vehicle," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3340737. (**corresponding author, SCI, JCR Q1, 中科院一区，IF=8.2**)
-6. **Y. Ou**, Z. Zhang, C. Zhou and B. Zhou, "Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM," 2021 40th Chinese Control Conference (CCC), Shanghai, China, 2021, pp. 4308-4314, doi: 10.23919/CCC52363.2021.9549820. (**EI**)
+
+<ol>
+  <li><b>Y. Ou</b>, J. Fan, et al. "Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV," in IEEE Transactions on Industrial Electronics, 2024. (<i>SCI, JCR Q1, 中科院一区Top，IF=7.5</i>)</li>
+
+  <li><b>Y. Ou</b> et al., "Structured Light-Based Underwater Collision-Free Navigation and Dense Mapping System for Refined Exploration in Unknown Dark Environments," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2024.3370917. (<i>SCI, JCR Q1, 中科院一区Top, IF=8.7</i>)</li>
+
+  <li><b>Y. Ou</b>, J. Fan, C. Zhou, L. Cheng and M. Tan, "Water-MBSL: Underwater Movable Binocular Structured Light-Based High-Precision Dense Reconstruction Framework," in IEEE Transactions on Industrial Informatics, vol. 20, no. 4, pp. 6142-6154, April 2024, doi: 10.1109/TII.2023.3342899. (<i>SCI, JCR Q1, 中科院一区Top, IF=12.3</i>)</li>
+
+  <li><b>Y. Ou</b>, J. Fan, C. Zhou, S. Tian, L. Cheng and M. Tan, "Binocular Structured Light 3-D Reconstruction System for Low-Light Underwater Environments: Design, Modeling, and Laser-Based Calibration," in IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-14, 2023, Art no. 5010314, doi: 10.1109/TIM.2023.3261941. (<i>SCI, JCR Q1, 中科院二区Top, IF=5.6</i>)</li>
+
+  <li>J. Fan, <b>Y. Ou<sup>*</sup></b>, X. Li, C. Zhou and Z. Hou, "Structured light vision based pipeline tracking and 3D reconstruction method for underwater vehicle," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3340737. (<i>corresponding author, SCI, JCR Q1, 中科院一区，IF=8.2</i>)</li>
+
+  <li><b>Y. Ou</b>, Z. Zhang, C. Zhou and B. Zhou, "Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM," 2021 40th Chinese Control Conference (CCC), Shanghai, China, 2021, pp. 4308-4314, doi: 10.23919/CCC52363.2021.9549820. (<i>EI</i>)</li>
+</ol>
 
 
 ---
