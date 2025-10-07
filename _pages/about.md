@@ -167,9 +167,9 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           <papertitle>PL-VAP: A Tightly Coupled Self-Localization Framework for Underwater Robots Using Point-Line Features and Visual-Acoustic-Pressure Sensor Fusion</papertitle>
         </a >
         <br>
-        <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
+        <strong>Yaming Ou</strong>, Song Xia, Junfeng Fan, Chao Zhou, etc.
         <br>
-        <span style="font-size: 10pt;">Submitted in <em> IEEE/ASME Transactions on Mechatronics</em>, 2025</span>
+        <span style="font-size: 10pt;">Accepted by <em> IEEE/ASME Transactions on Mechatronics</em>, 2025</span>
         <br>
         <p>Will come later.</p >
         <p>
