@@ -20,7 +20,8 @@ Now, I am currently pursuing in **joint Ph.D.** program under the supervision of
 
 I graduated from the School of Automation at Southeast University (**[SEU, 985](https://www.seu.edu.cn/)**) with a Bachelor's degree in Robotics Engineering, [School of Automation](https://automation.seu.edu.cn/) (**Rank: 2/34，Outstanding Graduate Award**).
 
-My research interests include：**SLAM**, **autonomous robot navigation**, **multi-modal perception**.
+My research interests include：**SLAM**, **autonomous robot navigation**, **multi-modal perception**. My work aims to develop robotic systems endowed with perception, localization, autonomous mobility, and unmanned operation capabilities for extreme real-life applications.
+
 
 
 ---
