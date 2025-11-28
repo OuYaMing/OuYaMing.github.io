@@ -16,7 +16,7 @@ I'm an avid robotics enthusiast!🤖🤖🤖 Feel free to chat with me [📧📧
 
 I am **Yaming Ou** (**欧亚明**), a **5th-year Ph.D.** student (5-year, supervised  by Prof. **[Zhou Chao](http://www.ia.cas.cn/rcdw/yjy/202406/t20240621_7194305.html)** and Assoc. Prof. **[Fan Junfeng](https://people.ucas.edu.cn/~fanjunfeng)**, affiliated with Prof. **[Tan Min](http://www.ia.cas.cn/rcdw/yjy/202404/t20240422_7129785.html)**) with the Laboratory of Cognition and Decision Intelligence for Complex Systems (**[C<sup>2</sup>DL](http://www.ia.cas.cn/jgsz/kyxt/fzxtrz/?LMCL=vN3cUI&LMCL=Y9slHN)**), Institute of Automation, Chinese Academy of Sciences (**[CASIA](http://www.ia.cas.cn/)**), Beijing 100190, China, and also with the School of Artificial Intelligence, University of Chinese Academy of Sciences (**[UCAS](https://www.ucas.edu.cn/)**), Beijing 100049, China. 
 
-I was engaged in **visiting Ph.D.** program under the supervision of Prof. **[Howie Choset](https://scholar.google.com/citations?hl=zh-CN&user=4fvo61oAAAAJ)** at Robotics Institute, Carnegie Mellon University (**[CMU RI](https://www.ri.cmu.edu/)**), and conducting robot control and navigation research at the **[Biorobotics Lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/)** from March 2025 to November 2025.
+I was engaged in **visiting Ph.D.** program under the supervision of Prof. **[Howie Choset](https://scholar.google.com/citations?hl=zh-CN&user=4fvo61oAAAAJ)** at Robotics Institute, Carnegie Mellon University (**[CMU RI](https://www.ri.cmu.edu/)**), and conducting robot control and navigation research at the **[Biorobotics Lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/)** from March 2025 to March 2026.
 
 I graduated from the School of Automation at Southeast University (**[SEU, 985](https://www.seu.edu.cn/)**) with a Bachelor's degree in Robotics Engineering, [School of Automation](https://automation.seu.edu.cn/) (**Rank: 2/34，Outstanding Graduate Award**).
 
@@ -91,7 +91,7 @@ My research interests include: **SLAM**, **autonomous robot navigation**, **mult
 ---
 # 📖 Educations
 ---
-- *2025.03 - 2025.11*:&nbsp; Robotics Institute, Carnegie Mellon University (**Visiting Ph.D.**)
+- *2025.03 - 2026.03*:&nbsp; Robotics Institute, Carnegie Mellon University (**Visiting Ph.D.**)
 - *2021.09 - 2026.06(expected)*:&nbsp; Institute of Automation, Chinese Academy of Sciences (**Ph.D.**)
 - *2021.09 - 2022.06*:&nbsp; School of Artificial Intelligence, University of Chinese Academy of Sciences (**Ph.D.**)
 - *2018.06 - 2021.06*:&nbsp; Department of Robotics Engineering, School of Automation, Southeast University (**B.E.**)
