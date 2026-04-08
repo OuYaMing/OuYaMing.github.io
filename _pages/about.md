@@ -100,7 +100,7 @@ My research interests include: **SLAM**, **autonomous robot navigation**, **mult
 ---
 # 📖 Educations
 ---
-- *2021.09 - 2026.03*:&nbsp; Institute of Automation, Chinese Academy of Sciences (**Ph.D.**)
+- *2021.09 - 2026.06*:&nbsp; Institute of Automation, Chinese Academy of Sciences (**Ph.D.**)
 - *2025.03 - 2026.03*:&nbsp; Robotics Institute, Carnegie Mellon University (**Visiting Scholor.**)
 - *2021.09 - 2022.06*:&nbsp; School of Artificial Intelligence, University of Chinese Academy of Sciences (**Ph.D.**)
 - *2018.06 - 2021.06*:&nbsp; Department of Robotics Engineering, School of Automation, Southeast University (**B.E.**)
