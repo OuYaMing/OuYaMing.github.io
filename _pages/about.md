@@ -20,7 +20,7 @@ I was engaged in visiting scholar program under the supervision of Prof. [Howie 
 
 I graduated from the School of Automation at Southeast University ([SEU, 985](https://www.seu.edu.cn/)) with a Bachelor's degree in Robotics Engineering, [School of Automation](https://automation.seu.edu.cn/) (Rank: 2/34，Outstanding Graduate Award).
 
-My research interests include: **SLAM**, **autonomous robot navigation**, **spatial intelligence**, **tactile-based mobile manipulation**. My work aims to develop robotic systems endowed with perception, localization, autonomous mobility, and unmanned operation capabilities for extreme real-life applications.
+My research interests include: **SLAM**, **Cross-media UAV**, **spatial intelligence**, **tactile-based mobile manipulation**. My work aims to develop robotic systems endowed with perception, localization, autonomous mobility, and unmanned operation capabilities for extreme real-life applications.
 
 
 
