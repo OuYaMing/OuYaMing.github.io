@@ -152,7 +152,7 @@ Visual-Acoustic-Pressure Sensor Fusion," in IEEE/ASME Transactions on Mechatroni
 - *2016*:&nbsp; 🥈High School Mathematics Olympiad Competition, Anhui Province (**provincial 2nd prize**)
 
 ---
-# 🛠️ Projects & Competitions
+# 🛠️ Research
 ---
 For a more detailed presentation, see [Publications](https://ouyaming.github.io/publications/) and [Projects](https://ouyaming.github.io/projects/).
 
@@ -441,7 +441,8 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 百度AI智能车 -->
+<!--
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> 
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
@@ -459,7 +460,6 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <strong>Sponsor</strong>
         <em><a href="https://www.baidu.com/" target="_blank">Baidu</a></em>
         <br>
-        <!--  -->
         <p>Vehicle autonomous driving according to different traffic signs. In addition, based on the target detection algorithm YoloV4-Tiny, the deployment of deep learning algorithms on an embedded development board is realized and guarantees the safe form of the vehicle in the lane.</p >
         <p>
           <strong>Tags</strong>
@@ -474,7 +474,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- LKA -->
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> 
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
@@ -511,18 +511,16 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   </tbody>
 </table>
 <head>
-  <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-  <!-- Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 电赛：动态无线节能充电小车 -->
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;">
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000"><!-- 2s -->
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000">
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -567,7 +565,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 旋转倒立摆 -->
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> 
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
@@ -595,7 +593,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 无线动态充电循迹小车 -->
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> 
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
@@ -623,7 +621,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 双线悬挂系统 -->
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> 
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
@@ -651,7 +649,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- Turtlebot SLAM -->
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> 
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
@@ -674,7 +672,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 五子棋 -->
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> 
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
@@ -697,7 +695,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 行李搬运机器人 -->
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;">
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
@@ -720,7 +718,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 超市分拣机器人 -->
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> 
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
@@ -743,7 +741,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- Webots无人驾驶 -->
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> 
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
@@ -766,7 +764,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 衣物分拣系统 -->
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> 
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
@@ -789,7 +787,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 树莓派智能车 -->
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> 
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
@@ -813,18 +811,16 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   </tbody>
 </table>
 <head>
-  <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-  <!-- Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- 餐盘分割 -->
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> 
   <tbody>
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000"><!-- 1s -->
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000">
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -865,6 +861,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     </tr>
   </tbody>
 </table>
+-->
 
 &nbsp;  
 &nbsp;  
