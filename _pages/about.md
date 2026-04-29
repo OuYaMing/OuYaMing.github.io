@@ -161,9 +161,9 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
         <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/black_vedio.mp4" type="video/mp4" />
-          </video>
+          <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+            <img src="https://ouyaming.github.io/vedio/PL-VAP.gif" alt="clean-usnob" width="500" height="300">
+          </td>
         </p>
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
@@ -195,9 +195,9 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
         <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/2024-TIE-vedio.mp4" type="video/mp4" />
-          </video>
+          <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+            <img src="https://ouyaming.github.io/vedio/Hybrid-VINS.gif" alt="clean-usnob" width="500" height="300">
+          </td>
         </p>
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
@@ -228,9 +228,9 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
         <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/TSMCA.gif" type="video/mp4" />
-          </video>
+          <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+            <img src="https://ouyaming.github.io/vedio/TSMCA.gif" alt="clean-usnob" width="500" height="300">
+          </td>
         </p>
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
@@ -262,9 +262,9 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
     <tr>
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
         <p style="text-align:center">
-          <video style="width:100%;height:auto;" controls="controls">
-            <source src="https://ouyaming.github.io/vedio/Water-MBSL.gif" type="video/mp4" />
-          </video>
+      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+        <img src="https://ouyaming.github.io/vedio/Water-MBSL.gif" alt="clean-usnob" width="500" height="300">
+      </td>
         </p>
       </td>
       <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
