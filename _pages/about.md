@@ -159,12 +159,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TMech -->
   <tbody>
     <tr>
-          <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+          <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
             <img src="https://ouyaming.github.io/vedio/PL-VAP.gif" alt="clean-usnob" width="500" height="300">
           </td>
-        </p>
-      </td>
-      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
         <a href="" target="_blank">
           <papertitle>PL-VAP: A Tightly Coupled Self-Localization Framework for Underwater Robots Using Point-Line Features and Visual-Acoustic-Pressure Sensor Fusion</papertitle>
         </a >
@@ -191,12 +189,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TIE -->
   <tbody>
     <tr>
-          <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+          <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
             <img src="https://ouyaming.github.io/vedio/Hybrid-VINS.gif" alt="clean-usnob" width="500" height="300">
           </td>
-        </p>
-      </td>
-      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
         <a href="" target="_blank">
           <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
         </a >
@@ -222,12 +218,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TSMC -->
   <tbody>
     <tr>
-          <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+          <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
             <img src="https://ouyaming.github.io/vedio/TSMCA.gif" alt="clean-usnob" width="500" height="300">
           </td>
-        </p>
-      </td>
-      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2024-03-18-TSMC" target="_blank">
           <papertitle>Structured Light-Based Underwater Collision-Free Navigation and Dense Mapping System for Refined Exploration in Unknown Dark Environments</papertitle>
         </a >
@@ -254,12 +248,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TII -->
   <tbody>
     <tr>
-      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
         <img src="https://ouyaming.github.io/vedio/Water-MBSL.gif" alt="clean-usnob" width="500" height="300">
       </td>
-        </p>
-      </td>
-      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
           <papertitle>Water-MBSL: Underwater Movable Binocular Structured Light-Based High-Precision Dense Reconstruction Framework</papertitle>
         </a >
@@ -294,7 +286,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TIM -->
   <tbody>
     <tr>
-      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000"><!-- 2s -->
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -326,7 +318,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           </a>
         </div>
       </td>
-      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2023-03-27-TIM" target="_blank">
           <papertitle>Binocular Structured Light 3-D Reconstruction System for Low-light Underwater Environments: Design, Modeling, and Laser-based Calibration</papertitle>
         </a >
@@ -352,10 +344,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TIV -->
   <tbody>
     <tr>
-      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
         <img src="https://ouyaming.github.io/vedio/2023-12-08-TIV_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
-      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2023-12-08-TIV" target="_blank">
           <papertitle>Structured Light Vision-Based Pipeline Tracking and 3D Reconstruction Method for Underwater Vehicle</papertitle>
         </a >
