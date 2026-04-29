@@ -169,9 +169,9 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         <strong>Yaming Ou</strong>, Song Xia, Junfeng Fan, Chao Zhou, etc.
         <br>
-        <span style="font-size: 10pt;">Accepted by <em> IEEE/ASME Transactions on Mechatronics</em>, 2025</span>
+        <span style="font-size: 10pt;">Published in <em> IEEE/ASME Transactions on Mechatronics</em>, 2025</span>
         <br>
-        <p>Will come later.</p >
+        <p>A tightly coupled graph-optimization–based point–line feature and visual–acoustic–pressure fusion method, termed PL-VAP, is proposed as the first underwater self-localization framework to jointly integrate multi-feature and multi-modal information.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">SLAM</span>
@@ -357,7 +357,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Intelligent Vehicles</em>, 2023</span>
         <br>
         <!--  -->
-        <p>A novel underwater pipeline positioning method based on dual-line laser SLV is proposed, which can simultaneously obtain the lateral deviation, height deviation and heading deviation of underwater vehicle and underwater pipeline under weak light water environment, providing the basis for underwater pipeline tracking.</p >
+        <p>A dual-line laser SLV–based method is proposed for underwater pipeline positioning, enabling simultaneous estimation of lateral, vertical, and heading deviations under low-light conditions, and supporting reliable pipeline tracking.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">3D Reconstruction</span>
@@ -374,7 +374,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- CCC -->
   <tbody>
     <tr>
-      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000"><!-- 2s -->
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -410,7 +410,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           </a>
         </div>
       </td>
-      <td style="padding:20px;width:60%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2021-07-26-CCC" target="_blank">
           <papertitle>Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM</papertitle>
         </a >
