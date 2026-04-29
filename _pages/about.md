@@ -27,19 +27,9 @@ My research interests include: **SLAM**, **autonomous robot navigation**, **spat
 ---
 # 🔥 News
 ---
-<!-- 
-- *2024.07.26*: &nbsp; 😊😊A SLAM-related paper accepted by TIE!
-- *2024.06.14*: &nbsp; Invited by TIV to review a paper related to autonomous driving🎉🎉
-- *2024.05.30*: &nbsp; 🎉😊Recognized as an outstanding student leader of UCAS
-- *2024.03.21*: &nbsp; Publish a paper in TSMC!😊😊
-- *2023.11.25*: &nbsp;🎉A paper accepted by TIV!😊
-- *2023.10.06*: &nbsp; A paper accepted by TII!🎉
-- *2021.06.15*: &nbsp;🎉🎉Invited by IEEE Sensor to review a paper related to camera-imu calibration😊
-- *2023.03.27*: &nbsp;😊 Publish a paper in TIM!😊
-- *2023.03.09*: &nbsp;🎉 Successfully selected for the PHD experimental class of CASIA!🎉
-- *2021.07.29*: &nbsp;😊 Participation in the China Control Conference in Shanghai,China!🎉🎉
-- *2021.06.31*: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊-->
 <div style="max-height: 150px; overflow-y: auto; font-family: 'Times New Roman', Times, serif; font-size: 11.5pt;">
+2026.4.28: &nbsp; 🎉A paper accepted by TIM! (Cooperate with PolyU)😊
+<br>
 2026.2.4: &nbsp; Invited by IoT to review a paper related to  robot localization！😊
 <br>
 2026.1.7: &nbsp; Invited by RINENG to review a paper related to vision calibration！😊
