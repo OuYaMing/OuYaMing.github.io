@@ -159,8 +159,6 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TMech -->
   <tbody>
     <tr>
-      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
           <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
             <img src="https://ouyaming.github.io/vedio/PL-VAP.gif" alt="clean-usnob" width="500" height="300">
           </td>
@@ -193,8 +191,6 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TIE -->
   <tbody>
     <tr>
-      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
           <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
             <img src="https://ouyaming.github.io/vedio/Hybrid-VINS.gif" alt="clean-usnob" width="500" height="300">
           </td>
@@ -226,8 +222,6 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TSMC -->
   <tbody>
     <tr>
-      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
           <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
             <img src="https://ouyaming.github.io/vedio/TSMCA.gif" alt="clean-usnob" width="500" height="300">
           </td>
@@ -260,8 +254,6 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TII -->
   <tbody>
     <tr>
-      <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
-        <p style="text-align:center">
       <td style="padding:20px;width:40%;vertical-align:middle;border:none;">
         <img src="https://ouyaming.github.io/vedio/Water-MBSL.gif" alt="clean-usnob" width="500" height="300">
       </td>
