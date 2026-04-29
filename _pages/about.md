@@ -120,7 +120,7 @@ Visual-Acoustic-Pressure Sensor Fusion," in IEEE/ASME Transactions on Mechatroni
   <li><b>Y. Ou</b>, Z. Zhang, C. Zhou and B. Zhou, "Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM," 2021 40th Chinese Control Conference (CCC) [C], Shanghai, China, 2021, pp. 4308-4314, doi: 10.23919/CCC52363.2021.9549820. (<i>EI</i>)</li>
 </ol>
 
-
+<!--
 ---
 # 🛡️ Patents 
 ---
@@ -128,6 +128,8 @@ Visual-Acoustic-Pressure Sensor Fusion," in IEEE/ASME Transactions on Mechatroni
 2. Zhou C, **Ou Y**, Fan J, et al, A Simultaneous Localization System and Method for Underwater Robots. Chinese Patent, KHP2411116437.0.
 3. Zhang Z, Zhou C, Fan J, **Ou Y**, Bionic Lateral Line Sensor. Chinese Patent, CN114624461B.
 4. Zhang Z, Zhou C, Fan J, ..., **Ou Y**. Calibration Model Training Method, Device and System, Electronic Equipment and Storage Medium. Chinese Patent, CN117634641A.
+
+!-->
 
 ---
 # 🏆 Honors & Awards
