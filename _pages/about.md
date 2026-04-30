@@ -248,9 +248,9 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           <papertitle>PL-VAP: A Tightly Coupled Self-Localization Framework for Underwater Robots Using Point-Line Features and Visual-Acoustic-Pressure Sensor Fusion</papertitle>
         </a >
         <br>
-        <strong>Yaming Ou</strong>, Song Xia, Junfeng Fan, Chao Zhou, etc.
+        <strong>Yaming Ou</strong>, Song Xia, Junfeng Fan, etc.
         <br>
-        <span style="font-size: 10pt;">Published in <em> IEEE/ASME Transactions on Mechatronics</em>, 2025</span>
+        <span style="font-size: 10pt;"><em> IEEE/ASME Transactions on Mechatronics</em>, 2025</span>
         <br>
         <p>A tightly coupled graph-optimization–based point–line feature and visual–acoustic–pressure fusion method, termed PL-VAP, is proposed as the first underwater self-localization framework to jointly integrate multi-feature and multi-modal information.</p >
         <p>
@@ -280,7 +280,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
         <br>
-        <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Industrial Electronics</em>, 2024</span>
+        <span style="font-size: 10pt;"><em>IEEE Transactions on Industrial Electronics</em>, 2024</span>
         <br>
         <!--  -->
         <p>An underwater tightly-coupled hybrid visual inertial dense SLAM framework, named Hybrid-VINS, is proposed, which is the first underwater SLAM system to utilize active vision information to assist passive vision.</p >
@@ -309,7 +309,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
         <br>
-        <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, 2024</span>
+        <span style="font-size: 10pt;"><em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, 2024</span>
         <br>
         <!--  -->
         <p>A more adaptable 3D dense mapping robotic system based on self-designed scanning BSL, named ROVScanner, is developed for refined exploration, where the on-board design allows for autonomous mobility and operational capabilities.</p >
@@ -339,7 +339,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
         <br>
-        <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Industrial Informatics</em>, 2023</span>
+        <span style="font-size: 10pt;"><em>IEEE Transactions on Industrial Informatics</em>, 2023</span>
         <br>
         <!--  -->
         <p>An SSLSLS-based underwater movable high-precision dense reconstruction framework, named Water-movable binocular structured light (MBSL), is proposed, which takes into account both motion distortion and point cloud registration.</p >
@@ -406,7 +406,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         <strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, etc.
         <br>
-        <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Instrumentation and Measurement</em>, 2023</span>
+        <span style="font-size: 10pt;"><em>IEEE Transactions on Instrumentation and Measurement</em>, 2023</span>
         <br>
         <!--  -->
         <p>An underwater binocular structured light 3-D reconstruction system with the scanning laser is designed to realize the static high-precision scanning reconstruction of the low-light scene, which is suitable for underwater robot application.</p >
@@ -435,7 +435,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         Junfeng Fan, <strong>Yaming Ou*</strong>,  Xuan Li, etc. (corresponding author)
         <br>
-        <span style="font-size: 10pt;">Published in <em>IEEE Transactions on Intelligent Vehicles</em>, 2023</span>
+        <span style="font-size: 10pt;"><em>IEEE Transactions on Intelligent Vehicles</em>, 2023</span>
         <br>
         <!--  -->
         <p>A dual-line laser SLV–based method is proposed for underwater pipeline positioning, enabling simultaneous estimation of lateral, vertical, and heading deviations under low-light conditions, and supporting reliable pipeline tracking.</p >
@@ -498,7 +498,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <br>
         <strong>Yaming Ou</strong>, Zhuoliang Zhang, Chao Zhou, etc.
         <br>
-        <span style="font-size: 10pt;">Published in <em>2021 40th Chinese Control Conference (CCC)</em>, 2023</span>
+        <span style="font-size: 10pt;"><em>2021 40th Chinese Control Conference (CCC)</em>, 2023</span>
         <br>
         <!--  -->
         <p>A cantilever artificial lateral line (ALL) sensor based on piezoresistive effect was developed by imitating the "SNs" cell structure of real fish to realize underwater speed measurement.</p >
