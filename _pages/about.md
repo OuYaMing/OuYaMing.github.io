@@ -10,17 +10,27 @@ redirect_from:
 ---
 # 👤 About me
 ---
+
+<div style="
+  text-align: justify;
+  text-justify: inter-word;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+">
+
 <!-- I am actively <span style="color:red;">looking for job opportunities</span>, including <span style="color:red;">paid postdoctoral, assistant/associate professor, and robotics algorithm researcher positions</span>. If you have any suitable openings, feel free to reach out to me at <span style="color:blue;">ouyaming2021@ia.ac.cn</span> or <span style="color:blue;">yamingo@andrew.cmu.edu</span>!-->
 
 I'm an avid robotics enthusiast!🤖🤖🤖 Feel free to chat with me [📧📧📧](mailto:ouyaming2021@ia.ac.cn).
 
-I am **Yaming Ou** (**欧亚明**), a **5th-year Ph.D.** student (5-year, supervised  by Prof. [Zhou Chao](http://www.ia.cas.cn/rcdw/yjy/202406/t20240621_7194305.html) and Assoc. Prof. [Fan Junfeng](https://people.ucas.edu.cn/~fanjunfeng), affiliated with Prof. [Tan Min](http://www.ia.cas.cn/rcdw/yjy/202404/t20240422_7129785.html)) with the Laboratory of Cognition and Decision Intelligence for Complex Systems (C<sup>2</sup>DL), Institute of Automation, Chinese Academy of Sciences (CASIA]), and also with the School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS). 
+I am **Yaming Ou** (**欧亚明**), a **5th-year Ph.D.** student (5-year, supervised  by Prof. [Zhou Chao](http://www.ia.cas.cn/rcdw/yjy/202406/t20240621_7194305.html) and Assoc. Prof. [Fan Junfeng](https://people.ucas.edu.cn/~fanjunfeng), affiliated with Prof. [Tan Min](http://www.ia.cas.cn/rcdw/yjy/202404/t20240422_7129785.html)) with the Laboratory of Cognition and Decision Intelligence for Complex Systems (C<sup>2</sup>DL), Institute of Automation, Chinese Academy of Sciences (CASIA), and also with the School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS). 
 
 I was engaged in visiting scholar program under the supervision of Prof. [Howie Choset](https://scholar.google.com/citations?hl=zh-CN&user=4fvo61oAAAAJ) at Robotics Institute, Carnegie Mellon University ([CMU RI](https://www.ri.cmu.edu/)), and conducting robot control and navigation research at the Biorobotics Lab from March 2025 to March 2026.
 
-I graduated from the School of Automation at Southeast University (SEU, 985) with a Bachelor's degree in Robotics Engineering, School of Automation (Rank: 2/34，Outstanding Graduate Award).
+I graduated from the School of Automation at Southeast University (SEU, 985) with a Bachelor's degree in Robotics Engineering, School of Automation (Rank: 2/34, Outstanding Graduate Award).
 
 My research interests include: **SLAM**, **cross-media UAV**, **spatial intelligence**, **tactile-based mobile manipulation**. My work aims to develop robotic systems endowed with perception, localization, autonomous mobility, and unmanned operation capabilities for extreme real-life applications.
+
+</div>
 
 
 
