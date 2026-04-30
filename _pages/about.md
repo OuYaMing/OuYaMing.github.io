@@ -107,7 +107,14 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 
 (**<sup>*</sup>** indicates corresponding author; **<sup>†</sup>** indicates co-first author)
 
-<ol class="pub-list">
+<ol class="pub-list" style="
+  padding-left: 1.2em; 
+  margin-left: 0; 
+  text-align: justify; 
+  text-justify: inter-word;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+">
   <li>
     <span class="pub-content">
       <b>Y. Ou</b>, S. Xia, et al. "PL-VAP: A Tightly Coupled Self-Localization Framework for Underwater Robots Using Point-Line Features and 
