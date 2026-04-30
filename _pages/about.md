@@ -127,7 +127,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <li>
     <span class="pub-content">
       <b>Y. Ou</b> et al., "Structured Light-Based Underwater Collision-Free Navigation and Dense Mapping System for Refined Exploration in Unknown Dark Environments," 
-      in <b><i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i></b> [J], doi: 10.1109/TSMC.2024.3370917. 
+      in <b><i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i></b> [J], 2024. 
       (<i>SCI, JCR Q1, IF=8.7</i>)
     </span>
   </li>
@@ -135,7 +135,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <li>
     <span class="pub-content">
       <b>Y. Ou</b>, et al., "Water-MBSL: Underwater Movable Binocular Structured Light-Based High-Precision Dense Reconstruction Framework," 
-      in <b><i>IEEE Transactions on Industrial Informatics</i></b> [J], vol. 20, no. 4, pp. 6142-6154, April 2024, doi: 10.1109/TII.2023.3342899. 
+      in <b><i>IEEE Transactions on Industrial Informatics</i></b> [J], 2024. 
       (<i>SCI, JCR Q1, IF=12.3</i>)
     </span>
   </li>
@@ -143,7 +143,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <li>
     <span class="pub-content">
       <b>Y. Ou</b>, et al., "Binocular Structured Light 3-D Reconstruction System for Low-Light Underwater Environments: Design, Modeling, and Laser-Based Calibration," 
-      in <b><i>IEEE Transactions on Instrumentation and Measurement</i></b> [J], vol. 72, pp. 1-14, 2023, Art no. 5010314, doi: 10.1109/TIM.2023.3261941. 
+      in <b><i>IEEE Transactions on Instrumentation and Measurement</i></b> [J], 2023. 
       (<i>SCI, JCR Q1, IF=5.6</i>)
     </span>
   </li>
@@ -151,7 +151,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <li>
     <span class="pub-content">
       J. Fan, <b>Y. Ou<sup>*</sup></b>, et al., "Structured light vision based pipeline tracking and 3D reconstruction method for underwater vehicle," 
-      in <b><i>IEEE Transactions on Intelligent Vehicles</i></b> [J], doi: 10.1109/TIV.2023.3340737. 
+      in <b><i>IEEE Transactions on Intelligent Vehicles</i></b> [J], 2023. 
       (<i>corresponding author, SCI, JCR Q1, IF=8.2</i>)
     </span>
   </li>
@@ -159,7 +159,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <li>
     <span class="pub-content">
       <b>Y. Ou</b>, et al., "Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM," 
-      in <b><i>Chinese Control Conference (CCC)</i></b> [C], Shanghai, China, 2021, pp. 4308-4314, doi: 10.23919/CCC52363.2021.9549820. 
+      in <b><i>Chinese Control Conference (CCC)</i></b> [C], Shanghai, China, 2021. 
       (<i>EI</i>)
     </span>
   </li>
