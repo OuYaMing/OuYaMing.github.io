@@ -39,3 +39,16 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+body {
+  line-height: 1.6;
+  letter-spacing: 0.2px;
+}
+
+.page__content {
+  font-size: 16px;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
