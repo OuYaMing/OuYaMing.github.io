@@ -109,21 +109,21 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 
 <ol style="padding-left: 0; margin-left: 0;">
   <li><b>Y. Ou</b>, S. Xia, et al. "PL-VAP: A Tightly Coupled Self-Localization Framework for Underwater Robots Using Point-Line Features and 
-Visual-Acoustic-Pressure Sensor Fusion," in IEEE/ASME Transactions on Mechatronics [J], 2025. (<i>SCI, JCR Q1, 中科院一区Top，IF=7.3</i>)</li>
+Visual-Acoustic-Pressure Sensor Fusion," in <b><i>IEEE/ASME Transactions on Mechatronics</i></b> [J], 2025. (<i>SCI, JCR Q1, 中科院一区Top，IF=7.3</i>)</li>
   
-  <li><b>Y. Ou</b>, J. Fan, et al., "Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV," in IEEE Transactions on Industrial Electronics [J], 2024. (<i>SCI, JCR Q1, 中科院一区Top，IF=7.5</i>)</li>
+  <li><b>Y. Ou</b>, J. Fan, et al., "Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV," in <b><i>IEEE Transactions on Industrial Electronics</i></b> [J], 2024. (<i>SCI, JCR Q1, 中科院一区Top，IF=7.5</i>)</li>
 
-  <li><b>Y. Ou</b> et al., "Structured Light-Based Underwater Collision-Free Navigation and Dense Mapping System for Refined Exploration in Unknown Dark Environments," in IEEE Transactions on Systems, Man, and Cybernetics: Systems [J], doi: 10.1109/TSMC.2024.3370917. (<i>SCI, JCR Q1, IF=8.7</i>)</li>
+  <li><b>Y. Ou</b> et al., "Structured Light-Based Underwater Collision-Free Navigation and Dense Mapping System for Refined Exploration in Unknown Dark Environments," in <b><i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i></b> [J], doi: 10.1109/TSMC.2024.3370917. (<i>SCI, JCR Q1, IF=8.7</i>)</li>
 
-  <li><b>Y. Ou</b>, et al., "Water-MBSL: Underwater Movable Binocular Structured Light-Based High-Precision Dense Reconstruction Framework," in IEEE Transactions on Industrial Informatics [J], vol. 20, no. 4, pp. 6142-6154, April 2024, doi: 10.1109/TII.2023.3342899. (<i>SCI, JCR Q1, IF=12.3</i>)</li>
+  <li><b>Y. Ou</b>, et al., "Water-MBSL: Underwater Movable Binocular Structured Light-Based High-Precision Dense Reconstruction Framework," in <b><i>IEEE Transactions on Industrial Informatics</i></b> [J], vol. 20, no. 4, pp. 6142-6154, April 2024, doi: 10.1109/TII.2023.3342899. (<i>SCI, JCR Q1, IF=12.3</i>)</li>
 
-  <li><b>Y. Ou</b>, et al., "Binocular Structured Light 3-D Reconstruction System for Low-Light Underwater Environments: Design, Modeling, and Laser-Based Calibration," in IEEE Transactions on Instrumentation and Measurement [J], vol. 72, pp. 1-14, 2023, Art no. 5010314, doi: 10.1109/TIM.2023.3261941. (<i>SCI, JCR Q1, IF=5.6</i>)</li>
+  <li><b>Y. Ou</b>, et al., "Binocular Structured Light 3-D Reconstruction System for Low-Light Underwater Environments: Design, Modeling, and Laser-Based Calibration," in <b><i>IEEE Transactions on Instrumentation and Measurement</i></b> [J], vol. 72, pp. 1-14, 2023, Art no. 5010314, doi: 10.1109/TIM.2023.3261941. (<i>SCI, JCR Q1, IF=5.6</i>)</li>
 
-  <li>J. Fan, <b>Y. Ou<sup>*</sup></b>, et al., "Structured light vision based pipeline tracking and 3D reconstruction method for underwater vehicle," in IEEE Transactions on Intelligent Vehicles [J], doi: 10.1109/TIV.2023.3340737. (<i>corresponding author, SCI, JCR Q1, IF=8.2</i>)</li>
+  <li>J. Fan, <b>Y. Ou<sup>*</sup></b>, et al., "Structured light vision based pipeline tracking and 3D reconstruction method for underwater vehicle," in <b><i>IEEE Transactions on Intelligent Vehicles</i></b> [J], doi: 10.1109/TIV.2023.3340737. (<i>corresponding author, SCI, JCR Q1, IF=8.2</i>)</li>
   
-  <li><b>Y. Ou</b>, et al., "Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM," 2021 40th Chinese Control Conference (CCC) [C], Shanghai, China, 2021, pp. 4308-4314, doi: 10.23919/CCC52363.2021.9549820. (<i>EI</i>)</li>
+  <li><b>Y. Ou</b>, et al., "Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM," in <b><i>Chinese Control Conference (CCC)</i></b> [C], Shanghai, China, 2021, pp. 4308-4314, doi: 10.23919/CCC52363.2021.9549820. (<i>EI</i>)</li>
   
-  <li>Y. Xue<sup>†</sup>, <b>Y. Ou</b><sup>†</sup>, et. al., "Multi-Modal Fusion for Underwater Localization through Hierarchical Uncertainty Awareness," in IEEE Transactions on Instrumentation and Measurement, 2026. (<i>SCI, JCR Q1, IF=5.6</i>)</li>
+  <li>Y. Xue<sup>†</sup>, <b>Y. Ou</b><sup>†</sup>, et. al., "Multi-Modal Fusion for Underwater Localization through Hierarchical Uncertainty Awareness," in <b><i>IEEE Transactions on Instrumentation and Measurement</i></b>, 2026. (<i>SCI, JCR Q1, IF=5.6</i>)</li>
 </ol>
 
 <!--
