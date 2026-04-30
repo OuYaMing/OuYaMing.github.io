@@ -107,7 +107,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 
 (**<sup>*</sup>** indicates corresponding author; **<sup>†</sup>** indicates co-first author)
 
-<ol style="padding-left: 0; margin-left: 0;">
+<ol style="padding-left: 1.2em; margin-left: 0;">
   <li><b>Y. Ou</b>, S. Xia, et al. "PL-VAP: A Tightly Coupled Self-Localization Framework for Underwater Robots Using Point-Line Features and 
 Visual-Acoustic-Pressure Sensor Fusion," in <b><i>IEEE/ASME Transactions on Mechatronics</i></b> [J], 2025. (<i>SCI, JCR Q1, IF=7.3</i>)</li>
   
