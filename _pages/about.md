@@ -312,11 +312,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <span style="font-size: 10pt;"><em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, 2024</span>
         <br>
         <!--  -->
-        <p>A more adaptable 3D dense mapping robotic system based on self-designed scanning BSL, named ROVScanner, is developed for refined exploration, where the on-board design allows for autonomous mobility and operational capabilities.</p >
+        <p>A more adaptable 3D dense mapping robotic system based on self-designed scanning BSL is developed for refined exploration, where the on-board design allows for autonomous mobility and operational capabilities.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Navigation</span>
-          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Obstacle Avoidance</span>
           &nbsp;&nbsp;
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/files/2024-03-18-TSMC.pdf" target="_blank">[Paper]</a>
@@ -342,11 +341,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <span style="font-size: 10pt;"><em>IEEE Transactions on Industrial Informatics</em>, 2023</span>
         <br>
         <!--  -->
-        <p>An SSLSLS-based underwater movable high-precision dense reconstruction framework, named Water-movable binocular structured light (MBSL), is proposed, which takes into account both motion distortion and point cloud registration.</p >
+        <p>An SSLSLS-based underwater movable high-precision dense reconstruction framework, named Water-MBSL, is proposed, which takes into account both motion distortion and point cloud registration.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Dense Mapping</span>
-          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Motion Reconstruction</span>
           &nbsp;&nbsp;
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/files/2023-12-29-TII.pdf" target="_blank">[Paper]</a>
@@ -413,7 +411,6 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">3D Reconstruction</span>
-          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Active Vision</span>
           &nbsp;&nbsp;
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/files/2023-03-27-TIM.pdf" target="_blank">[Paper]</a>
@@ -438,11 +435,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <span style="font-size: 10pt;"><em>IEEE Transactions on Intelligent Vehicles</em>, 2023</span>
         <br>
         <!--  -->
-        <p>A dual-line laser SLV–based method is proposed for underwater pipeline positioning, enabling simultaneous estimation of lateral, vertical, and heading deviations under low-light conditions, and supporting reliable pipeline tracking.</p >
+        <p>A dual-line laser SLV–based method is proposed for underwater pipeline positioning, enabling simultaneous estimation of lateral, vertical, and heading deviations, and supporting reliable pipeline tracking.</p >
         <p>
           <strong>Tags</strong>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">3D Reconstruction</span>
-          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Pipeline Tracking</span>
           &nbsp;&nbsp;
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/files/2023-12-08-TIV.pdf" target="_blank">[Paper]</a>
@@ -504,7 +500,6 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <p>A cantilever artificial lateral line (ALL) sensor based on piezoresistive effect was developed by imitating the "SNs" cell structure of real fish to realize underwater speed measurement.</p >
         <p>
           <strong>Tags</strong>
-          <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Speed Measurement</span>
           <span style="background-color: #f0f0f0; padding: 3px 8px; border-radius: 5px; margin-right: 5px;">Biomimetic Sensor</span>
           &nbsp;&nbsp;
           <strong>Source</strong>
