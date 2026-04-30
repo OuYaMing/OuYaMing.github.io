@@ -111,7 +111,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
   <li><b>Y. Ou</b>, S. Xia, et al. "PL-VAP: A Tightly Coupled Self-Localization Framework for Underwater Robots Using Point-Line Features and 
 Visual-Acoustic-Pressure Sensor Fusion," in <b><i>IEEE/ASME Transactions on Mechatronics</i></b> [J], 2025. (<i>SCI, JCR Q1, IF=7.3</i>)</li>
   
-  <li><b>Y. Ou</b>, J. Fan, et al., "Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV," in <b><i>IEEE Transactions on Industrial Electronics</i></b> [J], 2024. (<i>SCI, JCR Q1, 中科院一区Top，IF=7.5</i>)</li>
+  <li><b>Y. Ou</b>, J. Fan, et al., "Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV," in <b><i>IEEE Transactions on Industrial Electronics</i></b> [J], 2024. (<i>SCI, JCR Q1, IF=7.5</i>)</li>
 
   <li><b>Y. Ou</b> et al., "Structured Light-Based Underwater Collision-Free Navigation and Dense Mapping System for Refined Exploration in Unknown Dark Environments," in <b><i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i></b> [J], doi: 10.1109/TSMC.2024.3370917. (<i>SCI, JCR Q1, IF=8.7</i>)</li>
 
