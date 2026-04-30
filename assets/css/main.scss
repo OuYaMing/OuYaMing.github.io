@@ -56,3 +56,24 @@ h1, h2, h3 {
 .page__content {
   text-align: justify;
 }
+
+.pub-list {
+  padding-left: 1.5em;
+  margin-left: 0;
+}
+
+.pub-list li {
+  margin-bottom: 12px;
+  line-height: 1.6;
+}
+
+.pub-content {
+  display: block;
+  padding-left: 0.5em;
+  text-indent: -0.5em;
+}
+
+/* 小优化（更像顶刊） */
+.pub-list i {
+  color: #555;
+}
