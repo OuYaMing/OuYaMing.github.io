@@ -44,7 +44,7 @@ My work aims to develop robotic systems endowed with perception, localization, a
 # 🔥 News
 ---
 <div style="max-height: 150px; overflow-y: auto; font-family: Times, serif; font-size: 11.5pt;">
-2026.4.29: &nbsp; I successfully completed my doctoral defense and was awarded the Outstanding Graduate of Beijing and the President's Award of UCAS (the highest award for graduate students)🎉🎉
+2026.4.29: &nbsp; I successfully completed my doctoral defense and was awarded the Outstanding Graduate of Beijing and the President's Scholarship of UCAS (the highest award for graduate students)🎉🎉
 <br>
 2026.4.28: &nbsp; 🎉A paper accepted by TIM! (Cooperate with PolyU)😊
 <br>
@@ -212,6 +212,9 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 ---
 # 🏆 Honors & Awards
 ---
+- *2025*:&nbsp; 📜The President's Scholarship of UCAS (**the highest award for graduate students**)
+- *2025*:&nbsp; 📜Outstanding Graduating Doctoral Students of Beijing (**top 1%**)
+- *2025*:&nbsp; 📜Three Good Student Model of UCAS (**top 1%**)
 - *2024*:&nbsp; 📜Selected for the PhD International Cooperation Program of UCAS (**one spot per institute**)
 - *2024*:&nbsp; 📜China PhD National Scholarship (**3%, 3W RMB award**)
 - *2024*:&nbsp; 📜Outstanding Student Leader Award of UCAS (**top 2%**)
