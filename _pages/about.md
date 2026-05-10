@@ -212,8 +212,8 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 ---
 # 🏆 Honors & Awards
 ---
-- *2025*:&nbsp; 📜The President's Scholarship of UCAS (**the highest award for graduate students**)
-- *2025*:&nbsp; 📜Outstanding Graduating Doctoral Students of Beijing (**top 1%**)
+<!--- *2026*:&nbsp; 📜The President's Scholarship of UCAS (**the highest award for graduate students**)
+- *2026*:&nbsp; 📜Outstanding Graduating Doctoral Students of Beijing (**top 1%**)-->
 - *2025*:&nbsp; 📜Three Good Student Model of UCAS (**top 1%**)
 - *2024*:&nbsp; 📜Selected for the PhD International Cooperation Program of UCAS (**one spot per institute**)
 - *2024*:&nbsp; 📜China PhD National Scholarship (**3%, 3W RMB award**)
