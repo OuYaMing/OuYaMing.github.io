@@ -46,7 +46,11 @@ My work aims to develop robotic systems endowed with perception, localization, a
 <div style="max-height: 150px; overflow-y: auto; font-family: Times, serif; font-size: 11.5pt;">
 <!--2026.4.29: &nbsp; I successfully completed my doctoral defense and was awarded the Outstanding Graduate of Beijing and the President's Scholarship of UCAS (the highest award for graduate students)🎉🎉
 <br>-->
-2026.4.28: &nbsp; 🎉A paper accepted by TIM! (Cooperate with PolyU)😊
+2026.5.11: &nbsp; Invited by CBS to review a paper related to  robot fish！😊
+<br>
+2026.4.29: &nbsp; I successfully completed my doctoral defense!🎉
+<br>
+2026.4.28: &nbsp; 🎉A co-first author paper accepted by TIM! (Cooperate with PolyU)!😊
 <br>
 2026.2.4: &nbsp; Invited by IoT to review a paper related to  robot localization！😊
 <br>
