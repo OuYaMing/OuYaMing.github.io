@@ -68,7 +68,7 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-/*
+
 $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
@@ -81,28 +81,7 @@ $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #52adc8;
-*/
 
-/* dark theme */
-$body-color                 : #0f1117;
-$background-color           : #0f1117;
-
-$text-color                 : #d6d6d6;
-$border-color               : #2a2f3a;
-
-$primary-color              : #c9d1d9;
-
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #58a6ff;
-
-/* grayscale */
-$gray                       : #7a8288;
-$dark-gray                  : #d6d6d6;
-$darker-gray                : #ffffff;
-$light-gray                 : #8b949e;
-$lighter-gray               : #30363d;
 
 /* brands */
 $behance-color              : #1769FF;
