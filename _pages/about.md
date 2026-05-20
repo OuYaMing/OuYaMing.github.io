@@ -52,7 +52,7 @@ My work aims to develop robotic systems endowed with perception, localization, a
 <br>
 2026.04.28 &nbsp; 🎉A co-first author paper accepted by TIM! (Cooperate with PolyU)!😊
 <br>
-2026.02.4 &nbsp; Invited by IoT to review a paper related to  robot localization！😊
+2026.02.04 &nbsp; Invited by IoT to review a paper related to  robot localization！😊
 <br>
 2026.01.07 &nbsp; Invited by RINENG to review a paper related to vision calibration！😊
 <br>
