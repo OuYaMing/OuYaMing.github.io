@@ -40,3 +40,301 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* =========================================================
+   Global Layout
+   ========================================================= */
+
+html,
+body {
+  background-color: #0f1117 !important;
+  color: #d6d6d6 !important;
+  font-family: "Inter", sans-serif !important;
+  font-size: 16px;
+  line-height: 1.75;
+  letter-spacing: -0.01em;
+}
+
+/* main content width */
+
+.page {
+  width: 100%;
+  max-width: 1500px;
+}
+
+.page__inner-wrap {
+  max-width: 1450px;
+}
+
+/* =========================================================
+   Typography
+   ========================================================= */
+
+p,
+li,
+td,
+span {
+  font-size: 15.5px;
+  line-height: 1.8;
+  color: #d6d6d6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #ffffff !important;
+  font-family: "Inter", sans-serif !important;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* section titles */
+
+h2 {
+  font-size: 1.9rem;
+  border-bottom: 1px solid #2a2f3a;
+  padding-bottom: 0.5rem;
+}
+
+h3 {
+  font-size: 1.35rem;
+}
+
+/* =========================================================
+   Links
+   ========================================================= */
+
+a {
+  color: #58a6ff !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #79c0ff !important;
+}
+
+/* =========================================================
+   Sidebar
+   ========================================================= */
+
+.sidebar {
+  background-color: #0f1117 !important;
+}
+
+.author__avatar img {
+  border-radius: 14px;
+}
+
+.author__name {
+  color: #ffffff !important;
+  font-size: 1.3rem;
+}
+
+.author__bio {
+  color: #b8c0cc !important;
+  font-size: 0.95rem;
+}
+
+.author__urls li {
+  margin-bottom: 0.35rem;
+}
+
+/* =========================================================
+   Masthead
+   ========================================================= */
+
+.masthead {
+  background-color: #0f1117 !important;
+  border-bottom: 1px solid #2a2f3a !important;
+}
+
+.masthead__menu-item a {
+  color: #d6d6d6 !important;
+  font-size: 0.95rem;
+}
+
+.masthead__menu-item a:hover {
+  color: #ffffff !important;
+}
+
+/* =========================================================
+   Content Alignment
+   ========================================================= */
+
+.page__content {
+  padding-left: 0.5rem;
+}
+
+.page__content p {
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+  text-align: justify;
+}
+
+.page__content ul,
+.page__content ol {
+  padding-left: 1.4rem;
+  margin-left: 0.2rem;
+}
+
+.page__content li {
+  margin-bottom: 0.45rem;
+}
+
+/* =========================================================
+   News Section
+   ========================================================= */
+
+.news-box {
+  max-height: 180px;
+  overflow-y: auto;
+  background: #161b22;
+  border: 1px solid #2a2f3a;
+  border-radius: 12px;
+  padding: 1rem 1.2rem;
+}
+
+/* scrollbar */
+
+.news-box::-webkit-scrollbar {
+  width: 6px;
+}
+
+.news-box::-webkit-scrollbar-thumb {
+  background: #30363d;
+  border-radius: 10px;
+}
+
+/* =========================================================
+   Publication List
+   ========================================================= */
+
+.pub-list {
+  padding-left: 1.2rem !important;
+}
+
+.pub-list li {
+  margin-bottom: 1.2rem;
+  padding: 1rem 1.2rem;
+  background: #161b22;
+  border: 1px solid #2a2f3a;
+  border-radius: 14px;
+  transition: all 0.2s ease;
+}
+
+.pub-list li:hover {
+  transform: translateY(-2px);
+  border-color: #58a6ff;
+}
+
+.pub-content {
+  font-size: 15px;
+  line-height: 1.75;
+}
+
+/* =========================================================
+   Research Tables
+   ========================================================= */
+
+table {
+  background: transparent !important;
+}
+
+table tbody tr {
+  border: none !important;
+}
+
+table td {
+  border: none !important;
+  padding: 14px !important;
+  vertical-align: middle !important;
+}
+
+/* left image/video area */
+
+table td:first-child {
+  width: 38% !important;
+}
+
+/* right text area */
+
+table td:last-child {
+  width: 62% !important;
+}
+
+/* research cards */
+
+table tbody tr {
+  background: #161b22;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+/* =========================================================
+   Images & Videos
+   ========================================================= */
+
+img,
+video {
+  border-radius: 12px;
+}
+
+/* research media size */
+
+table img {
+  width: 100% !important;
+  max-width: 430px !important;
+  height: auto !important;
+  object-fit: cover;
+}
+
+/* carousel */
+
+.carousel-inner img {
+  border-radius: 12px;
+  object-fit: cover;
+  max-height: 240px;
+}
+
+/* =========================================================
+   Tags
+   ========================================================= */
+
+span[style*="background-color: #f0f0f0"] {
+  background: #21262d !important;
+  color: #c9d1d9 !important;
+  border-radius: 999px !important;
+  padding: 4px 10px !important;
+  font-size: 13px !important;
+}
+
+/* =========================================================
+   Footer
+   ========================================================= */
+
+.page__footer {
+  background: #0f1117 !important;
+  border-top: 1px solid #2a2f3a;
+  color: #8b949e !important;
+}
+
+/* =========================================================
+   Horizontal Line
+   ========================================================= */
+
+hr {
+  border-color: #2a2f3a !important;
+}
+
+/* =========================================================
+   Selection
+   ========================================================= */
+
+::selection {
+  background: #264f78;
+  color: white;
+}
