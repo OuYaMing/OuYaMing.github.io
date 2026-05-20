@@ -43,7 +43,7 @@ My work aims to develop robotic systems endowed with perception, localization, a
 ---
 # 🔥 News
 ---
-<div style="max-height: 150px; overflow-y: auto; font-size: 12pt;">
+<div style="max-height: 150px; overflow-y: auto; font-size: 11.7pt;">
 <!--2026.4.29: &nbsp; I successfully completed my doctoral defense and was awarded the Outstanding Graduate of Beijing and the President's Scholarship of UCAS (the highest award for graduate students)🎉🎉
 <br>-->
 2026.05.11 &nbsp; Invited by CBS to review a paper related to  robot fish！😊
