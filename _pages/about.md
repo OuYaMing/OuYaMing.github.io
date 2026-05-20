@@ -43,18 +43,18 @@ My work aims to develop robotic systems endowed with perception, localization, a
 ---
 # 🔥 News
 ---
-<div style="max-height: 150px; overflow-y: auto; font-family: Times, serif; font-size: 11.5pt;">
+<div style="max-height: 150px; overflow-y: auto; font-family: Times, serif;">
 <!--2026.4.29: &nbsp; I successfully completed my doctoral defense and was awarded the Outstanding Graduate of Beijing and the President's Scholarship of UCAS (the highest award for graduate students)🎉🎉
 <br>-->
-2026.5.11: &nbsp; Invited by CBS to review a paper related to  robot fish！😊
+2026.05.11: &nbsp; Invited by CBS to review a paper related to  robot fish！😊
 <br>
-2026.4.29: &nbsp; I successfully completed my doctoral defense!🎉
+2026.04.29: &nbsp; I successfully completed my doctoral defense!🎉
 <br>
-2026.4.28: &nbsp; 🎉A co-first author paper accepted by TIM! (Cooperate with PolyU)!😊
+2026.04.28: &nbsp; 🎉A co-first author paper accepted by TIM! (Cooperate with PolyU)!😊
 <br>
-2026.2.4: &nbsp; Invited by IoT to review a paper related to  robot localization！😊
+2026.02.4: &nbsp; Invited by IoT to review a paper related to  robot localization！😊
 <br>
-2026.1.7: &nbsp; Invited by RINENG to review a paper related to vision calibration！😊
+2026.01.07: &nbsp; Invited by RINENG to review a paper related to vision calibration！😊
 <br>
 2025.12.23: &nbsp; Invited by KBS to review a paper related to multi-sensor fusion！😊
 <br>
@@ -112,15 +112,18 @@ My work aims to develop robotic systems endowed with perception, localization, a
 ---
 # 🎓 Educations
 ---
-- *2021.09 - 2026.06*:&nbsp; Institute of Automation, Chinese Academy of Sciences (**Ph.D.**)
-- *2021.09 - 2022.06*:&nbsp; School of Artificial Intelligence, University of Chinese Academy of Sciences (**Ph.D.**)
-- *2018.06 - 2021.06*:&nbsp; Department of Robotics Engineering, School of Automation, Southeast University (**B.E.**)
-- *2017.09 - 2018.06*:&nbsp; School of Materials Science and Engineering, Southeast University (**B.E.**)
+*2021.09 - 2026.06*:&nbsp; Institute of Automation, Chinese Academy of Sciences (**Ph.D.**)
+<br>
+*2021.09 - 2022.06*:&nbsp; School of Artificial Intelligence, University of Chinese Academy of Sciences (**Ph.D.**)
+<br>
+*2018.06 - 2021.06*:&nbsp; Department of Robotics Engineering, School of Automation, Southeast University (**B.E.**)
+<br>
+*2017.09 - 2018.06*:&nbsp; School of Materials Science and Engineering, Southeast University (**B.E.**)
 
 ---
 # 💼 Experiences
 ---
-- *2025.03 - 2026.03*:&nbsp; Robotics Institute, Carnegie Mellon University (**Visiting Scholar**)
+*2025.03 - 2026.03*:&nbsp; Robotics Institute, Carnegie Mellon University (**Visiting Scholar**)
 
 ---
 # 📝 Publications 
@@ -218,23 +221,39 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 ---
 <!--- *2026*:&nbsp; 📜The President's Scholarship of UCAS (**the highest award for graduate students**)
 - *2026*:&nbsp; 📜Outstanding Graduating Doctoral Students of Beijing (**top 1%**)-->
-- *2025*:&nbsp; 📜Three Good Student Model of UCAS (**top 1%**)
-- *2024*:&nbsp; 📜Selected for the PhD International Cooperation Program of UCAS (**one spot per institute**)
-- *2024*:&nbsp; 📜China PhD National Scholarship (**3%, 3W RMB award**)
-- *2024*:&nbsp; 📜Outstanding Student Leader Award of UCAS (**top 2%**)
-- *2023*:&nbsp; 📜Selected for the PHD experimental class of CASIA (**8/276, 5W RMB scholarships each year**)
-- *2022*:&nbsp; 🥇China ICV Algorithms Challenge Competition(**1st place, 2W RMB award**)
-- *2022*:&nbsp; 📜Three Good Students Award of UCAS (**top 10%**)
-- *2021*:&nbsp; 🏆Data Application Innovation and Entrepreneurship Competition (**merit award, 9/453**)
-- *2021*:&nbsp; 📜Outstanding Graduate Student Award of Southeast University (**top 3%**)
-- *2020*:&nbsp; 🥈National College Students Intelligent Vehicle Competition (**national 2nd prize**)
-- *2020*:&nbsp; 📜China National Inspiration Scholarship (**3.22%**)
-- *2019*:&nbsp; 🥇RoboCup Robotics World Cup (China Region) (**national 1st prize**)
-- *2019*:&nbsp; 🥈National College Students Electronic Design Competition (**national 2nd prize**)
-- *2019*:&nbsp; 🥇The 10th Robot Competition of Jiangsu Province (**provincial 1st prize**)
-- *2019*:&nbsp; 📜Three Good Students Award of Southeast University (**top 10%**)
-- *2018*:&nbsp; 🥇The 9th Robot Competition of Jiangsu Province (**provincial 1st prize**)
-- *2016*:&nbsp; 🥈High School Mathematics Olympiad Competition, Anhui Province (**provincial 2nd prize**)
+*2025*:&nbsp; 📜Three Good Student Model of UCAS (**top 1%**)
+<br>
+*2024*:&nbsp; 📜Selected for the PhD International Cooperation Program of UCAS (**one spot per institute**)
+<br>
+*2024*:&nbsp; 📜China PhD National Scholarship (**3%, 3W RMB award**)
+<br>
+*2024*:&nbsp; 📜Outstanding Student Leader Award of UCAS (**top 2%**)
+<br>
+*2023*:&nbsp; 📜Selected for the PHD experimental class of CASIA (**8/276, 5W RMB scholarships each year**)
+<br>
+*2022*:&nbsp; 🥇China ICV Algorithms Challenge Competition(**1st place, 2W RMB award**)
+<br>
+*2022*:&nbsp; 📜Three Good Students Award of UCAS (**top 10%**)
+<br>
+*2021*:&nbsp; 🏆Data Application Innovation and Entrepreneurship Competition (**merit award, 9/453**)
+<br>
+*2021*:&nbsp; 📜Outstanding Graduate Student Award of Southeast University (**top 3%**)
+<br>
+*2020*:&nbsp; 🥈National College Students Intelligent Vehicle Competition (**national 2nd prize**)
+<br>
+*2020*:&nbsp; 📜China National Inspiration Scholarship (**3.22%**)
+<br>
+*2019*:&nbsp; 🥇RoboCup Robotics World Cup (China Region) (**national 1st prize**)
+<br>
+*2019*:&nbsp; 🥈National College Students Electronic Design Competition (**national 2nd prize**)
+<br>
+*2019*:&nbsp; 🥇The 10th Robot Competition of Jiangsu Province (**provincial 1st prize**)
+<br>
+*2019*:&nbsp; 📜Three Good Students Award of Southeast University (**top 10%**)
+<br>
+*2018*:&nbsp; 🥇The 9th Robot Competition of Jiangsu Province (**provincial 1st prize**)
+<br>
+*2016*:&nbsp; 🥈High School Mathematics Olympiad Competition, Anhui Province (**provincial 2nd prize**)
 
 ---
 # 🛠️ Research
@@ -244,10 +263,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TMech -->
   <tbody>
     <tr>
-          <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
+          <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
             <img src="https://ouyaming.github.io/vedio/PL-VAP.gif" alt="clean-usnob" width="500" height="300">
           </td>
-      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
         <a href="" target="_blank">
           <papertitle>PL-VAP: A Tightly Coupled Self-Localization Framework for Underwater Robots Using Point-Line Features and Visual-Acoustic-Pressure Sensor Fusion</papertitle>
         </a >
@@ -274,10 +293,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TIE -->
   <tbody>
     <tr>
-          <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
+          <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
             <img src="https://ouyaming.github.io/vedio/Hybrid-VINS.gif" alt="clean-usnob" width="500" height="300">
           </td>
-      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
         <a href="" target="_blank">
           <papertitle>Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV</papertitle>
         </a >
@@ -303,10 +322,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TSMC -->
   <tbody>
     <tr>
-          <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
+          <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
             <img src="https://ouyaming.github.io/vedio/TSMCA.gif" alt="clean-usnob" width="500" height="300">
           </td>
-      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2024-03-18-TSMC" target="_blank">
           <papertitle>Structured Light-Based Underwater Collision-Free Navigation and Dense Mapping System for Refined Exploration in Unknown Dark Environments</papertitle>
         </a >
@@ -332,10 +351,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TII -->
   <tbody>
     <tr>
-      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
         <img src="https://ouyaming.github.io/vedio/Water-MBSL.gif" alt="clean-usnob" width="500" height="300">
       </td>
-      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2023-12-29-TII" target="_blank">
           <papertitle>Water-MBSL: Underwater Movable Binocular Structured Light-Based High-Precision Dense Reconstruction Framework</papertitle>
         </a >
@@ -369,7 +388,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TIM -->
   <tbody>
     <tr>
-      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000"><!-- 2s -->
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -401,7 +420,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           </a>
         </div>
       </td>
-      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2023-03-27-TIM" target="_blank">
           <papertitle>Binocular Structured Light 3-D Reconstruction System for Low-light Underwater Environments: Design, Modeling, and Laser-based Calibration</papertitle>
         </a >
@@ -426,10 +445,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- TIV -->
   <tbody>
     <tr>
-      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
         <img src="https://ouyaming.github.io/vedio/2023-12-08-TIV_gif.gif" alt="clean-usnob" width="500" height="300">
       </td>
-      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2023-12-08-TIV" target="_blank">
           <papertitle>Structured Light Vision-Based Pipeline Tracking and 3D Reconstruction Method for Underwater Vehicle</papertitle>
         </a >
@@ -455,7 +474,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: 11.5pt;"> <!-- CCC -->
   <tbody>
     <tr>
-      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000"><!-- 2s -->
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -491,7 +510,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           </a>
         </div>
       </td>
-      <td style="padding:20px;width:50%;vertical-align:middle;border:none;">
+      <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
         <a href="https://ouyaming.github.io/publication/2021-07-26-CCC" target="_blank">
           <papertitle>Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM</papertitle>
         </a >
