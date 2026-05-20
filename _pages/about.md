@@ -43,68 +43,68 @@ My work aims to develop robotic systems endowed with perception, localization, a
 ---
 # 🔥 News
 ---
-<div style="max-height: 150px; overflow-y: auto; font-family: Times, serif;">
+<div style="max-height: 150px; overflow-y: auto; ">
 <!--2026.4.29: &nbsp; I successfully completed my doctoral defense and was awarded the Outstanding Graduate of Beijing and the President's Scholarship of UCAS (the highest award for graduate students)🎉🎉
 <br>-->
-2026.05.11: &nbsp; Invited by CBS to review a paper related to  robot fish！😊
+2026.05.11 &nbsp; Invited by CBS to review a paper related to  robot fish！😊
 <br>
-2026.04.29: &nbsp; I successfully completed my doctoral defense!🎉
+2026.04.29 &nbsp; I successfully completed my doctoral defense!🎉
 <br>
-2026.04.28: &nbsp; 🎉A co-first author paper accepted by TIM! (Cooperate with PolyU)!😊
+2026.04.28 &nbsp; 🎉A co-first author paper accepted by TIM! (Cooperate with PolyU)!😊
 <br>
-2026.02.4: &nbsp; Invited by IoT to review a paper related to  robot localization！😊
+2026.02.4 &nbsp; Invited by IoT to review a paper related to  robot localization！😊
 <br>
-2026.01.07: &nbsp; Invited by RINENG to review a paper related to vision calibration！😊
+2026.01.07 &nbsp; Invited by RINENG to review a paper related to vision calibration！😊
 <br>
-2025.12.23: &nbsp; Invited by KBS to review a paper related to multi-sensor fusion！😊
+2025.12.23 &nbsp; Invited by KBS to review a paper related to multi-sensor fusion！😊
 <br>
-2025.12.10: &nbsp; Invited by CIT to review a paper related to field robot！😊
+2025.12.10 &nbsp; Invited by CIT to review a paper related to field robot！😊
 <br>
-2025.12.06: &nbsp; Invited by TII to review a paper related to robot localization！😊
+2025.12.06 &nbsp; Invited by TII to review a paper related to robot localization！😊
 <br>
-2025.10.05: &nbsp; Invited by IoT to review a paper related to underwater SLAM！😊
+2025.10.05 &nbsp; Invited by IoT to review a paper related to underwater SLAM！😊
 <br>
-2025.10.05: &nbsp; 🎉A paper accepted by TMech!😊！
+2025.10.05 &nbsp; 🎉A paper accepted by TMech!😊！
 <br>
-2025.09.29: &nbsp; Invited by ICRA 2026 to review two papers related to robot navigation and mapping！
+2025.09.29 &nbsp; Invited by ICRA 2026 to review two papers related to robot navigation and mapping！
 <br>
-2025.08.15: &nbsp; Invited by TRO to review a paper related to underwater robot localization！😊
+2025.08.15 &nbsp; Invited by TRO to review a paper related to underwater robot localization！😊
 <br>
-2025.04.28: &nbsp; Submitted a paper to TRO!🎉🙏
+2025.04.28 &nbsp; Submitted a paper to TRO!🎉🙏
 <br>
-2025.03.15: &nbsp; Arrived in Pittsburgh and starting a new chapter at CMU!🎉🎉
+2025.03.15 &nbsp; Arrived in Pittsburgh and starting a new chapter at CMU!🎉🎉
 <br>
-2024.12.25: &nbsp; My paper surpasses 100 citations in <a href="https://scholar.google.com/citations?user=JD82F9kAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>!😊😊
+2024.12.25 &nbsp; My paper surpasses 100 citations in <a href="https://scholar.google.com/citations?user=JD82F9kAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>!😊😊
 <br>
-2024.12.25: &nbsp; Selected for the <a href="https://www.ucas.ac.cn/tz/f1f9453a721644158e3838383784e97a.htm" target="_blank">UCAS PhD International Cooperation Training Program</a> (one spot per institute)！🎉🎉
+2024.12.25 &nbsp; Selected for the <a href="https://www.ucas.ac.cn/tz/f1f9453a721644158e3838383784e97a.htm" target="_blank">UCAS PhD International Cooperation Training Program</a> (one spot per institute)！🎉🎉
 <br>
-2024.11.20: &nbsp; Invited by TIE to review a paper related to semantic localization！🎉🎉  
+2024.11.20 &nbsp; Invited by TIE to review a paper related to semantic localization！🎉🎉  
 <br>
-2024.11.20: &nbsp; Awarded China PhD National Scholarship！🎉😊
+2024.11.20 &nbsp; Awarded China PhD National Scholarship！🎉😊
 <br>
-2024.11.16: &nbsp; A participating paper accepted by Bioinspiration & Biomimetics！😊
+2024.11.16 &nbsp; A participating paper accepted by Bioinspiration & Biomimetics！😊
 <br>
-2024.07.26: &nbsp; 😊😊A SLAM-related paper accepted by TIE!
+2024.07.26 &nbsp; 😊😊A SLAM-related paper accepted by TIE!
 <br>
-2024.06.14: &nbsp; Invited by TIV to review a paper related to autonomous driving！🎉🎉  
+2024.06.14 &nbsp; Invited by TIV to review a paper related to autonomous driving！🎉🎉  
 <br>
-2024.05.30: &nbsp; 🎉😊Recognized as an outstanding student leader of UCAS  ！
+2024.05.30 &nbsp; 🎉😊Recognized as an outstanding student leader of UCAS  ！
 <br>
-2024.03.21: &nbsp; Publish a paper in TSMC!😊😊  
+2024.03.21 &nbsp; Publish a paper in TSMC!😊😊  
 <br>
-2023.11.25: &nbsp;🎉A paper accepted by TIV!😊  
+2023.11.25 &nbsp;🎉A paper accepted by TIV!😊  
 <br>
-2023.10.06: &nbsp; A paper accepted by TII!🎉  
+2023.10.06 &nbsp; A paper accepted by TII!🎉  
 <br>
-2023.06.15: &nbsp;🎉🎉Invited by IEEE Sensor to review a paper related to camera-imu calibration😊  
+2023.06.15 &nbsp;🎉🎉Invited by IEEE Sensor to review a paper related to camera-imu calibration😊  
 <br>
-2023.03.27: &nbsp;😊 Publish a paper in TIM!😊  
+2023.03.27 &nbsp;😊 Publish a paper in TIM!😊  
 <br>
-2023.03.09: &nbsp;🎉 Successfully selected for the PHD experimental class of CASIA!🎉  
+2023.03.09 &nbsp;🎉 Successfully selected for the PHD experimental class of CASIA!🎉  
 <br>
-2021.07.29: &nbsp;😊 Participation in the China Control Conference in Shanghai,China!🎉🎉  
+2021.07.29 &nbsp;😊 Participation in the China Control Conference in Shanghai,China!🎉🎉  
 <br>
-2021.06.31: &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊  
+2021.06.31 &nbsp;🎉🎉 Successfully graduate from SEU and go to Beijing to start PHD!😊  
 
 </div>
 
@@ -112,18 +112,18 @@ My work aims to develop robotic systems endowed with perception, localization, a
 ---
 # 🎓 Educations
 ---
-*2021.09 - 2026.06*:&nbsp; Institute of Automation, Chinese Academy of Sciences (**Ph.D.**)
+2021.09 - 2026.06 &nbsp; Institute of Automation, Chinese Academy of Sciences (**Ph.D.**)
 <br>
-*2021.09 - 2022.06*:&nbsp; School of Artificial Intelligence, University of Chinese Academy of Sciences (**Ph.D.**)
+2021.09 - 2022.06 &nbsp; School of Artificial Intelligence, University of Chinese Academy of Sciences (**Ph.D.**)
 <br>
-*2018.06 - 2021.06*:&nbsp; Department of Robotics Engineering, School of Automation, Southeast University (**B.E.**)
+2018.06 - 2021.06 &nbsp; Department of Robotics Engineering, School of Automation, Southeast University (**B.E.**)
 <br>
-*2017.09 - 2018.06*:&nbsp; School of Materials Science and Engineering, Southeast University (**B.E.**)
+2017.09 - 2018.06 &nbsp; School of Materials Science and Engineering, Southeast University (**B.E.**)
 
 ---
 # 💼 Experiences
 ---
-*2025.03 - 2026.03*:&nbsp; Robotics Institute, Carnegie Mellon University (**Visiting Scholar**)
+2025.03 - 2026.03 &nbsp; Robotics Institute, Carnegie Mellon University (**Visiting Scholar**)
 
 ---
 # 📝 Publications 
@@ -221,39 +221,39 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 ---
 <!--- *2026*:&nbsp; 📜The President's Scholarship of UCAS (**the highest award for graduate students**)
 - *2026*:&nbsp; 📜Outstanding Graduating Doctoral Students of Beijing (**top 1%**)-->
-*2025*:&nbsp; 📜Three Good Student Model of UCAS (**top 1%**)
+2025 &nbsp; 📜Three Good Student Model of UCAS (**top 1%**)
 <br>
-*2024*:&nbsp; 📜Selected for the PhD International Cooperation Program of UCAS (**one spot per institute**)
+2024 &nbsp; 📜Selected for the PhD International Cooperation Program of UCAS (**one spot per institute**)
 <br>
-*2024*:&nbsp; 📜China PhD National Scholarship (**3%, 3W RMB award**)
+2024 &nbsp; 📜China PhD National Scholarship (**3%, 3W RMB award**)
 <br>
-*2024*:&nbsp; 📜Outstanding Student Leader Award of UCAS (**top 2%**)
+2024 &nbsp; 📜Outstanding Student Leader Award of UCAS (**top 2%**)
 <br>
-*2023*:&nbsp; 📜Selected for the PHD experimental class of CASIA (**8/276, 5W RMB scholarships each year**)
+2023 &nbsp; 📜Selected for the PHD experimental class of CASIA (**8/276, 5W RMB scholarships each year**)
 <br>
-*2022*:&nbsp; 🥇China ICV Algorithms Challenge Competition(**1st place, 2W RMB award**)
+2022 &nbsp; 🥇China ICV Algorithms Challenge Competition(**1st place, 2W RMB award**)
 <br>
-*2022*:&nbsp; 📜Three Good Students Award of UCAS (**top 10%**)
+2022 &nbsp; 📜Three Good Students Award of UCAS (**top 10%**)
 <br>
-*2021*:&nbsp; 🏆Data Application Innovation and Entrepreneurship Competition (**merit award, 9/453**)
+2021 &nbsp; 🏆Data Application Innovation and Entrepreneurship Competition (**merit award, 9/453**)
 <br>
-*2021*:&nbsp; 📜Outstanding Graduate Student Award of Southeast University (**top 3%**)
+2021 &nbsp; 📜Outstanding Graduate Student Award of Southeast University (**top 3%**)
 <br>
-*2020*:&nbsp; 🥈National College Students Intelligent Vehicle Competition (**national 2nd prize**)
+2020 &nbsp; 🥈National College Students Intelligent Vehicle Competition (**national 2nd prize**)
 <br>
-*2020*:&nbsp; 📜China National Inspiration Scholarship (**3.22%**)
+2020 &nbsp; 📜China National Inspiration Scholarship (**3.22%**)
 <br>
-*2019*:&nbsp; 🥇RoboCup Robotics World Cup (China Region) (**national 1st prize**)
+2019 &nbsp; 🥇RoboCup Robotics World Cup (China Region) (**national 1st prize**)
 <br>
-*2019*:&nbsp; 🥈National College Students Electronic Design Competition (**national 2nd prize**)
+2019 &nbsp; 🥈National College Students Electronic Design Competition (**national 2nd prize**)
 <br>
-*2019*:&nbsp; 🥇The 10th Robot Competition of Jiangsu Province (**provincial 1st prize**)
+2019 &nbsp; 🥇The 10th Robot Competition of Jiangsu Province (**provincial 1st prize**)
 <br>
-*2019*:&nbsp; 📜Three Good Students Award of Southeast University (**top 10%**)
+2019 &nbsp; 📜Three Good Students Award of Southeast University (**top 10%**)
 <br>
-*2018*:&nbsp; 🥇The 9th Robot Competition of Jiangsu Province (**provincial 1st prize**)
+2018 &nbsp; 🥇The 9th Robot Competition of Jiangsu Province (**provincial 1st prize**)
 <br>
-*2016*:&nbsp; 🥈High School Mathematics Olympiad Competition, Anhui Province (**provincial 2nd prize**)
+2016 &nbsp; 🥈High School Mathematics Olympiad Competition, Anhui Province (**provincial 2nd prize**)
 
 ---
 # 🛠️ Research
