@@ -10,7 +10,7 @@
 locale                   : "China, Beijing"
 title                    : "YamingOu / Home"
 title_separator          : "-"
-name                     : &name "YamingOu"
+name                     : &name "Yaming Ou (欧亚明)"
 description              : &description "行我所信，无问西东"
 url                      : https://ouyaming.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
