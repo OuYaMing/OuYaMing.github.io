@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China, Beijing"
-title                    : "YamingOu / Home"
+title                    : "Yaming Ou / Home"
 title_separator          : "-"
 name                     : &name "Yaming Ou (欧亚明)"
 description              : &description "行我所信，无问西东"
