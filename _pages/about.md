@@ -46,6 +46,8 @@ My work aims to develop robotic systems endowed with perception, localization, a
 <div style="max-height: 150px; overflow-y: auto; font-size: 11.6pt;">
 <!--2026.4.29: &nbsp; I successfully completed my doctoral defense and was awarded the Outstanding Graduate of Beijing and the President's Scholarship of UCAS (the highest award for graduate students)🎉🎉
 <br>-->
+2026.05.25 &nbsp; 🎉A corresponding author paper related to neuromorphic vision 3D reconstruction accepted by TMech!😊
+<br>
 2026.05.11 &nbsp; Invited by CBS to review a paper related to  robot fish！😊
 <br>
 2026.04.29 &nbsp; I successfully completed my doctoral defense!🎉
@@ -69,8 +71,6 @@ My work aims to develop robotic systems endowed with perception, localization, a
 2025.09.29 &nbsp; Invited by ICRA 2026 to review two papers related to robot navigation and mapping！
 <br>
 2025.08.15 &nbsp; Invited by TRO to review a paper related to underwater robot localization！😊
-<br>
-2025.04.28 &nbsp; Submitted a paper to TRO!🎉🙏
 <br>
 2025.03.15 &nbsp; Arrived in Pittsburgh and starting a new chapter at CMU!🎉🎉
 <br>
