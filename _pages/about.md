@@ -28,7 +28,7 @@ I received my Ph.D. degree (5-year) from the C<sup>2</sup>DL Lab, Institute of A
 <p style="text-align: justify;">
 I was engaged in visiting scholar program under the supervision of Prof. 
 <a href="https://scholar.google.com/citations?hl=zh-CN&user=4fvo61oAAAAJ">Howie Choset</a> at Robotics Institute, Carnegie Mellon University 
-(<a href="https://www.ri.cmu.edu/">CMU RI</a>), and conducting robot control and navigation research at the Biorobotics Lab from March 2025 to March 2026.
+(CMU), and conducting robot control and navigation research at the Biorobotics Lab from March 2025 to March 2026.
 </p>
 
 <p style="text-align: justify;">
