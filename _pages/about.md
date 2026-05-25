@@ -182,20 +182,13 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 
   <li>
     <span class="pub-content">
-      J. Fan, <b>Y. Ou<sup>*</sup></b>, et al., "Structured light vision based pipeline tracking and 3D reconstruction method for underwater vehicle," 
-      in <b><i>IEEE Transactions on Intelligent Vehicles</i></b> [J], 2023. 
-      (<i>corresponding author, SCI, JCR Q1, IF=8.2</i>)
-    </span>
-  </li>
-  
-  <li>
-    <span class="pub-content">
       <b>Y. Ou</b>, et al., "Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM," 
       in <b><i>Chinese Control Conference (CCC)</i></b> [C], Shanghai, China, 2021. 
       (<i>EI</i>)
     </span>
   </li>
-  
+
+
   <li>
     <span class="pub-content">
       Y. Xue<sup>†</sup>, <b>Y. Ou</b><sup>†</sup>, et al., "Multi-Modal Fusion for Underwater Localization through Hierarchical Uncertainty Awareness," 
@@ -203,6 +196,23 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
       (<i>SCI, JCR Q1, IF=5.6</i>)
     </span>
   </li>
+
+ <li>
+    <span class="pub-content">
+      J. Fan, <b>Y. Ou<sup>*</sup></b>, et al., "Structured light vision based pipeline tracking and 3D reconstruction method for underwater vehicle," 
+      in <b><i>IEEE Transactions on Intelligent Vehicles</i></b> [J], 2023. 
+      (<i>corresponding author, SCI, JCR Q1, IF=8.2</i>)
+    </span>
+  </li>
+
+ <li>
+    <span class="pub-content">
+      J. Fan, Y. Jia, <b>Y. Ou<sup>*</sup></b>, et al., "Event-based underwater structured light system for high-speed 3D reconstruction," 
+      in <b><i>IEEE/ASME Transactions on Mechatronics</i></b> [J], 2026. 
+      (<i>corresponding author, SCI, JCR Q1, IF=7.6</i>)
+    </span>
+  </li>
+
 </ol>
 
 <!--
