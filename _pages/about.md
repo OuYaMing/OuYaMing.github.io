@@ -16,11 +16,13 @@ I'm an avid robotics enthusiast!🤖🤖🤖 Feel free to chat with me
 <a href="mailto:ouyaming2021@ia.ac.cn">📧📧📧</a>.
 </p>
 
+<!--
+<p style="text-align: justify;"> 
+I am <b>Yaming Ou</b>, currently a <b>Special Research Assistant</b> at the School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS), working with Prof. <a href="https://people.ucas.ac.cn/~chenglong?language=en">Long Cheng</a>.
+</p>-->
+
 <p style="text-align: justify;">
-I am <b>Yaming Ou</b> (<b>欧亚明</b>), a <b>5th-year Ph.D.</b> student (5-year, supervised by Prof. 
-<a href="http://www.ia.cas.cn/rcdw/yjy/202406/t20240621_7194305.html">Zhou Chao</a> and Assoc. Prof. 
-<a href="https://people.ucas.edu.cn/~fanjunfeng">Fan Junfeng</a>, affiliated with Prof. 
-<a href="http://www.ia.cas.cn/rcdw/yjy/202404/t20240422_7129785.html">Tan Min</a>) with the Laboratory of Cognition and Decision Intelligence for Complex Systems (C<sup>2</sup>DL), Institute of Automation, Chinese Academy of Sciences (CASIA), and also with the School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS).
+I received my <b>Ph.D.</b> degree (5-year) from the Laboratory of Cognition and Decision Intelligence for Complex Systems (C<sup>2</sup>DL), Institute of Automation, Chinese Academy of Sciences (CASIA), and the School of Artificial Intelligence, UCAS, under the supervision of Prof. <a href="http://www.ia.cas.cn/rcdw/yjy/202406/t20240621_7194305.html">Zhou Chao</a> and Assoc. Prof. <a href="https://people.ucas.edu.cn/~fanjunfeng">Fan Junfeng</a> (affiliated with Prof. <a href="http://www.ia.cas.cn/rcdw/yjy/202404/t20240422_7129785.html">Tan Min</a>). 
 </p>
 
 <p style="text-align: justify;">
@@ -123,6 +125,8 @@ My work aims to develop robotic systems endowed with perception, localization, a
 ---
 # 💼 Experiences
 ---
+<!--2026.06 - 2029.06 &nbsp; School of Artificial Intelligence, University of Chinese Academy of Sciences (**Research Fellow**)
+<br>-->
 2025.03 - 2026.03 &nbsp; Robotics Institute, Carnegie Mellon University (**Visiting Scholar**)
 
 ---
