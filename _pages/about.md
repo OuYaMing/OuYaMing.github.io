@@ -203,7 +203,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 
  <li>
     <span class="pub-content">
-      J. Fan, <b>Y. Ou<sup>*</sup></b>, et al., "Structured light vision based pipeline tracking and 3D reconstruction method for underwater vehicle," 
+      J. Fan, <b>Y. Ou<sup>*</sup></b>, X. Li<sup>*</sup>, et al., "Structured light vision based pipeline tracking and 3D reconstruction method for underwater vehicle," 
       in <b><i>IEEE Transactions on Intelligent Vehicles</i></b> [J], 2023. 
       (<i>corresponding author, SCI, JCR Q1, IF=8.2</i>)
     </span>
@@ -211,7 +211,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 
  <li>
     <span class="pub-content">
-      J. Fan, Y. Jia, <b>Y. Ou<sup>*</sup></b>, et al., "Event-based underwater structured light system for high-speed 3D reconstruction," 
+      J. Fan, Y. Jia, <b>Y. Ou<sup>*</sup></b>, C. Zhou<sup>*</sup>, et al., "Event-based underwater structured light system for high-speed 3D reconstruction," 
       in <b><i>IEEE/ASME Transactions on Mechatronics</i></b> [J], 2026. 
       (<i>corresponding author, SCI, JCR Q1, IF=7.6</i>)
     </span>
