@@ -48,6 +48,8 @@ My work aims to develop robotic systems endowed with perception, localization, a
 <div style="max-height: 150px; overflow-y: auto; font-size: 11.6pt;">
 <!--2026.4.29: &nbsp; I successfully completed my doctoral defense and was awarded the Outstanding Graduate of Beijing and the President's Scholarship of UCAS (the highest award for graduate students)🎉🎉
 <br>-->
+2026.06.17 &nbsp; 🎉🎉A paper related to Gaussian Splatting SLAM from my first supervised student accepted by IROS! Congratulations to Song!🎉🎉
+<br>
 2026.05.25 &nbsp; 🎉A corresponding author paper related to neuromorphic vision 3D reconstruction accepted by TMech!😊
 <br>
 2026.05.11 &nbsp; Invited by CBS to review a paper related to  robot fish！😊
@@ -214,6 +216,14 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
       J. Fan, Y. Jia, <b>Y. Ou<sup>*</sup></b>, C. Zhou<sup>*</sup>, et al., "Event-based underwater structured light system for high-speed 3D reconstruction," 
       in <b><i>IEEE/ASME Transactions on Mechatronics</i></b> [J], 2026. 
       (<i>corresponding author, SCI, JCR Q1, IF=7.6</i>)
+    </span>
+  </li>
+
+   <li>
+    <span class="pub-content">
+      S. Xia, <b>Y. Ou<sup>*</sup></b>, et al., "HybridSplat: Underwater Dense SLAM via Visual-Acoustic Fusion and Physics-Informed 3D Gaussian Splatting," 
+      in <b><i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i></b> [C], 2026. 
+      (<i>corresponding author, robotics TOP conference</i>)
     </span>
   </li>
 
