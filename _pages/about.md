@@ -22,7 +22,7 @@ I am <b>Yaming Ou</b>, currently a <b>Special Research Assistant</b> at the Scho
 </p>
 
 <p style="text-align: justify;">
-I received my Ph.D. degree (5-year) from the C<sup>2</sup>DL Lab, Institute of Automation, Chinese Academy of Sciences (CASIA), and the School of Artificial Intelligence, , University of Chinese Academy of Sciences (UCAS), under the supervision of Prof. <a href="http://www.ia.cas.cn/rcdw/yjy/202406/t20240621_7194305.html">Zhou Chao</a> and Assoc. Prof. <a href="https://people.ucas.edu.cn/~fanjunfeng">Fan Junfeng</a>.
+I received my Ph.D. degree (5-year) from the C<sup>2</sup>DL Lab, Institute of Automation, Chinese Academy of Sciences (CASIA), and the School of Artificial Intelligence, , University of Chinese Academy of Sciences (UCAS), under the supervision of Prof. <a href="http://www.ia.cas.cn/rcdw/yjy/202406/t20240621_7194305.html">Zhou Chao</a> and Assoc. Prof. <a href="https://people.ucas.edu.cn/~fanjunfeng">Fan Junfeng</a>. (CAS President’s Award)
 </p>
 
 <p style="text-align: justify;">
@@ -243,7 +243,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 ---
 # 🏆 Honors & Awards
 ---
-*2026*:&nbsp; 📜The President's Scholarship of UCAS (**the highest award of UCAS for graduate students**)
+*2026*:&nbsp; 📜CAS President’s Award (**the highest award of UCAS for graduate students**)
 <br>
 2025 &nbsp; 📜Three Good Student Model of UCAS (**top 1%**)
 <br>
