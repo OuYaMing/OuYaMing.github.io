@@ -18,7 +18,7 @@ I'm an avid robotics enthusiast!🤖🤖🤖 Feel free to chat with me
 
 
 <p style="text-align: justify;"> 
-I am <b>Yaming Ou</b>, currently a <b>Special Research Assistant</b> at the School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS), working with Prof. <a href="https://people.ucas.ac.cn/~chenglong?language=en">Long Cheng</a>.
+I am <b>Yaming Ou</b>, currently a <b>Special Research Assistant</b> at the <b>Tactile Perception and Embodied Manipulation Laboratory</b>, School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS), working with Prof. <a href="https://people.ucas.ac.cn/~chenglong?language=en">Long Cheng</a>.
 </p>
 
 <p style="text-align: justify;">
