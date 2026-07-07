@@ -52,8 +52,6 @@ My work aims to develop robotic systems endowed with perception, localization, a
 <br>
 2026.05.25 &nbsp; 🎉A corresponding author paper related to neuromorphic vision 3D reconstruction accepted by TMech!😊
 <br>
-2026.05.11 &nbsp; Invited by CBS to review a paper related to  robot fish！😊
-<br>
 2026.04.29 &nbsp; I successfully completed my doctoral defense!🎉
 <br>
 2026.04.28 &nbsp; 🎉A co-first author paper accepted by TIM! (Cooperate with PolyU)!😊
