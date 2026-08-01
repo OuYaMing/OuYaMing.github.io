@@ -46,13 +46,15 @@ My work aims to develop robotic systems endowed with perception, localization, a
 # 🔥 News
 ---
 <div style="max-height: 150px; overflow-y: auto; font-size: 11.6pt;">
-<!--2026.4.29: &nbsp; I successfully completed my doctoral defense and was awarded the Outstanding Graduate of Beijing and the President's Scholarship of UCAS (the highest award for graduate students)🎉🎉
-<br>-->
+2026.07.30 &nbsp; Invited by TASE to review a paper related to whole-body control！😊
+<br>
+2026.07.29 &nbsp; Invited by TIV to review a paper related to robot navigation！😊
+<br>
 2026.06.17 &nbsp; 🎉🎉A paper related to Gaussian Splatting SLAM from my first supervised student accepted by IROS! Congratulations to Song!🎉🎉
 <br>
 2026.05.25 &nbsp; 🎉A corresponding author paper related to neuromorphic vision 3D reconstruction accepted by TMech!😊
 <br>
-2026.04.29 &nbsp; I successfully completed my doctoral defense!🎉
+2026.04.29 &nbsp; I successfully completed my doctoral defense and was awarded the the President's Scholarship of UCAS (the highest award for graduate students)!🎉
 <br>
 2026.04.28 &nbsp; 🎉A co-first author paper accepted by TIM! (Cooperate with PolyU)!😊
 <br>
