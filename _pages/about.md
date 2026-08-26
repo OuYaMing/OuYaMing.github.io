@@ -414,22 +414,10 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
         <div id="carouselTIM" class="carousel slide" data-ride="carousel" data-interval="2000">
           <ol class="carousel-indicators">
             <li data-target="#carouselTIM" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselTIM" data-slide-to="1"></li>
-            <li data-target="#carouselTIM" data-slide-to="2"></li>
-            <li data-target="#carouselTIM" data-slide-to="3"></li>
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img src="https://ouyaming.github.io/images/2023-03-27-TIM/1.png" class="d-block w-100" style="height:200px;">
-            </div>
-            <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/2.png" class="d-block w-100" style="height:200px;">
-            </div>
-            <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/3.png" class="d-block w-100" style="height:200px;">
-            </div>
-            <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/8.png" class="d-block w-100" style="height:200px;">
             </div>
           </div>
         </div>
@@ -482,59 +470,6 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           <strong>Source</strong>
           <a href="https://ouyaming.github.io/files/2023-12-08-TIV.pdf" target="_blank">[Paper]</a>
           <a href="https://ouyaming.github.io/vedio/2023-12-08-TIV_vedio.mp4" target="_blank">[Video]</a>
-        </p>
-      </td>
-    </tr>
-    <!-- CCC -->
-    <tr>
-      <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
-        <div id="carouselCCC" class="carousel slide" data-ride="carousel" data-interval="2000">
-          <ol class="carousel-indicators">
-            <li data-target="#carouselCCC" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselCCC" data-slide-to="1"></li>
-            <li data-target="#carouselCCC" data-slide-to="2"></li>
-            <li data-target="#carouselCCC" data-slide-to="3"></li>
-            <li data-target="#carouselCCC" data-slide-to="4"></li>
-          </ol>
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img src="https://ouyaming.github.io/images/2021-07-26-CCC/1.png" class="d-block w-100" style="height:200px;">
-            </div>
-            <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/2021-07-26-CCC/2.png" class="d-block w-100" style="height:200px;">
-            </div>
-            <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/2021-07-26-CCC/3.png" class="d-block w-100" style="height:200px;">
-            </div>
-            <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/2021-07-26-CCC/4.png" class="d-block w-100" style="height:200px;">
-            </div>
-            <div class="carousel-item">
-              <img src="https://ouyaming.github.io/images/2021-07-26-CCC/5.png" class="d-block w-100" style="height:200px;">
-            </div>
-          </div>
-        </div>
-      </td>
-      <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
-        <papertitle>
-          Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM
-        </papertitle>
-        <br>
-        <strong>Yaming Ou</strong>, Zhuoliang Zhang, Chao Zhou, etc.
-        <br>
-        <span style="font-size:10pt;">
-          <em>2021 40th Chinese Control Conference (CCC)</em>, 2023
-        </span>
-        <br>
-        <p>
-          A cantilever artificial lateral line (ALL) sensor based on piezoresistive effect was developed by imitating the "SNs" cell structure of real fish to realize underwater speed measurement.
-        </p>
-        <p>
-          <strong>Tags</strong>
-          <span style="background-color:#f0f0f0;padding:3px 8px;border-radius:5px;margin-right:5px;">Biomimetic Sensor</span>
-          &nbsp;&nbsp;
-          <strong>Source</strong>
-          <a href="https://ouyaming.github.io/files/2021-07-26-CCC.pdf" target="_blank">[Paper]</a>
         </p>
       </td>
     </tr>
