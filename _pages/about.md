@@ -453,7 +453,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/1.png" class="d-block w-100" style="height:200px;">
+              <img src="https://ouyaming.github.io/images/2023-03-27-TIM/2.png" class="d-block w-100" style="height:200px;">
             </div>
           </div>
         </div>
