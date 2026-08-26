@@ -290,7 +290,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 </head>
 
 ---
-# 🛠️ Research
+# 🛠️ Research (Partial)
 ---
 
 For a more detailed presentation, see [Publications](https://ouyaming.github.io/publications/) and [Projects](https://ouyaming.github.io/projects/).
@@ -312,7 +312,7 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
       <br>
   
       <span style="font-size:10pt;">
-        <em>Preprint</em>, 2026
+        <em>IROS</em>, 2026
       </span>
       <br>
   
