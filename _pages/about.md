@@ -298,6 +298,42 @@ For a more detailed presentation, see [Publications](https://ouyaming.github.io/
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:11.5pt;">
   <tbody>
     <tr>
+    <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
+      <img src="https://ouyaming.github.io/vedio/HybridSplat.png" width="500" height="300">
+    </td>
+  
+    <td style="padding:20px;width:70%;vertical-align:middle;border:none;">
+      <papertitle>
+        HybridSplat: Underwater Dense SLAM via Visual-Acoustic Fusion and Physics-Informed 3D Gaussian Splatting
+      </papertitle>
+      <br>
+  
+      Song Xia*, <strong>Yaming Ou*†</strong>, Junfeng Fan, Chao Zhou, Pengju Zhang, etc.
+      <br>
+  
+      <span style="font-size:10pt;">
+        <em>Preprint</em>, 2026
+      </span>
+      <br>
+  
+      <p>
+        A tightly-coupled visual-acoustic dense SLAM framework, termed HybridSplat, is proposed by integrating DVL-constrained metric tracking with physics-informed 3D Gaussian Splatting, enabling scale-consistent localization and high-fidelity dense reconstruction in challenging underwater environments.
+      </p>
+  
+      <p>
+        <strong>Tags</strong>
+        <span style="background-color:#f0f0f0;padding:3px 8px;border-radius:5px;margin-right:5px;">SLAM</span>
+        <span style="background-color:#f0f0f0;padding:3px 8px;border-radius:5px;margin-right:5px;">3D Gaussian Splatting</span>
+        <span style="background-color:#f0f0f0;padding:3px 8px;border-radius:5px;margin-right:5px;">Visual-Acoustic Fusion</span>
+        &nbsp;&nbsp;
+  
+        <strong>Source</strong>
+        <a href="" target="_blank">[Paper]</a>
+        <a href="" target="_blank">[Video]</a>
+      </p>
+    </td>
+  </tr>
+    <tr>
       <td style="padding:20px;width:30%;vertical-align:middle;border:none;">
         <img src="https://ouyaming.github.io/vedio/PL-VAP.gif" width="500" height="300">
       </td>
