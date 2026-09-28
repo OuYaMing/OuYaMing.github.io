@@ -46,6 +46,12 @@ My work aims to develop robotic systems endowed with perception, localization, a
 # 🔥 News
 ---
 <div style="max-height: 150px; overflow-y: auto; font-size: 11.6pt;">
+2026.09.17 &nbsp; Serving as an Associate Editor for the journal Advanced Bionics (ABS). Submissions welcome!😊
+<br>
+2026.09.13 &nbsp; Serving as an Associate Editor for ICRA 2027. Submissions welcome!😊
+<br>
+2026.09.11 &nbsp; Invited by SCIS to review a paper related to 3DGS！😊
+<br>
 2026.07.30 &nbsp; Invited by TASE to review a paper related to whole-body control！😊
 <br>
 2026.07.29 &nbsp; Invited by TIV to review a paper related to robot navigation！😊
