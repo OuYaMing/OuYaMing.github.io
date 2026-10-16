@@ -13,13 +13,13 @@ redirect_from:
 
 <p>Hi! Welcome to my homepage. I’m <strong>Yaming Ou (欧亚明)</strong>, an Assistant Researcher at the Tactile Perception and Embodied Manipulation Laboratory, School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS), working with Prof. <a href="https://people.ucas.ac.cn/~chenglong?language=en">Long Cheng</a> (IEEE Fellow). I received my Ph.D. from the C<sup>2</sup>DL Lab, Institute of Automation, Chinese Academy of Sciences (CASIA), and UCAS, supervised by Prof. <a href="http://www.ia.cas.cn/rcdw/yjy/202406/t20240621_7194305.html">Chao Zhou</a> and Assoc. Prof. <a href="https://people.ucas.edu.cn/~fanjunfeng">Junfeng Fan</a>.</p>
 <p>I was a visiting scholar at the Robotics Institute, Carnegie Mellon University, working with Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=4fvo61oAAAAJ">Howie Choset</a> in the Biorobotics Lab from March 2025 to March 2026. Previously, I received my B.E. in Robotics Engineering from Southeast University (ranked 2/34; Outstanding Graduate Award).</p>
-<p>My research interests include <em>SLAM, cross-media UAVs, spatial intelligence, and tactile-based mobile manipulation</em>. I develop robotic systems that perceive, localize, navigate, and operate in challenging real-world environments. Feel free to <a href="mailto:{{ site.author.email }}">contact me</a> to discuss robotics and research collaborations.</p>
+<p>My research interests include <em>SLAM, physical intelligence, spatial intelligence, and tactile-based mobile manipulation</em>. My work aims to develop robotic systems endowed with perception, localization, autonomous mobility, and unmanned operation capabilities for extreme real-life applications. Feel free to <a href="mailto:{{ site.author.email }}">contact me</a> to discuss robotics and research collaborations.</p>
 
 <span class="anchor" id="news"></span>
 <h1 id="-news">🔥 News</h1>
 <ul>
-{% assign featured_news = site.data.home.news | where: 'featured', true %}
-{% for item in featured_news limit: 8 %}
+{% assign recent_news = site.data.home.news | sort: 'date' | reverse %}
+{% for item in recent_news limit: 8 %}
   <li><em>{{ item.label }}</em>: &nbsp;{{ item.text }}</li>
 {% endfor %}
 </ul>
