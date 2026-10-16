@@ -77,4 +77,4 @@ redirect_from:
   <li><em>2025.03 - 2026.03</em>, Robotics Institute, Carnegie Mellon University, Visiting Scholar.</li>
 </ul>
 
-<p><a href="{{ '/cv/' | relative_url }}">CV</a> · <a href="{{ '/year-archive/' | relative_url }}">Blog archive</a></p>
+<p><a href="{{ '/projects/' | relative_url }}">More projects</a> · <a href="{{ '/cv/' | relative_url }}">CV</a> · <a href="{{ '/year-archive/' | relative_url }}">Blog archive</a></p>
