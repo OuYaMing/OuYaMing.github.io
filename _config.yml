@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "China, Beijing"
-title                    : "Yaming Ou / Home"
+locale                   : "en-US"
+title                    : "Yaming Ou"
 title_separator          : "-"
 name                     : &name "Yaming Ou (欧亚明)"
-description              : &description "行我所信，无问西东"
+description              : &description "Yaming Ou — robot perception, SLAM, spatial intelligence, and embodied manipulation."
 url                      : https://ouyaming.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "OuYaMing/ouyaming.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Build new robots to change the world."
   location         : "China, Beijing"
-  employer         : "Institute of Automation (CASIA)"
+  employer         : "University of Chinese Academy of Sciences"
   uri              : # URL
   email            : "ouyaming2021@ia.ac.cn" 
 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=JD82F9kAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7294-7506"
+  orcid            : "https://orcid.org/0000-0002-7294-7506"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
@@ -303,7 +303,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

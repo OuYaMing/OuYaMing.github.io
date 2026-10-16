@@ -1,0 +1,517 @@
+{
+  "description": "Yaming Ou (欧亚明), Assistant Researcher at UCAS. Research in SLAM, cross-media UAVs, spatial intelligence, and tactile-based mobile manipulation.",
+  "navigation": [
+    {
+      "id": "about-me",
+      "label": "About Me"
+    },
+    {
+      "id": "news",
+      "label": "News"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "experience",
+      "label": "Experience"
+    },
+    {
+      "id": "honors",
+      "label": "Honors"
+    },
+    {
+      "id": "services",
+      "label": "Service"
+    },
+    {
+      "id": "projects",
+      "label": "Projects"
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-09-17",
+      "label": "2026.09",
+      "text": "Serving as an Associate Editor for Advanced Bionics (ABS).",
+      "featured": true
+    },
+    {
+      "date": "2026-09-13",
+      "label": "2026.09",
+      "text": "Serving as an Associate Editor for ICRA 2027.",
+      "featured": true
+    },
+    {
+      "date": "2026-09-11",
+      "label": "2026.09",
+      "text": "Invited to review 3D Gaussian Splatting research for Science China Information Sciences.",
+      "featured": false
+    },
+    {
+      "date": "2026-07-30",
+      "label": "2026.07",
+      "text": "Invited to review whole-body control research for IEEE Transactions on Automation Science and Engineering.",
+      "featured": false
+    },
+    {
+      "date": "2026-07-29",
+      "label": "2026.07",
+      "text": "Invited to review robot navigation research for IEEE Transactions on Intelligent Vehicles.",
+      "featured": false
+    },
+    {
+      "date": "2026-06-17",
+      "label": "2026.06",
+      "text": "HybridSplat, work with my first supervised student, accepted by IROS 2026. Congratulations to Song!",
+      "featured": true
+    },
+    {
+      "date": "2026-05-25",
+      "label": "2026.05",
+      "text": "Our work on event-based underwater 3D reconstruction accepted by IEEE/ASME Transactions on Mechatronics.",
+      "featured": true
+    },
+    {
+      "date": "2026-04-29",
+      "label": "2026.04",
+      "text": "Successfully defended my Ph.D. and received the CAS President’s Award.",
+      "featured": true
+    },
+    {
+      "date": "2026-04-28",
+      "label": "2026.04",
+      "text": "Our co-first-author work on multi-modal underwater localization accepted by IEEE Transactions on Instrumentation and Measurement.",
+      "featured": true
+    },
+    {
+      "date": "2026-02-04",
+      "label": "2026.02",
+      "text": "Invited to review for IEEE Internet of Things Journal.",
+      "featured": false
+    },
+    {
+      "date": "2026-01-07",
+      "label": "2026.01",
+      "text": "Invited to review for Results in Engineering.",
+      "featured": false
+    },
+    {
+      "date": "2025-12-23",
+      "label": "2025.12",
+      "text": "Invited to review for Knowledge-Based Systems.",
+      "featured": false
+    },
+    {
+      "date": "2025-12-10",
+      "label": "2025.12",
+      "text": "Invited to review for CIT.",
+      "featured": false
+    },
+    {
+      "date": "2025-12-06",
+      "label": "2025.12",
+      "text": "Invited to review for IEEE Transactions on Industrial Informatics.",
+      "featured": false
+    },
+    {
+      "date": "2025-10-05",
+      "label": "2025.10",
+      "text": "PL-VAP accepted by IEEE/ASME Transactions on Mechatronics.",
+      "featured": true
+    },
+    {
+      "date": "2025-10-05",
+      "label": "2025.10",
+      "text": "Invited to review underwater SLAM research for IEEE Internet of Things Journal.",
+      "featured": false
+    },
+    {
+      "date": "2025-09-29",
+      "label": "2025.09",
+      "text": "Invited to review robot navigation and mapping research for ICRA 2026.",
+      "featured": false
+    },
+    {
+      "date": "2025-08-15",
+      "label": "2025.08",
+      "text": "Invited to review for IEEE Transactions on Robotics.",
+      "featured": false
+    },
+    {
+      "date": "2025-03-15",
+      "label": "2025.03",
+      "text": "Started my visiting research at Carnegie Mellon University in Pittsburgh.",
+      "featured": true
+    },
+    {
+      "date": "2024-12-25",
+      "label": "2024.12",
+      "text": "Selected for the UCAS PhD International Cooperation Training Program (one spot per institute).",
+      "featured": true
+    },
+    {
+      "date": "2024-12-25",
+      "label": "2024.12",
+      "text": "My publications surpassed 100 citations on Google Scholar.",
+      "featured": true
+    },
+    {
+      "date": "2024-11-20",
+      "label": "2024.11",
+      "text": "Awarded the China PhD National Scholarship; invited to review for IEEE Transactions on Industrial Electronics.",
+      "featured": true
+    },
+    {
+      "date": "2024-11-16",
+      "label": "2024.11",
+      "text": "A collaborative paper accepted by Bioinspiration & Biomimetics.",
+      "featured": true
+    },
+    {
+      "date": "2024-07-26",
+      "label": "2024.07",
+      "text": "Hybrid-VINS accepted by IEEE Transactions on Industrial Electronics.",
+      "featured": true
+    },
+    {
+      "date": "2024-06-14",
+      "label": "2024.06",
+      "text": "Invited to review for IEEE Transactions on Intelligent Vehicles.",
+      "featured": false
+    },
+    {
+      "date": "2024-05-30",
+      "label": "2024.05",
+      "text": "Received the Outstanding Student Leader Award of UCAS.",
+      "featured": true
+    },
+    {
+      "date": "2024-03-21",
+      "label": "2024.03",
+      "text": "Our underwater navigation and mapping work published in IEEE Transactions on Systems, Man, and Cybernetics: Systems.",
+      "featured": true
+    },
+    {
+      "date": "2023-11-25",
+      "label": "2023.11",
+      "text": "Our underwater pipeline tracking work accepted by IEEE Transactions on Intelligent Vehicles.",
+      "featured": true
+    },
+    {
+      "date": "2023-10-06",
+      "label": "2023.10",
+      "text": "Water-MBSL accepted by IEEE Transactions on Industrial Informatics.",
+      "featured": true
+    },
+    {
+      "date": "2023-06-15",
+      "label": "2023.06",
+      "text": "Invited to review for IEEE Sensors Journal.",
+      "featured": false
+    },
+    {
+      "date": "2023-03-27",
+      "label": "2023.03",
+      "text": "Our binocular structured light work published in IEEE Transactions on Instrumentation and Measurement.",
+      "featured": true
+    },
+    {
+      "date": "2023-03-09",
+      "label": "2023.03",
+      "text": "Selected for the PhD Experimental Class of CASIA.",
+      "featured": true
+    },
+    {
+      "date": "2021-07-29",
+      "label": "2021.07",
+      "text": "Presented at the Chinese Control Conference in Shanghai.",
+      "featured": true
+    },
+    {
+      "date": "2021-06",
+      "label": "2021.06",
+      "text": "Graduated from Southeast University and began my Ph.D. journey in Beijing.",
+      "featured": true
+    }
+  ],
+  "publications": [
+    {
+      "id": "hybridsplat",
+      "short_title": "HybridSplat",
+      "badge": "IROS 2026",
+      "title": "HybridSplat: Underwater Dense SLAM via Visual-Acoustic Fusion and Physics-Informed 3D Gaussian Splatting",
+      "authors": "Song Xia, <strong>Yaming Ou*</strong>, Junfeng Fan, Chao Zhou, Pengju Zhang, et al.",
+      "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "year": 2026,
+      "image": "/images/research/hybridsplat.jpg",
+      "alt": "Overview of the HybridSplat visual-acoustic dense SLAM framework",
+      "description": "Visual-acoustic fusion and physics-informed 3D Gaussian Splatting for scale-consistent underwater localization and dense reconstruction.",
+      "links": []
+    },
+    {
+      "id": "pl-vap",
+      "short_title": "PL-VAP",
+      "badge": "TMech 2025",
+      "title": "PL-VAP: A Tightly Coupled Self-Localization Framework for Underwater Robots Using Point-Line Features and Visual-Acoustic-Pressure Sensor Fusion",
+      "authors": "<strong>Yaming Ou</strong>, Song Xia, Junfeng Fan, et al.",
+      "venue": "IEEE/ASME Transactions on Mechatronics",
+      "year": 2025,
+      "image": "/images/research/pl-vap.jpg",
+      "alt": "Underwater localization results from PL-VAP",
+      "description": "Tightly coupled point-line features and visual-acoustic-pressure fusion for robust underwater robot localization.",
+      "links": [
+        {
+          "label": "Animation",
+          "url": "/vedio/PL-VAP.gif"
+        }
+      ]
+    },
+    {
+      "id": "hybrid-vins",
+      "short_title": "Hybrid-VINS",
+      "badge": "TIE 2024",
+      "title": "Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV",
+      "authors": "<strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, et al.",
+      "venue": "IEEE Transactions on Industrial Electronics",
+      "year": 2024,
+      "url": "/publications/2024-06-01-TIE",
+      "image": "/images/research/hybrid-vins.jpg",
+      "alt": "Underwater mapping results from Hybrid-VINS",
+      "description": "Combining active vision with passive visual-inertial sensing for underwater localization and dense mapping.",
+      "links": [
+        {
+          "label": "Details",
+          "url": "/publications/2024-06-01-TIE"
+        },
+        {
+          "label": "Video",
+          "url": "/vedio/2024-TIE-vedio.mp4"
+        }
+      ]
+    },
+    {
+      "id": "navigation",
+      "short_title": "Underwater navigation",
+      "badge": "TSMC 2024",
+      "title": "Structured Light-Based Underwater Collision-Free Navigation and Dense Mapping System for Refined Exploration in Unknown Dark Environments",
+      "authors": "<strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, et al.",
+      "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+      "year": 2024,
+      "url": "/files/2024-03-18-TSMC.pdf",
+      "image": "/images/research/navigation.jpg",
+      "alt": "Structured light underwater navigation and mapping experiment",
+      "description": "A scanning binocular structured light system for autonomous exploration and refined 3D mapping in dark underwater environments.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "/files/2024-03-18-TSMC.pdf"
+        },
+        {
+          "label": "Video",
+          "url": "/vedio/2024-03-18-TSMC_vedio.mp4"
+        }
+      ]
+    },
+    {
+      "id": "water-mbsl",
+      "short_title": "Water-MBSL",
+      "badge": "TII 2024",
+      "title": "Water-MBSL: Underwater Movable Binocular Structured Light-Based High-Precision Dense Reconstruction Framework",
+      "authors": "<strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, et al.",
+      "venue": "IEEE Transactions on Industrial Informatics",
+      "year": 2024,
+      "url": "/files/2023-12-29-TII.pdf",
+      "image": "/images/research/water-mbsl.jpg",
+      "alt": "High precision underwater reconstruction from Water-MBSL",
+      "description": "High-precision mobile 3D reconstruction with motion distortion compensation and point cloud registration.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "/files/2023-12-29-TII.pdf"
+        },
+        {
+          "label": "Video",
+          "url": "/vedio/2023-12-29-TII_vedio.mp4"
+        }
+      ]
+    },
+    {
+      "id": "pipeline",
+      "short_title": "Pipeline tracking",
+      "badge": "TIV 2024",
+      "title": "Structured Light Vision-Based Pipeline Tracking and 3D Reconstruction Method for Underwater Vehicle",
+      "authors": "Junfeng Fan, <strong>Yaming Ou*</strong>, Xuan Li, et al.",
+      "venue": "IEEE Transactions on Intelligent Vehicles",
+      "year": 2024,
+      "url": "/files/2023-12-08-TIV.pdf",
+      "image": "/images/research/pipeline.jpg",
+      "alt": "Underwater vehicle tracking and reconstructing a pipeline",
+      "description": "Dual-line laser vision for pipeline positioning, tracking, and simultaneous 3D reconstruction.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "/files/2023-12-08-TIV.pdf"
+        },
+        {
+          "label": "Video",
+          "url": "/vedio/2023-12-08-TIV_vedio.mp4"
+        }
+      ]
+    },
+    {
+      "id": "bsl",
+      "short_title": "Binocular structured light",
+      "badge": "TIM 2023",
+      "title": "Binocular Structured Light 3-D Reconstruction System for Low-Light Underwater Environments: Design, Modeling, and Laser-Based Calibration",
+      "authors": "<strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, et al.",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "year": 2023,
+      "url": "/files/2023-03-27-TIM.pdf",
+      "image": "/images/research/bsl.jpg",
+      "alt": "Design of the underwater binocular structured light reconstruction system",
+      "description": "System design, modeling, and laser-based calibration for high-precision 3D scanning in low-light underwater scenes.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "/files/2023-03-27-TIM.pdf"
+        }
+      ]
+    }
+  ],
+  "other_publications": [
+    {
+      "title": "Event-based underwater structured light system for high-speed 3D reconstruction",
+      "authors": "J. Fan, Y. Jia, <strong>Y. Ou*</strong>, C. Zhou*, et al.",
+      "venue": "IEEE/ASME Transactions on Mechatronics",
+      "year": 2026
+    },
+    {
+      "title": "Multi-Modal Fusion for Underwater Localization through Hierarchical Uncertainty Awareness",
+      "authors": "Y. Xue<sup>†</sup>, <strong>Y. Ou<sup>†</sup></strong>, et al.",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "year": 2026
+    },
+    {
+      "title": "Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM",
+      "authors": "<strong>Y. Ou</strong>, Z. Zhang, C. Zhou, B. Zhou",
+      "venue": "Chinese Control Conference (CCC), Shanghai, China",
+      "year": 2021,
+      "url": "/files/2021-07-26-CCC.pdf"
+    }
+  ],
+  "experience": [
+    {
+      "period": "2026.06 – 2029.06",
+      "institution": "University of Chinese Academy of Sciences",
+      "role": "Research Fellow · School of Artificial Intelligence",
+      "detail": "Tactile Perception and Embodied Manipulation Laboratory · Prof. Long Cheng"
+    },
+    {
+      "period": "2025.03 – 2026.03",
+      "institution": "Carnegie Mellon University",
+      "role": "Visiting Scholar · Robotics Institute",
+      "detail": "Biorobotics Lab · Prof. Howie Choset"
+    },
+    {
+      "period": "2021.09 – 2026.06",
+      "institution": "Chinese Academy of Sciences / UCAS",
+      "role": "Ph.D. · Institute of Automation & School of Artificial Intelligence",
+      "detail": "C²DL Lab · Prof. Chao Zhou and Assoc. Prof. Junfeng Fan"
+    },
+    {
+      "period": "2017.09 – 2021.06",
+      "institution": "Southeast University",
+      "role": "B.E. · Robotics Engineering, School of Automation",
+      "detail": "Materials Science and Engineering (2017–2018); Robotics Engineering (2018–2021). Ranked 2/34; Outstanding Graduate Award."
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "text": "CAS President’s Award"
+    },
+    {
+      "year": 2025,
+      "text": "Three Good Student Model of UCAS (top 1%)"
+    },
+    {
+      "year": 2024,
+      "text": "UCAS PhD International Cooperation Program (one spot per institute)"
+    },
+    {
+      "year": 2024,
+      "text": "China PhD National Scholarship"
+    },
+    {
+      "year": 2024,
+      "text": "Outstanding Student Leader Award of UCAS (top 2%)"
+    },
+    {
+      "year": 2023,
+      "text": "PhD Experimental Class of CASIA (8/276)"
+    },
+    {
+      "year": 2022,
+      "text": "China ICV Algorithms Challenge Competition — 1st place"
+    },
+    {
+      "year": 2022,
+      "text": "Three Good Students Award of UCAS"
+    },
+    {
+      "year": 2021,
+      "text": "Data Application Innovation and Entrepreneurship Competition — merit award (9/453)"
+    },
+    {
+      "year": 2021,
+      "text": "Outstanding Graduate Award of Southeast University"
+    },
+    {
+      "year": 2020,
+      "text": "National College Students Intelligent Vehicle Competition — national 2nd prize"
+    },
+    {
+      "year": 2020,
+      "text": "China National Inspiration Scholarship"
+    },
+    {
+      "year": 2019,
+      "text": "RoboCup Robotics World Cup, China Region — national 1st prize"
+    },
+    {
+      "year": 2019,
+      "text": "National College Students Electronic Design Competition — national 2nd prize"
+    },
+    {
+      "year": 2019,
+      "text": "10th Robot Competition of Jiangsu Province — provincial 1st prize"
+    },
+    {
+      "year": 2019,
+      "text": "Three Good Students Award of Southeast University"
+    },
+    {
+      "year": 2018,
+      "text": "9th Robot Competition of Jiangsu Province — provincial 1st prize"
+    },
+    {
+      "year": 2016,
+      "text": "High School Mathematics Olympiad, Anhui Province — provincial 2nd prize"
+    }
+  ],
+  "projects": [
+    {
+      "title": "AI-aided Self-Driving Vehicle",
+      "description": "Embedded visual perception and autonomous driving. National Second Prize, National College Students Intelligent Vehicle Competition.",
+      "video": "/vedio/project_AI_smart_car_vedio.mp4"
+    },
+    {
+      "title": "Lane Keeping Assist Control",
+      "description": "LQR-based lateral and speed control for autonomous driving. First Prize, China ICV Algorithms Challenge.",
+      "video": "/vedio/project_LKA_vedio.mp4",
+      "code": "https://github.com/Zhihaibi/Lateral_control"
+    }
+  ]
+}

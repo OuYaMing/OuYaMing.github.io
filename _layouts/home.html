@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} · Yaming Ou</title>
+  <meta name="description" content="{{ site.data.home.description | escape }}">
+  <meta name="author" content="Yaming Ou">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Yaming Ou (欧亚明) · Homepage">
+  <meta property="og:description" content="{{ site.data.home.description | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ '/images/my_photo_1.jpg' | absolute_url }}">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
+  <script src="{{ '/assets/js/home.js' | relative_url }}" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-name" href="{{ '/' | relative_url }}">Yaming Ou <span>欧亚明</span></a>
+      <nav aria-label="Main navigation">
+        <ul class="nav-links">
+          {% for item in site.data.home.navigation %}
+          <li><a href="#{{ item.id }}">{{ item.label }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <div class="site-layout">
+    <aside class="profile" aria-label="Personal information">
+      <img class="profile-photo" src="{{ '/images/my_photo_1.jpg' | relative_url }}" width="168" height="168" alt="Yaming Ou" fetchpriority="high">
+      <h1>Yaming Ou <span lang="zh-CN">欧亚明</span></h1>
+      <p class="profile-role">Assistant Researcher</p>
+      <p class="profile-affiliation">School of Artificial Intelligence<br>University of Chinese Academy<br class="desktop-break"> of Sciences</p>
+      <p class="profile-location">Beijing, China</p>
+      <ul class="profile-links">
+        <li><a class="email-link" href="mailto:{{ site.author.email }}"><span class="link-icon" aria-hidden="true">✉</span>{{ site.author.email }}</a></li>
+        <li><a href="{{ site.author.googlescholar }}"><span class="link-icon" aria-hidden="true">GS</span>Google Scholar</a></li>
+        <li><a href="https://github.com/{{ site.author.github }}"><span class="link-icon" aria-hidden="true">GH</span>GitHub</a></li>
+        <li><a href="https://orcid.org/0000-0002-7294-7506"><span class="link-icon" aria-hidden="true">iD</span>ORCID</a></li>
+        <li><a href="{{ site.author.zhihu }}"><span class="link-icon" aria-hidden="true" lang="zh-CN">知</span>Zhihu</a></li>
+      </ul>
+      <p class="profile-motto">Build new robots to<br>change the world.</p>
+    </aside>
+    <main id="main-content" tabindex="-1">{{ content }}</main>
+  </div>
+  <footer class="site-footer">
+    <p>© {{ site.time | date: '%Y' }} Yaming Ou <span lang="zh-CN">欧亚明</span></p>
+    <a href="#about-me">Back to top ↑</a>
+  </footer>
+</body>
+</html>

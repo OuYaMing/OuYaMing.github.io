@@ -1,22 +1,16 @@
-# main links links
+# Links on legacy article, project, and CV pages return to the new homepage.
 main:
+  - title: "About Me"
+    url: /#about-me
+  - title: "News"
+    url: /#news
   - title: "Publications"
-    url: /publications/
-
+    url: /#publications
+  - title: "Experience"
+    url: /#experience
+  - title: "Honors"
+    url: /#honors
+  - title: "Service"
+    url: /#services
   - title: "Projects"
-    url: /projects/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "中文"
-  #   url: /Chinese/
+    url: /projects/
