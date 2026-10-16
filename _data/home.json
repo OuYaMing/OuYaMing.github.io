@@ -248,7 +248,8 @@
       "image": "/images/research/hybridsplat.jpg",
       "alt": "Overview of the HybridSplat visual-acoustic dense SLAM framework",
       "description": "Visual-acoustic fusion and physics-informed 3D Gaussian Splatting for scale-consistent underwater localization and dense reconstruction.",
-      "links": []
+      "links": [],
+      "short_venue": "IROS"
     },
     {
       "id": "pl-vap",
@@ -266,7 +267,8 @@
           "label": "Animation",
           "url": "/vedio/PL-VAP.gif"
         }
-      ]
+      ],
+      "short_venue": "TMech"
     },
     {
       "id": "hybrid-vins",
@@ -289,7 +291,8 @@
           "label": "Video",
           "url": "/vedio/2024-TIE-vedio.mp4"
         }
-      ]
+      ],
+      "short_venue": "TIE"
     },
     {
       "id": "navigation",
@@ -312,7 +315,8 @@
           "label": "Video",
           "url": "/vedio/2024-03-18-TSMC_vedio.mp4"
         }
-      ]
+      ],
+      "short_venue": "TSMC"
     },
     {
       "id": "water-mbsl",
@@ -335,7 +339,8 @@
           "label": "Video",
           "url": "/vedio/2023-12-29-TII_vedio.mp4"
         }
-      ]
+      ],
+      "short_venue": "TII"
     },
     {
       "id": "pipeline",
@@ -358,7 +363,8 @@
           "label": "Video",
           "url": "/vedio/2023-12-08-TIV_vedio.mp4"
         }
-      ]
+      ],
+      "short_venue": "TIV"
     },
     {
       "id": "bsl",
@@ -377,7 +383,8 @@
           "label": "Paper",
           "url": "/files/2023-03-27-TIM.pdf"
         }
-      ]
+      ],
+      "short_venue": "TIM"
     }
   ],
   "other_publications": [

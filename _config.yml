@@ -11,22 +11,22 @@ locale                   : "en-US"
 title                    : "Yaming Ou"
 title_separator          : "-"
 name                     : &name "Yaming Ou (欧亚明)"
-description              : &description "Yaming Ou — robot perception, SLAM, spatial intelligence, and embodied manipulation."
+description              : &description "Assistant Researcher at University of Chinese Academy of Sciences (UCAS)"
 url                      : https://ouyaming.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "OuYaMing/ouyaming.github.io"
+repository               : "OuYaMing/OuYaMing.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_photo_1.jpg"
+  avatar           : "/images/my_photo_1.jpg"
   name             : "Yaming Ou (欧亚明)"
   pronouns         : # example: "she/her"  
-  bio              : "Build new robots to change the world."
+  bio              :
   location         : "China, Beijing"
-  employer         : "University of Chinese Academy of Sciences"
+  employer         :
   uri              : # URL
   email            : "ouyaming2021@ia.ac.cn" 
 
@@ -357,3 +357,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Reference template integrations; use only personal account settings.
+google_analytics_id:
+google_scholar_stats_use_cdn: false
+google_scholar_stats_enabled: false
