@@ -38,10 +38,11 @@ redirect_from:
 </div>
 {% endfor %}
 
-<h2>Other Transactions Publications</h2>
+<h2>Other Publications</h2>
 <ul>
 {% for paper in site.data.home.other_publications %}
-  <li>{% if paper.url %}<a href="{{ paper.url | relative_url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}, {{ paper.authors }}. {{ paper.venue }}, {{ paper.year }}.{% if paper.url %} <a href="{{ paper.url | relative_url }}">[Paper]</a>{% endif %}</li>
+  {% assign author_end = paper.authors | slice: -1, 1 %}
+  <li>{% if paper.url %}<a href="{{ paper.url | relative_url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}, {{ paper.authors }}{% unless author_end == '.' %}.{% endunless %} {{ paper.venue }}{% if paper.year %}, {{ paper.year }}{% endif %}.{% if paper.url %} <a href="{{ paper.url | relative_url }}">[Paper]</a>{% endif %}</li>
 {% endfor %}
 </ul>
 

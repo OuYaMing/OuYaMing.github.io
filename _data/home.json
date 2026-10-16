@@ -464,46 +464,172 @@
   ],
   "other_publications": [
     {
-      "title": "AEVINS: Tightly Coupled Acoustic-Event-Visual-Inertial Underwater Localization System in Complex Environments",
-      "authors": "X. Liu, J. Fan, <strong>Y. Ou</strong>, et al.",
-      "venue": "IEEE/ASME Transactions on Mechatronics",
-      "year": 2026,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JD82F9kAAAAJ&pagesize=100&citation_for_view=JD82F9kAAAAJ:_kc_bZDykSQC"
-    },
-    {
       "title": "Underwater Pipeline and Cable External Inspection Techniques: A Comprehensive Review",
       "authors": "J. Fan, X. Liu, <strong>Y. Ou</strong>, et al.",
       "venue": "IEEE Transactions on Instrumentation and Measurement",
       "year": 2026,
-      "url": "https://doi.org/10.1109/TIM.2026.3671914"
+      "url": "https://doi.org/10.1109/TIM.2026.3671914",
+      "category": "transactions"
     },
     {
-      "title": "Mapping and localization in unknown underwater electric field using passive electric sense system",
-      "authors": "P. Shuai, H. Li, C. Zhou, <strong>Y. Ou</strong>, et al.",
-      "venue": "IEEE Transactions on Instrumentation and Measurement",
-      "year": 2025,
-      "url": "https://doi.org/10.1109/TIM.2025.3548185"
+      "title": "AEVINS: Tightly Coupled Acoustic-Event-Visual-Inertial Underwater Localization System in Complex Environments",
+      "authors": "X. Liu, J. Fan, <strong>Y. Ou</strong>, et al.",
+      "venue": "IEEE/ASME Transactions on Mechatronics",
+      "year": 2026,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JD82F9kAAAAJ&pagesize=100&citation_for_view=JD82F9kAAAAJ:_kc_bZDykSQC",
+      "category": "transactions"
     },
     {
       "title": "Underwater robot self-localization method using tightly coupled events, images, inertial, and acoustic fusion",
       "authors": "J. Fan, X. Liu, <strong>Y. Ou</strong>, et al.",
       "venue": "IEEE Transactions on Industrial Electronics",
       "year": 2025,
-      "url": "https://doi.org/10.1109/TIE.2024.3476931"
+      "url": "https://doi.org/10.1109/TIE.2024.3476931",
+      "category": "transactions"
+    },
+    {
+      "title": "Mapping and localization in unknown underwater electric field using passive electric sense system",
+      "authors": "P. Shuai, H. Li, C. Zhou, <strong>Y. Ou</strong>, et al.",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "year": 2025,
+      "url": "https://doi.org/10.1109/TIM.2025.3548185",
+      "category": "transactions"
     },
     {
       "title": "Development, calibration, and image processing of underwater structured light vision system: A survey",
       "authors": "J. Fan, X. Wang, C. Zhou, <strong>Y. Ou</strong>, et al.",
       "venue": "IEEE Transactions on Instrumentation and Measurement",
       "year": 2023,
-      "url": "https://doi.org/10.1109/TIM.2023.3235420"
+      "url": "https://doi.org/10.1109/TIM.2023.3235420",
+      "category": "transactions"
     },
     {
       "title": "An underwater structured light vision calibration method considering unknown refractive index based on Aquila optimizer",
       "authors": "X. Wang, J. Fan, S. Deng, Z. Wu, C. Zhou, <strong>Y. Ou</strong>, et al.",
       "venue": "IEEE Transactions on Instrumentation and Measurement",
       "year": 2023,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JD82F9kAAAAJ&pagesize=100&citation_for_view=JD82F9kAAAAJ:UeHWp8X0CEIC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JD82F9kAAAAJ&pagesize=100&citation_for_view=JD82F9kAAAAJ:UeHWp8X0CEIC",
+      "category": "transactions"
+    },
+    {
+      "title": "Flexible artificial lateral line based on luminous flux for underwater velocity vector estimation",
+      "authors": "X. Wang, Z. Li, Z. Zhang, J. Fan, <strong>Y. Ou</strong>, et al.",
+      "year": 2026,
+      "url": "https://doi.org/10.1093/nsr/nwag337",
+      "venue": "National Science Review",
+      "category": "published"
+    },
+    {
+      "title": "Noise Suppression Method of Passive Electric Sense System for Robotic Shark",
+      "authors": "P. Shuai, H. Li, C. Zhou, J. Fan, X. Wang, <strong>Y. Ou</strong>, et al.",
+      "year": 2026,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JD82F9kAAAAJ&pagesize=100&citation_for_view=JD82F9kAAAAJ:5nxA0vEk-isC",
+      "venue": "IEEE Robotics and Automation Letters",
+      "category": "published"
+    },
+    {
+      "title": "Optimization of a passive roll absorber for robotic fish based on tune mass damper",
+      "authors": "C. Zhu, C. Zhou, Q. Zou, J. Fan, Z. Zhang, <strong>Y. Ou</strong>, et al.",
+      "year": 2025,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JD82F9kAAAAJ&pagesize=100&citation_for_view=JD82F9kAAAAJ:roLk4NBRz8UC",
+      "venue": "Bioinspiration & Biomimetics",
+      "category": "published"
+    },
+    {
+      "title": "A precise calibration method for the underwater binocular camera with unknown refractive index",
+      "authors": "H. Yang, S. Tian, J. Fan, Y. Han, C. Zhou, <strong>Y. Ou</strong>",
+      "year": 2023,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JD82F9kAAAAJ&pagesize=100&citation_for_view=JD82F9kAAAAJ:u-x6o8ySG0sC",
+      "venue": "IEEE Sensors Journal",
+      "category": "published"
+    },
+    {
+      "title": "Tightly-coupled visual-DVL fusion for accurate localization of underwater robots",
+      "authors": "Y. Huang, P. Li, S. Yan, <strong>Y. Ou</strong>, et al.",
+      "year": 2023,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JD82F9kAAAAJ&pagesize=100&citation_for_view=JD82F9kAAAAJ:YsMSGLbcyi4C",
+      "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "category": "published"
+    },
+    {
+      "title": "Fault Diagnosis for Robotic Fish Sensors Based on Spatial Domain Image Fusion and Convolution Neural Network",
+      "authors": "X. Fan, S. Deng, J. Fan, C. Zhou, Z. Wu, <strong>Y. Ou</strong>, et al.",
+      "year": 2023,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JD82F9kAAAAJ&pagesize=100&citation_for_view=JD82F9kAAAAJ:zYLM7Y9cAGgC",
+      "venue": "Chinese Control Conference (CCC)",
+      "category": "published"
+    },
+    {
+      "title": "Adaptive fusional localization for robot fish based on dynamic-weight fuzzy inference",
+      "authors": "Y. Fu, X. Liao, B. Lu, Q. Zou, Z. Zhang, <strong>Y. Ou</strong>, et al.",
+      "year": 2021,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JD82F9kAAAAJ&pagesize=100&citation_for_view=JD82F9kAAAAJ:d1gkVwhDpl0C",
+      "venue": "China Automation Congress (CAC)",
+      "category": "published"
+    },
+    {
+      "title": "Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM",
+      "authors": "<strong>Y. Ou</strong>, Z. Zhang, C. Zhou, B. Zhou",
+      "year": 2021,
+      "url": "/files/2021-07-26-CCC.pdf",
+      "venue": "Chinese Control Conference (CCC)",
+      "category": "published"
+    },
+    {
+      "title": "UWLoc: Learning-Assisted Information Fusion for Underwater Localization via Dual-Odometry and Multi-Centric Calibration",
+      "authors": "Y. Xue, Y. Yang, X. Zhang, C. Zhou, <strong>Y. Ou</strong>, et al.",
+      "year": 2026,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7149763",
+      "venue": "SSRN Preprint 7149763",
+      "category": "preprint"
+    },
+    {
+      "title": "TRACE: Coverage Path Planning for Unknown Environments Using Hierarchical Coverage Tree",
+      "authors": "Z. Shen, H. Liu, G. Wang, S. Zhao, D. Zhou, <strong>Y. Ou</strong>, et al.",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2609.21777",
+      "venue": "arXiv:2609.21777",
+      "category": "arxiv"
+    },
+    {
+      "title": "A Hierarchical Coverage Path Planning Algorithm for Unknown Environments",
+      "authors": "Z. Shen, H. Liu, G. Wang, H. Ma, <strong>Y. Ou</strong>, et al.",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2609.12595",
+      "venue": "arXiv:2609.12595",
+      "category": "arxiv"
+    },
+    {
+      "title": "Learning-Based Motion Planning for Dynamic Environments: From Foundational Algorithms to Emerging Paradigms",
+      "authors": "Z. Shen, S. Gupta, S. Zhao, D. Zhou, G. Wang, R. Cheng, <strong>Y. Ou</strong>, et al.",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2608.00625",
+      "venue": "arXiv:2608.00625",
+      "category": "arxiv"
+    },
+    {
+      "title": "Coverage Path Planning: Classical Foundations, Recent Advances, and Future Directions",
+      "authors": "Z. Shen, S. Gupta, S. Zhao, D. Zhou, G. Wang, Z. Ren, <strong>Y. Ou</strong>, et al.",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2607.10649",
+      "venue": "arXiv:2607.10649",
+      "category": "arxiv"
+    },
+    {
+      "title": "Motion Planning in Dynamic Environments: A Survey from Classical to Modern Methods",
+      "authors": "Z. Shen, <strong>Y. Ou</strong>, S. Gupta, et al.",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2606.02677",
+      "venue": "arXiv:2606.02677",
+      "category": "arxiv"
+    },
+    {
+      "title": "An underwater, fault-tolerant, laser-aided robotic multi-modal dense SLAM system for continuous underwater in-situ observation",
+      "authors": "<strong>Y. Ou</strong>, J. Fan, C. Zhou, et al.",
+      "year": 2025,
+      "url": "https://arxiv.org/abs/2504.21826",
+      "venue": "arXiv:2504.21826",
+      "category": "arxiv"
     }
   ],
   "experience": [
