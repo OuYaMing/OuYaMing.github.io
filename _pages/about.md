@@ -30,9 +30,10 @@ redirect_from:
 <p><sup>*</sup> Corresponding author; <sup>†</sup> equal contribution. See also <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
 
 {% for paper in site.data.home.publications %}
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">{{ paper.badge }}</div><a href="{{ paper.image | relative_url }}" target="_blank" rel="noopener"><img src="{{ paper.image | relative_url }}" alt="{{ paper.alt | escape }}" width="100%" loading="lazy"></a></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge" style="position: static; display: inline-block; margin: 0 0 .4em;">{{ paper.badge }}</div><a href="{{ paper.image | relative_url }}" target="_blank" rel="noopener"><img src="{{ paper.image | relative_url }}" alt="{{ paper.alt | escape }}" width="100%" loading="lazy"></a></div></div>
 <div class="paper-box-text">
   <p>{% if paper.url %}<a href="{{ paper.url | relative_url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</p>
+  <p>{{ paper.description }}</p>
   <p>{{ paper.authors }}. {{ paper.venue }} (<strong>{{ paper.short_venue }}</strong>), {{ paper.year }}. {% for link in paper.links %}<a href="{{ link.url | relative_url }}">[{{ link.label }}]</a> {% endfor %}</p>
 </div>
 </div>

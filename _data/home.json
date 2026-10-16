@@ -245,9 +245,9 @@
       "authors": "Song Xia<sup>†</sup>, <strong>Yaming Ou<sup>*†</sup></strong>, Junfeng Fan, Chao Zhou, Pengju Zhang, Xiaoyan Liu, Xintao Wang, Xiangyu Sun, Zongyuan Shen",
       "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
       "year": 2026,
-      "image": "/images/research/hybridsplat-original-figures-v3.png",
+      "image": "/images/research/hybridsplat-wide-v4.png",
       "alt": "Original HybridSplat paper figures: visual-acoustic and physics-informed mapping framework, robotic platform, and Clear and FLSea rendering comparisons",
-      "description": "Visual-acoustic fusion and physics-informed 3D Gaussian Splatting for scale-consistent underwater localization and dense reconstruction.",
+      "description": "Combines DVL-constrained metric tracking with physics-informed 3D Gaussian Splatting to jointly estimate scene geometry and underwater attenuation and backscatter.",
       "links": [],
       "short_venue": "IROS"
     },
@@ -262,14 +262,15 @@
       "doi": "10.1109/TMECH.2026.3697740",
       "alt": "Original paper figures of the event-based scanner, reconstruction framework, refraction model, moving objects and wrench reconstructions",
       "badge": "TMech 2026",
-      "image": "/images/research/event-sl-original-figures-v3.png",
+      "image": "/images/research/event-sl-wide-v4.png",
       "links": [
         {
           "label": "DOI",
           "url": "https://doi.org/10.1109/TMECH.2026.3697740"
         }
       ],
-      "url": "https://doi.org/10.1109/TMECH.2026.3697740"
+      "url": "https://doi.org/10.1109/TMECH.2026.3697740",
+      "description": "Combines asynchronous event sensing with a refraction-aware scanning-laser model to reconstruct moving underwater objects at up to 500 Hz."
     },
     {
       "id": "ua-avip",
@@ -282,7 +283,7 @@
       "doi": "10.1109/TIM.2026.3694728",
       "alt": "Original UA-AVIP paper figures: hierarchical uncertainty-aware architecture, multimodal robot platform and real-pool localization evaluation",
       "badge": "TIM 2026",
-      "image": "/images/research/ua-avip-original-figures-v3.png",
+      "image": "/images/research/ua-avip-wide-v4.png",
       "links": [
         {
           "label": "DOI",
@@ -293,7 +294,8 @@
           "url": "https://github.com/HKPolyU-UAV/UA-AVIP"
         }
       ],
-      "url": "https://doi.org/10.1109/TIM.2026.3694728"
+      "url": "https://doi.org/10.1109/TIM.2026.3694728",
+      "description": "Models uncertainty at measurement, module, and system levels to adaptively fuse visual, inertial, acoustic, and pressure information for underwater localization."
     },
     {
       "id": "pl-vap",
@@ -303,9 +305,9 @@
       "authors": "<strong>Yaming Ou</strong>, Song Xia, Junfeng Fan<sup>*</sup>, Chao Zhou, Yupei Huang, Penghang Shuai, Yuanbo Xue, Zengguang Hou",
       "venue": "IEEE/ASME Transactions on Mechatronics",
       "year": 2025,
-      "image": "/images/research/pl-vap-original-figures-v3.png",
+      "image": "/images/research/pl-vap-wide-v4.png",
       "alt": "Original PL-VAP paper figures showing the fusion framework, robotic platform, underwater sinkhole experiment and point-line tracking",
-      "description": "Tightly coupled point-line features and visual-acoustic-pressure fusion for robust underwater robot localization.",
+      "description": "Jointly optimizes point and line features with DVL motion and pressure depth constraints to maintain reliable underwater localization in sparsely textured scenes.",
       "links": [
         {
           "label": "DOI",
@@ -329,9 +331,9 @@
       "venue": "IEEE Transactions on Industrial Electronics",
       "year": 2025,
       "url": "https://doi.org/10.1109/TIE.2024.3440515",
-      "image": "/images/research/hybrid-vins-original-figures-v3.png",
+      "image": "/images/research/hybrid-vins-wide-v4.png",
       "alt": "Original Hybrid-VINS paper figures: system framework, hybrid vision platform and fusion model, underwater scenes and dense maps",
-      "description": "Combining active vision with passive visual-inertial sensing for underwater localization and dense mapping.",
+      "description": "Uses active structured-light depth to strengthen passive visual-inertial initialization, feature tracking, and loop closure while producing dense underwater maps.",
       "links": [
         {
           "label": "DOI",
@@ -358,9 +360,9 @@
       "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
       "year": 2025,
       "url": "https://doi.org/10.1109/TSMC.2024.3370917",
-      "image": "/images/research/navigation-original-figures-v3.png",
+      "image": "/images/research/navigation-wide-v4.png",
       "alt": "Original ROV-Scanner paper figures showing the robot architecture, binocular laser model, collision-free navigation experiment and dense obstacle map",
-      "description": "A scanning binocular structured light system for autonomous exploration and refined 3D mapping in dark underwater environments.",
+      "description": "Integrates scanning binocular structured light, multirate sensor fusion, and air-water extrinsic calibration to enable simultaneous obstacle avoidance and dense mapping in dark water.",
       "links": [
         {
           "label": "DOI",
@@ -387,9 +389,9 @@
       "venue": "IEEE Transactions on Industrial Informatics",
       "year": 2024,
       "url": "https://doi.org/10.1109/TII.2023.3342899",
-      "image": "/images/research/water-mbsl-original-figures-v3.png",
+      "image": "/images/research/water-mbsl-wide-v4.png",
       "alt": "Original Water-MBSL paper figures: reconstruction framework, mobile scanning platform, moving reconstruction and ship-oar and pipe experiments",
-      "description": "High-precision mobile 3D reconstruction with motion distortion compensation and point cloud registration.",
+      "description": "Compensates scan distortion using inertial measurements and a velocity model, then registers point clouds to reconstruct dense underwater geometry while the robot moves.",
       "links": [
         {
           "label": "DOI",
@@ -416,9 +418,9 @@
       "venue": "IEEE Transactions on Intelligent Vehicles",
       "year": 2024,
       "url": "https://doi.org/10.1109/TIV.2023.3340737",
-      "image": "/images/research/pipeline-original-figures-v3.png",
+      "image": "/images/research/pipeline-wide-v4.png",
       "alt": "Original pipeline paper figures: underwater vehicle, dual-line laser tracking model, SLV sensor, tracking sequence and curved-pipeline reconstruction",
-      "description": "Dual-line laser vision for pipeline positioning, tracking, and simultaneous 3D reconstruction.",
+      "description": "Recovers lateral, height, and heading offsets from dual laser stripes, enabling closed-loop pipeline tracking and DVL-assisted dense 3D reconstruction.",
       "links": [
         {
           "label": "DOI",
@@ -445,9 +447,9 @@
       "venue": "IEEE Transactions on Instrumentation and Measurement",
       "year": 2023,
       "url": "https://doi.org/10.1109/TIM.2023.3261941",
-      "image": "/images/research/bsl-original-figures-v3.png",
+      "image": "/images/research/bsl-wide-v4.png",
       "alt": "Original binocular structured-light paper figures showing the scanner, refraction and calibration models and starfish reconstructions at different turbidities",
-      "description": "System design, modeling, and laser-based calibration for high-precision 3D scanning in low-light underwater scenes.",
+      "description": "Combines refraction-aware binocular geometry with laser-constrained calibration to obtain precise underwater 3D reconstructions when conventional checkerboard calibration fails in low light.",
       "links": [
         {
           "label": "DOI",
