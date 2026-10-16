@@ -242,47 +242,101 @@
       "short_title": "HybridSplat",
       "badge": "IROS 2026",
       "title": "HybridSplat: Underwater Dense SLAM via Visual-Acoustic Fusion and Physics-Informed 3D Gaussian Splatting",
-      "authors": "Song Xia, <strong>Yaming Ou*</strong>, Junfeng Fan, Chao Zhou, Pengju Zhang, et al.",
-      "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "authors": "Song Xia<sup>†</sup>, <strong>Yaming Ou<sup>*†</sup></strong>, Junfeng Fan, Chao Zhou, Pengju Zhang, Xiaoyan Liu, Xintao Wang, Xiangyu Sun, Zongyuan Shen",
+      "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
       "year": 2026,
-      "image": "/images/research/hybridsplat.jpg",
-      "alt": "Overview of the HybridSplat visual-acoustic dense SLAM framework",
+      "image": "/images/research/hybridsplat-showcase-v2.png",
+      "alt": "HybridSplat combines DVL-constrained metric tracking with physics-informed underwater Gaussian mapping",
       "description": "Visual-acoustic fusion and physics-informed 3D Gaussian Splatting for scale-consistent underwater localization and dense reconstruction.",
       "links": [],
       "short_venue": "IROS"
+    },
+    {
+      "id": "event-sl",
+      "short_title": "Event-based structured light",
+      "short_venue": "TMech",
+      "year": 2026,
+      "title": "Event-Based Underwater Structured Light System for High-Speed 3-D Reconstruction",
+      "authors": "Junfeng Fan, Yilin Jia, <strong>Yaming Ou<sup>*</sup></strong>, Chao Zhou<sup>*</sup>, Zengguang Hou",
+      "venue": "IEEE/ASME Transactions on Mechatronics",
+      "doi": "10.1109/TMECH.2026.3697740",
+      "alt": "Asynchronous event-camera laser stripe extraction and refraction-aware geometry enable high-speed underwater 3-D capture",
+      "badge": "TMech 2026",
+      "image": "/images/research/event-sl-showcase-v2.png",
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1109/TMECH.2026.3697740"
+        }
+      ],
+      "url": "https://doi.org/10.1109/TMECH.2026.3697740"
+    },
+    {
+      "id": "ua-avip",
+      "short_title": "UA-AVIP",
+      "short_venue": "TIM",
+      "year": 2026,
+      "title": "Multimodal Fusion for Underwater Localization Through Hierarchical Uncertainty Awareness",
+      "authors": "Yuanbo Xue<sup>†</sup>, <strong>Yaming Ou<sup>†</sup></strong>, Junfeng Fan<sup>*</sup>, Chao Zhou, Bing Wang<sup>*</sup>, Chih-Yung Wen",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "doi": "10.1109/TIM.2026.3694728",
+      "alt": "UA-AVIP fuses visual-inertial and acoustic-pressure estimates using measurement, module and system uncertainty awareness",
+      "badge": "TIM 2026",
+      "image": "/images/research/ua-avip-showcase-v2.png",
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1109/TIM.2026.3694728"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/HKPolyU-UAV/UA-AVIP"
+        }
+      ],
+      "url": "https://doi.org/10.1109/TIM.2026.3694728"
     },
     {
       "id": "pl-vap",
       "short_title": "PL-VAP",
       "badge": "TMech 2025",
       "title": "PL-VAP: A Tightly Coupled Self-Localization Framework for Underwater Robots Using Point-Line Features and Visual-Acoustic-Pressure Sensor Fusion",
-      "authors": "<strong>Yaming Ou</strong>, Song Xia, Junfeng Fan, et al.",
+      "authors": "<strong>Yaming Ou</strong>, Song Xia, Junfeng Fan<sup>*</sup>, Chao Zhou, Yupei Huang, Penghang Shuai, Yuanbo Xue, Zengguang Hou",
       "venue": "IEEE/ASME Transactions on Mechatronics",
       "year": 2025,
-      "image": "/images/research/pl-vap.jpg",
-      "alt": "Underwater localization results from PL-VAP",
+      "image": "/images/research/pl-vap-showcase-v2.png",
+      "alt": "PL-VAP combines underwater point and line observations with DVL and depth constraints in joint factor graph optimization",
       "description": "Tightly coupled point-line features and visual-acoustic-pressure fusion for robust underwater robot localization.",
       "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1109/TMECH.2025.3619496"
+        },
         {
           "label": "Animation",
           "url": "/vedio/PL-VAP.gif"
         }
       ],
-      "short_venue": "TMech"
+      "short_venue": "TMech",
+      "doi": "10.1109/TMECH.2025.3619496",
+      "url": "https://doi.org/10.1109/TMECH.2025.3619496"
     },
     {
       "id": "hybrid-vins",
       "short_title": "Hybrid-VINS",
-      "badge": "TIE 2024",
-      "title": "Hybrid-VINS: Underwater Tightly-Coupled Hybrid Visual Inertial Dense SLAM for AUV",
-      "authors": "<strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, et al.",
+      "badge": "TIE 2025",
+      "title": "Hybrid-VINS: Underwater Tightly Coupled Hybrid Visual Inertial Dense SLAM for AUV",
+      "authors": "<strong>Yaming Ou</strong>, Junfeng Fan<sup>*</sup>, Chao Zhou, Pengju Zhang, Zeng-Guang Hou",
       "venue": "IEEE Transactions on Industrial Electronics",
-      "year": 2024,
-      "url": "/publications/2024-06-01-TIE",
-      "image": "/images/research/hybrid-vins.jpg",
-      "alt": "Underwater mapping results from Hybrid-VINS",
+      "year": 2025,
+      "url": "https://doi.org/10.1109/TIE.2024.3440515",
+      "image": "/images/research/hybrid-vins-showcase-v2.png",
+      "alt": "Hybrid-VINS uses active structured-light depth to strengthen passive visual-inertial localization and dense mapping",
       "description": "Combining active vision with passive visual-inertial sensing for underwater localization and dense mapping.",
       "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1109/TIE.2024.3440515"
+        },
         {
           "label": "Details",
           "url": "/publications/2024-06-01-TIE"
@@ -292,21 +346,26 @@
           "url": "/vedio/2024-TIE-vedio.mp4"
         }
       ],
-      "short_venue": "TIE"
+      "short_venue": "TIE",
+      "doi": "10.1109/TIE.2024.3440515"
     },
     {
       "id": "navigation",
-      "short_title": "Underwater navigation",
-      "badge": "TSMC 2024",
+      "short_title": "ROV-Scanner",
+      "badge": "TSMC 2025",
       "title": "Structured Light-Based Underwater Collision-Free Navigation and Dense Mapping System for Refined Exploration in Unknown Dark Environments",
-      "authors": "<strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, et al.",
+      "authors": "<strong>Yaming Ou</strong>, Junfeng Fan<sup>*</sup>, Chao Zhou<sup>*</sup>, Song Kang, Zhuoliang Zhang, Zeng-Guang Hou, Min Tan",
       "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
-      "year": 2024,
-      "url": "/files/2024-03-18-TSMC.pdf",
-      "image": "/images/research/navigation.jpg",
-      "alt": "Structured light underwater navigation and mapping experiment",
+      "year": 2025,
+      "url": "https://doi.org/10.1109/TSMC.2024.3370917",
+      "image": "/images/research/navigation-showcase-v2.png",
+      "alt": "Scanning structured-light perception, multisensor fusion and local planning support collision-free navigation with a dense obstacle map",
       "description": "A scanning binocular structured light system for autonomous exploration and refined 3D mapping in dark underwater environments.",
       "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1109/TSMC.2024.3370917"
+        },
         {
           "label": "Paper",
           "url": "/files/2024-03-18-TSMC.pdf"
@@ -316,21 +375,26 @@
           "url": "/vedio/2024-03-18-TSMC_vedio.mp4"
         }
       ],
-      "short_venue": "TSMC"
+      "short_venue": "TSMC",
+      "doi": "10.1109/TSMC.2024.3370917"
     },
     {
       "id": "water-mbsl",
       "short_title": "Water-MBSL",
       "badge": "TII 2024",
       "title": "Water-MBSL: Underwater Movable Binocular Structured Light-Based High-Precision Dense Reconstruction Framework",
-      "authors": "<strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, et al.",
+      "authors": "<strong>Yaming Ou</strong>, Junfeng Fan<sup>*</sup>, Chao Zhou<sup>*</sup>, Long Cheng, Min Tan",
       "venue": "IEEE Transactions on Industrial Informatics",
       "year": 2024,
-      "url": "/files/2023-12-29-TII.pdf",
-      "image": "/images/research/water-mbsl.jpg",
-      "alt": "High precision underwater reconstruction from Water-MBSL",
+      "url": "https://doi.org/10.1109/TII.2023.3342899",
+      "image": "/images/research/water-mbsl-showcase-v2.png",
+      "alt": "Water-MBSL compensates robot motion during continuous laser scans and registers scans with generalized ICP",
       "description": "High-precision mobile 3D reconstruction with motion distortion compensation and point cloud registration.",
       "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1109/TII.2023.3342899"
+        },
         {
           "label": "Paper",
           "url": "/files/2023-12-29-TII.pdf"
@@ -340,21 +404,26 @@
           "url": "/vedio/2023-12-29-TII_vedio.mp4"
         }
       ],
-      "short_venue": "TII"
+      "short_venue": "TII",
+      "doi": "10.1109/TII.2023.3342899"
     },
     {
       "id": "pipeline",
       "short_title": "Pipeline tracking",
       "badge": "TIV 2024",
-      "title": "Structured Light Vision-Based Pipeline Tracking and 3D Reconstruction Method for Underwater Vehicle",
-      "authors": "Junfeng Fan, <strong>Yaming Ou*</strong>, Xuan Li, et al.",
+      "title": "Structured Light Vision Based Pipeline Tracking and 3D Reconstruction Method for Underwater Vehicle",
+      "authors": "Junfeng Fan, <strong>Yaming Ou<sup>*</sup></strong>, Xuan Li<sup>*</sup>, Chao Zhou, Zengguang Hou",
       "venue": "IEEE Transactions on Intelligent Vehicles",
       "year": 2024,
-      "url": "/files/2023-12-08-TIV.pdf",
-      "image": "/images/research/pipeline.jpg",
-      "alt": "Underwater vehicle tracking and reconstructing a pipeline",
+      "url": "https://doi.org/10.1109/TIV.2023.3340737",
+      "image": "/images/research/pipeline-showcase-v2.png",
+      "alt": "Dual-line laser sensing estimates three pipeline offsets for closed-loop vehicle tracking and curved-pipeline 3-D reconstruction",
       "description": "Dual-line laser vision for pipeline positioning, tracking, and simultaneous 3D reconstruction.",
       "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1109/TIV.2023.3340737"
+        },
         {
           "label": "Paper",
           "url": "/files/2023-12-08-TIV.pdf"
@@ -364,48 +433,77 @@
           "url": "/vedio/2023-12-08-TIV_vedio.mp4"
         }
       ],
-      "short_venue": "TIV"
+      "short_venue": "TIV",
+      "doi": "10.1109/TIV.2023.3340737"
     },
     {
       "id": "bsl",
       "short_title": "Binocular structured light",
       "badge": "TIM 2023",
       "title": "Binocular Structured Light 3-D Reconstruction System for Low-Light Underwater Environments: Design, Modeling, and Laser-Based Calibration",
-      "authors": "<strong>Yaming Ou</strong>, Junfeng Fan, Chao Zhou, et al.",
+      "authors": "<strong>Yaming Ou</strong>, Junfeng Fan<sup>*</sup>, Chao Zhou, Shifei Tian, Long Cheng, Min Tan",
       "venue": "IEEE Transactions on Instrumentation and Measurement",
       "year": 2023,
-      "url": "/files/2023-03-27-TIM.pdf",
-      "image": "/images/research/bsl.jpg",
-      "alt": "Design of the underwater binocular structured light reconstruction system",
+      "url": "https://doi.org/10.1109/TIM.2023.3261941",
+      "image": "/images/research/bsl-showcase-v2.png",
+      "alt": "Refraction-aware binocular and scanning-laser geometry with known-width calibration produces a dense underwater starfish reconstruction",
       "description": "System design, modeling, and laser-based calibration for high-precision 3D scanning in low-light underwater scenes.",
       "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1109/TIM.2023.3261941"
+        },
         {
           "label": "Paper",
           "url": "/files/2023-03-27-TIM.pdf"
         }
       ],
-      "short_venue": "TIM"
+      "short_venue": "TIM",
+      "doi": "10.1109/TIM.2023.3261941"
     }
   ],
   "other_publications": [
     {
-      "title": "Event-based underwater structured light system for high-speed 3D reconstruction",
-      "authors": "J. Fan, Y. Jia, <strong>Y. Ou*</strong>, C. Zhou*, et al.",
+      "title": "AEVINS: Tightly Coupled Acoustic-Event-Visual-Inertial Underwater Localization System in Complex Environments",
+      "authors": "X. Liu, J. Fan, <strong>Y. Ou</strong>, et al.",
       "venue": "IEEE/ASME Transactions on Mechatronics",
-      "year": 2026
+      "year": 2026,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JD82F9kAAAAJ&pagesize=100&citation_for_view=JD82F9kAAAAJ:_kc_bZDykSQC"
     },
     {
-      "title": "Multi-Modal Fusion for Underwater Localization through Hierarchical Uncertainty Awareness",
-      "authors": "Y. Xue<sup>†</sup>, <strong>Y. Ou<sup>†</sup></strong>, et al.",
+      "title": "Underwater Pipeline and Cable External Inspection Techniques: A Comprehensive Review",
+      "authors": "J. Fan, X. Liu, <strong>Y. Ou</strong>, et al.",
       "venue": "IEEE Transactions on Instrumentation and Measurement",
-      "year": 2026
+      "year": 2026,
+      "url": "https://doi.org/10.1109/TIM.2026.3671914"
     },
     {
-      "title": "Data Calibration Algorithm for Artificial Lateral Line Sensor of Robotic Fish on Improved LSTM",
-      "authors": "<strong>Y. Ou</strong>, Z. Zhang, C. Zhou, B. Zhou",
-      "venue": "Chinese Control Conference (CCC), Shanghai, China",
-      "year": 2021,
-      "url": "/files/2021-07-26-CCC.pdf"
+      "title": "Mapping and localization in unknown underwater electric field using passive electric sense system",
+      "authors": "P. Shuai, H. Li, C. Zhou, <strong>Y. Ou</strong>, et al.",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "year": 2025,
+      "url": "https://doi.org/10.1109/TIM.2025.3548185"
+    },
+    {
+      "title": "Underwater robot self-localization method using tightly coupled events, images, inertial, and acoustic fusion",
+      "authors": "J. Fan, X. Liu, <strong>Y. Ou</strong>, et al.",
+      "venue": "IEEE Transactions on Industrial Electronics",
+      "year": 2025,
+      "url": "https://doi.org/10.1109/TIE.2024.3476931"
+    },
+    {
+      "title": "Development, calibration, and image processing of underwater structured light vision system: A survey",
+      "authors": "J. Fan, X. Wang, C. Zhou, <strong>Y. Ou</strong>, et al.",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "year": 2023,
+      "url": "https://doi.org/10.1109/TIM.2023.3235420"
+    },
+    {
+      "title": "An underwater structured light vision calibration method considering unknown refractive index based on Aquila optimizer",
+      "authors": "X. Wang, J. Fan, S. Deng, Z. Wu, C. Zhou, <strong>Y. Ou</strong>, et al.",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "year": 2023,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JD82F9kAAAAJ&pagesize=100&citation_for_view=JD82F9kAAAAJ:UeHWp8X0CEIC"
     }
   ],
   "experience": [

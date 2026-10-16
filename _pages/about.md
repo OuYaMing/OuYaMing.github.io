@@ -30,14 +30,15 @@ redirect_from:
 <p><sup>*</sup> Corresponding author; <sup>†</sup> equal contribution. See also <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
 
 {% for paper in site.data.home.publications %}
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">{{ paper.badge }}</div><img src="{{ paper.image | relative_url }}" alt="{{ paper.alt | escape }}" width="100%" loading="lazy"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">{{ paper.badge }}</div><a href="{{ paper.image | relative_url }}" target="_blank" rel="noopener"><img src="{{ paper.image | relative_url }}" alt="{{ paper.alt | escape }}" width="100%" loading="lazy"></a></div></div>
 <div class="paper-box-text">
   <p>{% if paper.url %}<a href="{{ paper.url | relative_url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</p>
-  <p>{{ paper.authors }} {{ paper.venue }} (<strong>{{ paper.short_venue }}</strong>), {{ paper.year }}. {% for link in paper.links %}<a href="{{ link.url | relative_url }}">[{{ link.label }}]</a> {% endfor %}</p>
+  <p>{{ paper.authors }}. {{ paper.venue }} (<strong>{{ paper.short_venue }}</strong>), {{ paper.year }}. {% for link in paper.links %}<a href="{{ link.url | relative_url }}">[{{ link.label }}]</a> {% endfor %}</p>
 </div>
 </div>
 {% endfor %}
 
+<h2>Other Transactions Publications</h2>
 <ul>
 {% for paper in site.data.home.other_publications %}
   <li>{% if paper.url %}<a href="{{ paper.url | relative_url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}, {{ paper.authors }}. {{ paper.venue }}, {{ paper.year }}.{% if paper.url %} <a href="{{ paper.url | relative_url }}">[Paper]</a>{% endif %}</li>
