@@ -24,10 +24,6 @@
     {
       "id": "services",
       "label": "Service"
-    },
-    {
-      "id": "projects",
-      "label": "Projects"
     }
   ],
   "news": [
@@ -76,7 +72,7 @@
     {
       "date": "2026-04-29",
       "label": "2026.04",
-      "text": "Successfully defended my Ph.D. and received the CAS President’s Award.",
+      "text": "Successfully defended my Ph.D. and received the CAS President’s Excellence Award (中国科学院院长优秀奖).",
       "featured": true
     },
     {
@@ -160,7 +156,7 @@
     {
       "date": "2024-11-20",
       "label": "2024.11",
-      "text": "Awarded the China PhD National Scholarship; invited to review for IEEE Transactions on Industrial Electronics.",
+      "text": "Awarded the China PhD National Scholarship (博士研究生国家奖学金); invited to review for IEEE Transactions on Industrial Electronics.",
       "featured": true
     },
     {
@@ -663,7 +659,7 @@
   "awards": [
     {
       "year": 2026,
-      "text": "CAS President’s Award"
+      "text": "CAS President’s Excellence Award (中国科学院院长优秀奖)"
     },
     {
       "year": 2025,
@@ -675,7 +671,7 @@
     },
     {
       "year": 2024,
-      "text": "China PhD National Scholarship"
+      "text": "China PhD National Scholarship (博士研究生国家奖学金)"
     },
     {
       "year": 2024,

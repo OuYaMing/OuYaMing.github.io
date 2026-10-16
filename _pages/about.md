@@ -65,23 +65,16 @@ redirect_from:
   <li>Reviewer of ICRA 2026</li>
 </ul>
 
-<span class="anchor" id="experience"></span>
 <h1 id="-educations">🎓 Educations</h1>
 <ul>
   <li><em>2021.09 - 2026.06</em>, Institute of Automation, Chinese Academy of Sciences (CASIA), and School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS), Ph.D.</li>
   <li><em>2017.09 - 2021.06</em>, Southeast University, B.E. in Robotics Engineering. Materials Science and Engineering (2017–2018); School of Automation (2018–2021).</li>
 </ul>
-<h2>Experiences</h2>
+<span class="anchor" id="experience"></span>
+<h1 id="-experiences">💼 Experiences</h1>
 <ul>
   <li><em>2026.06 - 2029.06</em>, School of Artificial Intelligence, University of Chinese Academy of Sciences, Research Fellow.</li>
   <li><em>2025.03 - 2026.03</em>, Robotics Institute, Carnegie Mellon University, Visiting Scholar.</li>
 </ul>
 
-<span class="anchor" id="projects"></span>
-<h1 id="-projects">💻 Projects</h1>
-<ul>
-{% for project in site.data.home.projects %}
-  <li><strong>{{ project.title }}</strong>. {{ project.description }} <a href="{{ project.video | relative_url }}">[Video]</a>{% if project.code %} <a href="{{ project.code }}">[Code]</a>{% endif %}</li>
-{% endfor %}
-</ul>
-<p><a href="{{ '/projects/' | relative_url }}">More projects</a> · <a href="{{ '/cv/' | relative_url }}">CV</a> · <a href="{{ '/year-archive/' | relative_url }}">Blog archive</a></p>
+<p><a href="{{ '/cv/' | relative_url }}">CV</a> · <a href="{{ '/year-archive/' | relative_url }}">Blog archive</a></p>
