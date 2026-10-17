@@ -73,7 +73,7 @@ redirect_from:
 <span class="anchor" id="experience"></span>
 <h1 id="-experiences">💼 Experiences</h1>
 <ul>
-  <li><em>2026.06 - 2029.06</em>, School of Artificial Intelligence, University of Chinese Academy of Sciences, Research Fellow.</li>
+  <li><em>2026.06 - 2029.06</em>, School of Artificial Intelligence, University of Chinese Academy of Sciences, Assistant Researcher.</li>
   <li><em>2025.03 - 2026.03</em>, Robotics Institute, Carnegie Mellon University, Visiting Scholar.</li>
 </ul>
 
